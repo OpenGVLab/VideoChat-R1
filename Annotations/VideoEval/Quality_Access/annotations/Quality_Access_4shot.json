@@ -1,0 +1,42 @@
+[
+    {
+        "video": "0506.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "low quality"
+    },
+    {
+        "video": "0717.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "low quality"
+    },
+    {
+        "video": "0423.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "low quality"
+    },
+    {
+        "video": "0340.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "low quality"
+    },
+    {
+        "video": "3208.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "high quality"
+    },
+    {
+        "video": "3424.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "high quality"
+    },
+    {
+        "video": "3126.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "high quality"
+    },
+    {
+        "video": "3048.mp4",
+        "instruction": "How about the quality of the video from an aesthetic and technical point of view? Choice one answer from ['low quality', 'high quality'].",
+        "answer": "high quality"
+    }
+]
