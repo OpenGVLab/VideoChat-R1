@@ -42,14 +42,6 @@ class GRPOScriptArguments(ScriptArguments):
         reward_funcs (`list[str]`):
             List of reward functions. Possible values: 'iou', 'format'.
     """
-    # "gqa_iou": iou_glue_reward, # Modified registry to use iou_timestamp_reward
-    # "gqa_reward": answer_reward,
-    # "gqa_format": format_reward_gqa,
-    # "tg_iou": iou_timestamp_reward, # Modified registry to use iou_timestamp_reward
-    # "tg_format": format_reward_tg,
-    #     "tracking_iou": tracking_iou_reward, # Modified registry to use iou_timestamp_reward
-    # "tracking_format": tracking_iou_reward,
-    # "tracking_pad": pad
     reward_funcs: list[str] = field(
         default_factory=lambda: ["gqa_iou", "gqa_format", "gqa_reward", "tg_iou", "tg_format", "tg_pad", "tracking_iou", "tracking_format", "tracking_pad"],
         metadata={"help": "List of reward functions. Possible values: 'iou', 'format'"},
@@ -64,38 +56,33 @@ class GRPOScriptArguments(ScriptArguments):
     )
 
     train_data_path_tg: str = field(
-        default="/share/wy/Video/Charades/charades_annotation/train.json",
+        default="/your_root/Annotations/Charades/charades_annotation/train.json",
         metadata={"help": "Path to the training data JSON file."},
     )
     
     train_data_path_gqa: str = field(
-        default="/share/wy/Video/Charades/charades_annotation/train.json",
+        default="/your_root/Annotations/NextGQA/nextgqa_val.json",
         metadata={"help": "Path to the training data JSON file."},
     )
     
     train_data_path_tracking: str = field(
-        default="/mnt/petrelfs/yanziang/videoo1/TimeZero/got/got_train.json",
+        default="/your_root/Annotations/Got/got_train.json",
         metadata={"help": "Path to the training data JSON file."},
-    )
-    
-    eval_data_path: str = field(
-        default="/mnt/petrelfs/yanziang/videoo1/TimeZero/got/got_train.json",
-        metadata={"help": "Path to the evaluation data JSON file."},
     )
 
     video_folder_tg: str = field(
-        default="/share/wy/Video/Charades/Charades_v1",  # Replace with your actual video folder path
+        default="/Your_video_path/Charades_v1",  # Replace with your actual video folder path
         metadata={"help": "Path to the folder containing video files."},
     )
     
     
     video_folder_gqa: str = field(
-        default="/share/wy/Video/Charades/Charades_v1",  # Replace with your actual video folder path
+        default="/Your_video_path/NextGQA",  # Replace with your actual video folder path
         metadata={"help": "Path to the folder containing video files."},
     )
     
     video_folder_tracking: str = field(
-        default="",  # Replace with your actual video folder path
+        default="/Your_video_path/GOT",  # Replace with your actual video folder path
         metadata={"help": "Path to the folder containing video files."},
     )
 
@@ -106,19 +93,14 @@ def is_valid_two_d_list_format(s):
     if not re.match(pattern, s):
         return False
     try:
-        # 尝试将字符串转换为 Python 对象
         lst = ast.literal_eval(s)
-        # 检查对象是否为列表
         if not isinstance(lst, list):
             return False
-        # 检查列表中的每个元素是否为元组
         for item in lst:
             if not isinstance(item, tuple):
                 return False
-            # 检查元组是否包含两个元素
             if len(item) != 2:
                 return False
-            # 检查元组中的元素是否为数字
             for num in item:
                 if not isinstance(num, (int, float)):
                     return False
@@ -186,10 +168,6 @@ def iou_glue_reward(completions, solution, durations, **kwargs): # Modified rewa
         
         return intersection / union
 
-    # # 示例用法
-    # list_a = [[0, 3], [2, 4], [22, 25]]
-    # list_b = [[1, 5], [2, 2], [2, 4]]
-    # iou = compute_iou(list_a, list_b)
 
     rewards = []
     # print(completions, solution, durations, **kwargs)
@@ -374,28 +352,21 @@ def format_reward_tg(completions, **kwargs):
     return [1.0 if match else 0.0 for match in matches]
 
 def pad(completions, **kwargs):
-    """Reward function that checks if the completion has a specific format."""
-    # pattern = re.compile(r'<think>.*?</think>\s*<answer>.*?</answer>', re.DOTALL)
-    # matches = [re.fullmatch(pattern, content.strip()) for content in completions]
-    # print('matches:', matches)
+    """Return 0"""
     return [0 for content in completions]
 
 
 def is_valid_list_of_lists(s):
     try:
-        # 尝试将字符串解析为 Python 对象
         s = s.replace('\n', '')
         data = ast.literal_eval(s)
         
-        # 检查解析后的对象是否是一个列表
         if not isinstance(data, list):
             return False
         
-        # 检查列表的长度是否为 8
         if len(data) != 8:
             return False
         
-        # 检查列表中的每个元素是否是长度为 4 的列表
         for element in data:
             if not (isinstance(element, list) and len(element) == 4):
                 return False
@@ -553,7 +524,7 @@ reward_funcs_registry = {
 
 
 
-def load_json_dataset_gqa(train_data_path, eval_data_path, video_folder):#, preprocessed_data_path=None): # Modified to accept preprocessed_data_path
+def load_json_dataset_gqa(train_data_path, video_folder):#, preprocessed_data_path=None): # Modified to accept preprocessed_data_path
     def create_dataset_from_json(file_path, split_name):
         with open(file_path, 'r', encoding="utf-8") as f:
             data = json.load(f)
@@ -583,7 +554,7 @@ def load_json_dataset_gqa(train_data_path, eval_data_path, video_folder):#, prep
     # eval_dataset = create_dataset_from_json(eval_data_path, "eval")
     return train_dataset
 
-def load_json_dataset_tg(train_data_path, eval_data_path, video_folder, preprocessed_data_path=None): # Modified to accept preprocessed_data_path
+def load_json_dataset_tg(train_data_path, video_folder): # Modified to accept preprocessed_data_path
     def create_dataset_from_json(file_path, split_name):
         with open(file_path, 'r') as f:
             data = json.load(f)
@@ -610,8 +581,6 @@ def load_json_dataset_tg(train_data_path, eval_data_path, video_folder, preproce
                     "durations": video_data['duration'],
                     "data_type": "tg" # Initialize video_path as None
                 }
-                # if preprocessed_data_path != "": # If preprocessed data path is provided, construct the path
-                #     example["video_path"] = video_path
                 examples.append(example)
 
         random.shuffle(examples)
@@ -620,26 +589,12 @@ def load_json_dataset_tg(train_data_path, eval_data_path, video_folder, preproce
         dataset = Dataset.from_list(examples)
 
         example = dataset[[0]]
-        # import pdb;pdb.set_trace()
-        # return example
-        data_to_return = {k: v for k, v in example.items()} # Create a copy to avoid modifying original dataset
-
-        # print(data_to_return
-        # import pdb;pdb.set_trace()
-        
-        # messages = [{"role": "user", "content": [{"type": "video", "video": example["video_path"][0], "total_pixels": 3584 * 28 * 28, "min_pixels": 16 * 28 *28,},]}]
-        # # import pdb;pdb.set_trace()
-        # # image_inputs, video_inputs, video_kwargs = process_vision_info(messages, return_video_kwargs=True)
-        # image_inputs, video_inputs, video_kwargs = process_vision_info([messages], return_video_kwargs=True)
-
-
         return dataset
     train_dataset = create_dataset_from_json(train_data_path, "train")
-    # eval_dataset = create_dataset_from_json(eval_data_path, "eval")
     return train_dataset
 
 
-def load_json_dataset_tracking(train_data_path, eval_data_path, video_folder):#, preprocessed_data_path=None): # Modified to accept preprocessed_data_path
+def load_json_dataset_tracking(train_data_path, video_folder):#, preprocessed_data_path=None): # Modified to accept preprocessed_data_path
     def create_dataset_from_json(file_path, split_name):
         with open(file_path, 'r', encoding="utf-8") as f:
             data = json.load(f)
@@ -660,9 +615,8 @@ def load_json_dataset_tracking(train_data_path, eval_data_path, video_folder):#,
             first_element = sorted_files[0]
             last_element = sorted_files[-1]
             nframes = len(sorted_files)
-            # 计算中间均匀分布的六个元素的索引
-            step = (nframes - 1) / 6  # 均匀间隔步长
-            middle_indices = [int(i * step) for i in range(1, 6)]  # 跳过第一个和最后一个
+            step = (nframes - 1) / 6  
+            middle_indices = [int(i * step) for i in range(1, 6)]
             middle_elements = [sorted_files[i] for i in middle_indices]
             
             result = [first_element] + middle_elements + [last_element]
@@ -723,21 +677,11 @@ def main(script_args, training_args, model_args):
         # script_args.preprocessed_data_path # Pass preprocessed_data_path
     )
     # 创建 ConcatDataset
-    # print(dataset_tg.__getitem__([0]).keys())
-    # print(dataset_gqa.__getitem__([0]).keys())
-    # print(len(dataset_tg), len(dataset_gqa))
-    # import pdb; pdb.set_trace()
     dataset = ConcatDataset([dataset_tg, dataset_gqa, dataset_tracking])
     def __getitem__(self, idx): # Define getitem within the scope where dataset is available
         try:   
             example = dataset[idx]
             data_to_return = {k: v for k, v in example.items()} # Create a copy to avoid modifying original dataset
-
-        # try:
-            messages = [{"role": "user", "content": [{"type": "video", "video": example["video_path"], "total_pixels": 3584 * 28 * 28, "min_pixels": 16 * 28 * 28,},]}]
-            # image_inputs, video_inputs, video_kwargs = process_vision_info([messages], return_video_kwargs=True)
-            # data_to_return["video_inputs"] = [video_inputs]
-            # data_to_return["video_kwargs"] = [video_kwargs]
         
         except Exception as e:
             print(f"Warning: Error loading preprocessed data from {example['video_path'][0]}, falling back to video_path. Error: {e}")
@@ -760,17 +704,6 @@ def main(script_args, training_args, model_args):
     
     print("using: ", trainer_cls)
 
-    # from peft import LoraConfig, get_peft_model
-
-    # lora_config = LoraConfig(
-    #     task_type="CAUSAL_LM",
-    #     target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-    #     inference_mode=False,
-    #     r=64,
-    #     lora_alpha=16,
-    #     lora_dropout=0.05,
-    #     bias="none",
-    # )
 
     # Initialize the GRPO trainer
     trainer = trainer_cls(
