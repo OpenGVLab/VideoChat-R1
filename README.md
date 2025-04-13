@@ -14,7 +14,6 @@ Perception via Reinforcement Fine-Tuning</a></h2>
 </p>
 
 
-
 </div>
 
 
@@ -32,8 +31,7 @@ Perception via Reinforcement Fine-Tuning</a></h2>
 
 ## Demo & Inference
 
-TBD
-<!-- Refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-2B_res448) to inference our model. -->
+Refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) to inference our model.
 
 ## Evaluation
 
