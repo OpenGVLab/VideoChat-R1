@@ -1,4 +1,4 @@
-from data_configs import DATASETS
+from data_config import DATASETS
 import argparse
 import numpy as np
 import json
@@ -11,21 +11,43 @@ from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from src.open_r1.my_qwen_utils import process_vision_info
 import random
 import ast
+import os
+import json
+from math import ceil
+from eval_prompts import GQA_THINK_ANSWER_GLUE as GQA_TEMPLATE 
 
+def split_data(data, num_gpus):
+    is_dict = isinstance(data, dict)
 
-client=None
+    if is_dict:
+        data = list(data.items())
+    elif not isinstance(data, list):
+        data = list(data)
+
+    data_size = len(data)
+    chunk_size = ceil(data_size / num_gpus)  
+    chunks = [data[i * chunk_size:(i + 1) * chunk_size] for i in range(num_gpus)]
+
+    if is_dict:
+        chunks = [dict(chunk) for chunk in chunks]
+
+    return chunks
+
+from petrel_client.client import Client
+conf_path = '~/petreloss.conf'
+client = Client(conf_path)
 
 VIDEO_INFO_CACHE = {}
 
 def get_args():
-    parser = argparse.ArgumentParser(description='Evaluation for training-free video temporal grounding (Single GPU Version)')
-    parser.add_argument('--dataset', default='charades', type=str, help='Specify the dataset.')
+    parser = argparse.ArgumentParser(description='Evaluation for nextgqa')
+    parser.add_argument('--dataset', default='nextgqa', type=str, help='Specify the dataset.')
     parser.add_argument('--split', default='default', type=str, help='Specify the split.')
     parser.add_argument("--model_base", type=str, default="/path/to/qwen-model")
     parser.add_argument("--batch_size", type=int, default=1, help="Batch size")
-    parser.add_argument("--checkpoint_dir", type=str, default="checkpoints", help="Directory to save checkpoints")
+    parser.add_argument("--result_dir", type=str, default="checkpoints", help="Directory to save checkpoints")
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
-    parser.add_argument("--device", type=str, default="cuda:0", help="GPU device to use")
+    parser.add_argument("--num_gpus", type=int, default=8, help="GPU device to use")
     return parser.parse_args()
 
 def calc_iou(candidates, gt):
@@ -74,7 +96,7 @@ def inference(video_path, prompt, model, processor, max_new_tokens=2048, device=
     inputs = inputs.to(device)
 
     with torch.no_grad():
-        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens)
+        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens, use_cache=True)
     
     generated_ids = [output_ids[i][len(inputs.input_ids[i]):] for i in range(len(output_ids))]
     output_text = processor.batch_decode(generated_ids, skip_special_tokens=True, clean_up_tokenization_spaces=True)
@@ -103,12 +125,7 @@ def parse_timestamp_output(output_string):
     except ValueError:
         return None, None
 
-GQA_TEMPLATE = """Answer the question: "[QUESTION]" according to the content of the video. Select the answer from :[OPTION].
 
-Output your thought process within the <think> </think> tags, including analysis with either specific timestamps (xx.xx) or time ranges (xx.xx to xx.xx) in <timestep> </timestep> tags.
-
-Then, provide your answer within the <answer> </answer> tags, output the corresponding letter of the option. At the same time, in the <glue> </glue> tags, present the precise time period in seconds of the video clips on which you base your answer to this question in the format of [(s1, e1), (s2, e2), ...]. For example: <answer>A</answer><glue>[(5.2, 10.4)]</glue>.
-"""
 
 def create_work_items(data, video_root):
     examples = []
@@ -165,53 +182,43 @@ def extract_characters_regex(s):
 
 
 def merge_intervals(intervals):
-    """合并重叠或相邻的时间区间"""
     if not intervals:
         return []
     intervals = [list(i) for i in intervals] # tuple to list
-    # 按起始时间排序
     sorted_intervals = sorted(intervals, key=lambda x: x[0])
-    merged = [sorted_intervals[0][:]]  # 复制第一个区间
+    merged = [sorted_intervals[0][:]]
     for current in sorted_intervals[1:]:
         last = merged[-1]
         if current[0] <= last[1]:
-            # 合并区间
             merged[-1][1] = max(last[1], current[1])
         else:
             merged.append(current[:])
     
-    # print(merged)
     return merged
 
 def compute_iou(list_a, list_b):
-    # 合并两个列表的区间
     merged_a = merge_intervals(list_a)
     merged_b = merge_intervals(list_b)
     
-    # 计算各自的总长度
     len_a = sum(end - start for start, end in merged_a)
     len_b = sum(end - start for start, end in merged_b)
     
-    # 计算交集的总长度
     intersection = 0
     i = j = 0
     while i < len(merged_a) and j < len(merged_b):
         a_start, a_end = merged_a[i]
         b_start, b_end = merged_b[j]
         
-        # 计算当前两个区间的重叠部分
         start = max(a_start, b_start)
         end = min(a_end, b_end)
         if start < end:
             intersection += end - start
         
-        # 移动指针
         if a_end < b_end:
             i += 1
         else:
             j += 1
     
-    # 计算并集总长度
     union = len_a + len_b - intersection
     if union == 0:
         return 1.0
@@ -223,19 +230,14 @@ def is_valid_two_d_list_format(s):
     if not re.match(pattern, s):
         return False
     try:
-        # 尝试将字符串转换为 Python 对象
         lst = ast.literal_eval(s)
-        # 检查对象是否为列表
         if not isinstance(lst, list):
             return False
-        # 检查列表中的每个元素是否为元组
         for item in lst:
             if not isinstance(item, tuple):
                 return False
-            # 检查元组是否包含两个元素
             if len(item) != 2:
                 return False
-            # 检查元组中的元素是否为数字
             for num in item:
                 if not isinstance(num, (int, float)):
                     return False
@@ -244,10 +246,22 @@ def is_valid_two_d_list_format(s):
         return True
     except:
         return False
+
+def append_to_jsonl(file_path, data):
     
-def process_work_items(work_items, model_base, device, checkpoint_dir, resume=False):
+    try:
+        with open(file_path, 'a', encoding='utf-8') as f:
+            json_line = json.dumps(data, ensure_ascii=False)  
+            f.write(json_line + '\n')  
+    except Exception as e:
+        print(f"写入文件时发生错误: {e}")
+
+def process_work_items(work_items, model_base, device, result_dir, resume=False):
     model, processor = setup_model(model_base, device)
     
+    os.makedirs(f"{result_dir}/{model_base.replace('/', '-')}_gqa", exist_ok=True)
+    log_path = f"{result_dir}/{model_base.replace('/', '-')}_gqa/{device}.jsonl"
+    print(log_path)
     pbar = tqdm(work_items)
     for idx, item in enumerate(pbar):
         video_path = item['video_path']
@@ -258,61 +272,58 @@ def process_work_items(work_items, model_base, device, checkpoint_dir, resume=Fa
 
         accs = []
         ious = []
-        # 处理视频
-        if video_path:
-            try:
-                ans = inference(video_path, prompt, model, processor, device=device)
-                print("==============", video_path)
-                print(prompt)
-                print("---------------")
-                print(ans)
-                print(item["solution"])
-                pattern_answer = r'<answer>(.*?)</answer>'
-                match_answer = re.search(pattern_answer, ans, re.DOTALL)
 
-                acc = 0.0
-                if match_answer:
-                    answer = match_answer.group(1)
-                    if extract_characters_regex(answer) == extract_characters_regex(item["solution"]["answer"]):
-                        acc = 1.0
+        try:
+            ans = inference(video_path, prompt, model, processor, device=device)
 
-                accs.append(acc)
+            pattern_answer = r'<answer>(.*?)</answer>'
+            match_answer = re.search(pattern_answer, ans, re.DOTALL)
 
-                # IoU
+            acc = 0.0
+            if match_answer:
+                answer = match_answer.group(1)
+                if extract_characters_regex(answer) == extract_characters_regex(item["solution"]["answer"]):
+                    acc = 1.0
 
-                pattern_glue = r'<glue>(.*?)</glue>'
-                match_glue = re.search(pattern_glue, ans, re.DOTALL)
+            accs.append(acc)
 
-                if match_glue:
-                    glue = match_glue.group(1)
-                    if is_valid_two_d_list_format(glue):
-                        pred_glue = ast.literal_eval(glue)
-                        iou = compute_iou(pred_glue, item["solution"]["glue"])
-                else:
-                    iou = 0.0
-                ious.append(iou)
-                
+            # IoU
 
-                pbar.set_postfix({"mIoU": sum(ious)/len(ious), 'accuracy': sum(accs)/len(accs)})
-                
-            except Exception as e:
-                raise e
+            pattern_glue = r'<glue>(.*?)</glue>'
+            match_glue = re.search(pattern_glue, ans, re.DOTALL)
+
+            if match_glue:
+                glue = match_glue.group(1)
+                if is_valid_two_d_list_format(glue):
+                    pred_glue = ast.literal_eval(glue)
+                    iou = compute_iou(pred_glue, item["solution"]["glue"])
+            else:
+                iou = 0.0
+            ious.append(iou)
+            
+            item_res = {'video_path': video_path, 'prompt':prompt, 'gt':item["solution"], 'pred':ans, 'acc':acc, 'iou':iou }
+            append_to_jsonl(log_path, item_res)
+            
+            pbar.set_postfix({"mIoU": sum(ious)/len(ious), 'accuracy': sum(accs)/len(accs)})
+            
+        except Exception as e:
+            print(f"Error processing {video_path}: {e}")
     
-    print('=== final result ===')
+    print(f'=== {log_path} result ===')
     # if ious:
     print('mIoU:', sum(ious) / len(ious))
     print("Accuacy:", sum(accs)/len(accs))
                 
     return ious, accs
 
-def evaluate(data, video_root, args):
+def evaluate(data, video_root, slurm_procid, args):
     work_items = create_work_items(data, video_root=video_root)
     
     ious, accs = process_work_items(
         work_items, 
         args.model_base, 
-        args.device, 
-        args.checkpoint_dir,
+        f'cuda:{slurm_procid}', 
+        f'{args.result_dir}_{slurm_procid}',
         args.resume
     )
     
@@ -321,8 +332,22 @@ def evaluate(data, video_root, args):
 if __name__=='__main__':
     args = get_args()
 
-    # load data
-    with open("your_base_dir/NextGQA/nextgqa_test.json", "r") as f:
-        data = json.load(f)
+    assert args.dataset in DATASETS
+    dataset = DATASETS[args.dataset]
+    assert args.split in dataset['splits']
+    
+    print('evaluate', args.dataset, args.split)
+    
 
-    evaluate(data, "p2:s3://nextqa", args)
+    slurm_procid = int(os.environ.get('SLURM_PROCID', 0))  # 当前进程的全局 ID
+    print(f"slurm_procid: {slurm_procid}")
+    num_gpus = args.num_gpus
+    with open(dataset['splits'][args.split]['annotation_file']) as f:
+        data = json.load(f)
+    data_chunks = split_data(data, num_gpus)
+    current_data_chunk = data_chunks[slurm_procid]
+    gpu_count = torch.cuda.device_count()
+    print(f"可用的 GPU 数量: {gpu_count}")
+    assert gpu_count == num_gpus, gpu_count
+    
+    evaluate(current_data_chunk, dataset['video_path'], slurm_procid, args)

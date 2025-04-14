@@ -1,4 +1,4 @@
-from data_configs import DATASETS
+from data_config import DATASETS
 import argparse
 import numpy as np
 import json
@@ -14,32 +14,21 @@ import ast
 import os
 import json
 from math import ceil
-
+from eval_prompts import QA_THINK as QA_TEMPLATE
 
 def split_data(data, num_gpus):
-    """
-    将数据均匀分割为 num_gpus 块。
-    如果数据量不能被 num_gpus 整除，最后一块会包含多余的元素。
-    如果数据是字典，则返回的每个块也是字典。
-    """
-    # 记录原始数据类型
+
     is_dict = isinstance(data, dict)
 
-    # 确保 data 是可切片的对象
     if is_dict:
-        # 如果是字典，将其转换为 (key, value) 列表
         data = list(data.items())
     elif not isinstance(data, list):
-        # 如果既不是字典也不是列表，尝试将其转换为列表
         data = list(data)
 
     data_size = len(data)
-    chunk_size = ceil(data_size / num_gpus)  # 每块的大小
-
-    # 分割数据
+    chunk_size = ceil(data_size / num_gpus)  
     chunks = [data[i * chunk_size:(i + 1) * chunk_size] for i in range(num_gpus)]
 
-    # 如果原始数据是字典，将每个块转换回字典
     if is_dict:
         chunks = [dict(chunk) for chunk in chunks]
 
@@ -50,14 +39,14 @@ client = None
 VIDEO_INFO_CACHE = {}
 
 def get_args():
-    parser = argparse.ArgumentParser(description='Evaluation for training-free video temporal grounding (Single GPU Version)')
-    parser.add_argument('--dataset', default='charades', type=str, help='Specify the dataset.')
+    parser = argparse.ArgumentParser(description='Evaluation for QA')
+    parser.add_argument('--dataset', default='nextgqa', type=str, help='Specify the dataset.')
     parser.add_argument('--split', default='default', type=str, help='Specify the split.')
     parser.add_argument("--model_base", type=str, default="/path/to/qwen-model")
     parser.add_argument("--batch_size", type=int, default=1, help="Batch size")
-    parser.add_argument("--checkpoint_dir", type=str, default="checkpoints", help="Directory to save checkpoints")
+    parser.add_argument("--result_dir", type=str, default="checkpoints", help="Directory to save checkpoints")
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
-    parser.add_argument("--device", type=str, default="cuda:0", help="GPU device to use")
+    parser.add_argument("--num_gpus", type=int, default=8, help="GPU device to use")
     return parser.parse_args()
 
 
@@ -101,7 +90,7 @@ def inference(video_path, prompt, model, processor, max_new_tokens=2048, device=
     inputs = inputs.to(device)
 
     with torch.no_grad():
-        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens)
+        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens, use_cache=True)
     
     generated_ids = [output_ids[i][len(inputs.input_ids[i]):] for i in range(len(output_ids))]
     output_text = processor.batch_decode(generated_ids, skip_special_tokens=True, clean_up_tokenization_spaces=True)
@@ -130,12 +119,7 @@ def parse_timestamp_output(output_string):
     except ValueError:
         return None, None
 
-QA_TEMPLATE = """Answer the question: "[QUESTION]" according to the content of the video. Select the answer from :[OPTION].
 
-Output your thought process within the <think> </think> tags, including analysis with either specific timestamps (xx.xx) or time ranges (xx.xx to xx.xx) in <timestep> </timestep> tags.
-
-Then, provide your answer within the <answer> </answer> tags, output the corresponding letter of the option.
-"""
 
 def create_work_items(data, video_root):
     examples = []
@@ -192,22 +176,18 @@ def extract_characters_regex(s):
 
 
 def merge_intervals(intervals):
-    """合并重叠或相邻的时间区间"""
     if not intervals:
         return []
-    intervals = [list(i) for i in intervals] # tuple to list
-    # 按起始时间排序
+    intervals = [list(i) for i in intervals] 
     sorted_intervals = sorted(intervals, key=lambda x: x[0])
-    merged = [sorted_intervals[0][:]]  # 复制第一个区间
+    merged = [sorted_intervals[0][:]]  
     for current in sorted_intervals[1:]:
         last = merged[-1]
         if current[0] <= last[1]:
-            # 合并区间
             merged[-1][1] = max(last[1], current[1])
         else:
             merged.append(current[:])
     
-    # print(merged)
     return merged
 
 
@@ -216,50 +196,37 @@ def is_valid_two_d_list_format(s):
     if not re.match(pattern, s):
         return False
     try:
-        # 尝试将字符串转换为 Python 对象
         lst = ast.literal_eval(s)
-        # 检查对象是否为列表
         if not isinstance(lst, list):
             return False
-        # 检查列表中的每个元素是否为元组
         for item in lst:
             if not isinstance(item, tuple):
                 return False
-            # 检查元组是否包含两个元素
             if len(item) != 2:
                 return False
-            # 检查元组中的元素是否为数字
             for num in item:
                 if not isinstance(num, (int, float)):
                     return False
-            if item[0] > item[1]: # 保证符合时序区间
+            if item[0] > item[1]: 
                 return False
         return True
     except:
         return False
 
 def append_to_jsonl(file_path, data):
-    """
-    追加模式写入 JSONL 文件。
 
-    参数:
-        file_path (str): JSONL 文件路径。
-        data (dict): 要写入的 JSON 对象（Python 字典）。
-    """
     try:
-        # 以追加模式打开文件
         with open(file_path, 'a', encoding='utf-8') as f:
-            # 将数据序列化为 JSON 字符串并写入文件
-            json_line = json.dumps(data, ensure_ascii=False)  # 确保非 ASCII 字符正确编码
-            f.write(json_line + '\n')  # 每行一个 JSON 对象
+            json_line = json.dumps(data, ensure_ascii=False) 
+            f.write(json_line + '\n')  
     except Exception as e:
         print(f"写入文件时发生错误: {e}")
 
-def process_work_items(work_items, model_base, device, checkpoint_dir, resume=False):
+def process_work_items(work_items, model_base, device, result_dir, resume=False):
     model, processor = setup_model(model_base, device)
     
-    os.makedirs(f"./eval_logs/{model_base.replace('/', '-')}_qa", exist_ok=True)
-    log_path = f"./eval_logs/{model_base.replace('/', '-')}_qa/{device}.jsonl"
+    os.makedirs(f"{result_dir}/{model_base.replace('/', '-')}_qa", exist_ok=True)
+    log_path = f"{result_dir}/{model_base.replace('/', '-')}_qa/{device}.jsonl"
     print(log_path)
     pbar = tqdm(work_items)
     for idx, item in enumerate(pbar):
@@ -294,7 +261,7 @@ def process_work_items(work_items, model_base, device, checkpoint_dir, resume=Fa
         except Exception as e:
             print(f"Error processing {video_path}: {e}")
     
-    print('=== final result ===')
+    print(f'=== {log_path} result ===')
     print("Accuacy:", sum(accs)/len(accs))
                 
     return accs
@@ -306,7 +273,7 @@ def evaluate(data, video_root, slurm_procid, args):
         work_items, 
         args.model_base, 
         f'cuda:{slurm_procid}', 
-        f'{args.checkpoint_dir}_{slurm_procid}',
+        f'{args.result_dir}_{slurm_procid}',
         args.resume
     )
     
@@ -315,13 +282,19 @@ def evaluate(data, video_root, slurm_procid, args):
 if __name__=='__main__':
     args = get_args()
 
-    # load data
-    with open("your_base_dir/NextGQA/nextgqa_test.json", "r") as f:
+    assert args.dataset in DATASETS
+    dataset = DATASETS[args.dataset]
+    assert args.split in dataset['splits']
+    
+    print('evaluate', args.dataset, args.split)
+    
+
+    slurm_procid = int(os.environ.get('SLURM_PROCID', 0))  
+    print(f"slurm_procid: {slurm_procid}")
+    num_gpus = args.num_gpus
+    with open(dataset['splits'][args.split]['annotation_file']) as f:
         data = json.load(f)
 
-    slurm_procid = int(os.environ.get('SLURM_PROCID', 0))  # 当前进程的全局 ID
-    print(f"slurm_procid: {slurm_procid}")
-    num_gpus = 8  # 假设总共有 8 块 GPU
 
     data_chunks = split_data(data, num_gpus)
     current_data_chunk = data_chunks[slurm_procid]
@@ -329,4 +302,4 @@ if __name__=='__main__':
     print(f"可用的 GPU 数量: {gpu_count}")
     assert gpu_count == num_gpus, gpu_count
     
-    evaluate(current_data_chunk, "p2:s3://nextqa", slurm_procid, args)
+    evaluate(current_data_chunk, dataset['video_path'], slurm_procid, args)

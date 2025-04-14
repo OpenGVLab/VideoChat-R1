@@ -1,4 +1,4 @@
-from data_configs import DATASETS
+from data_config import DATASETS
 import argparse
 import numpy as np
 import json
@@ -8,25 +8,25 @@ import re
 import pickle
 import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
-from src.open_r1.my_qwen_utils import process_vision_info
+from my_qwen_utils import process_vision_info
 import random
-
+from eval_prompts import GROUND_TEMPLATE_THINK as GROUND_TEMPLATE
 from math import ceil
 
-
-client = None
-
+from petrel_client.client import Client
+conf_path = '~/petreloss.conf'
+client = Client(conf_path)
 VIDEO_INFO_CACHE = {}
 
 def get_args():
-    parser = argparse.ArgumentParser(description='Evaluation for training-free video temporal grounding (Single GPU Version)')
-    parser.add_argument('--dataset', default='charades', type=str, help='Specify the dataset.')
+    parser = argparse.ArgumentParser(description='Evaluation for video temporal grounding')
+    parser.add_argument('--dataset', default='charades', type=str, help='Specify the dataset, can be charades or anet')
     parser.add_argument('--split', default='default', type=str, help='Specify the split.')
-    parser.add_argument("--model_base", type=str, default="/path/to/qwen-model")
+    parser.add_argument("--model_base", type=str, default="your model")
     parser.add_argument("--batch_size", type=int, default=1, help="Batch size")
-    parser.add_argument("--checkpoint_dir", type=str, default="checkpoints", help="Directory to save checkpoints")
+    parser.add_argument("--result_dir", type=str, default="your log", help="Directory to save results")
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
-    parser.add_argument("--device", type=str, default="cuda:0", help="GPU device to use")
+    parser.add_argument("--num_gpus", type=int, default=8, help="GPU device to use")
     return parser.parse_args()
 
 def calc_iou(candidates, gt):
@@ -75,7 +75,7 @@ def inference(video_path, prompt, model, processor, max_new_tokens=2048, device=
     inputs = inputs.to(device)
 
     with torch.no_grad():
-        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens)
+        output_ids = model.generate(**inputs, max_new_tokens=max_new_tokens, use_cache=True)
     
     generated_ids = [output_ids[i][len(inputs.input_ids[i]):] for i in range(len(output_ids))]
     output_text = processor.batch_decode(generated_ids, skip_special_tokens=True, clean_up_tokenization_spaces=True)
@@ -104,11 +104,6 @@ def parse_timestamp_output(output_string):
     except ValueError:
         return None, None
 
-GROUND_TEMPLATE = """To accurately pinpoint the event "[EVENT]" in the video, determine the precise time period of the event.
-
-Output your thought process within the <think> </think> tags, including analysis with either specific timestamps (xx.xx) or time ranges (xx.xx to xx.xx) in <timestep> </timestep> tags.
-
-Then, provide the start and end times (in seconds, precise to two decimal places) in the format "start time to end time" within the <answer> </answer> tags. For example: "12.54 to 17.83"."""
 
 def create_work_items(data):
     work_items = []
@@ -119,7 +114,6 @@ def create_work_items(data):
                 'ann': ann,
                 'sentence_idx': i
             })
-    # 随机打乱列表
     random.shuffle(work_items)
     return work_items
 
@@ -135,9 +129,9 @@ def setup_model(model_base, device):
     processor = AutoProcessor.from_pretrained(model_base)
     return model, processor
 
-def get_checkpoint_path(checkpoint_dir):
-    os.makedirs(checkpoint_dir, exist_ok=True)
-    return os.path.join(checkpoint_dir, "checkpoint.pkl")
+def get_checkpoint_path(result_dir):
+    os.makedirs(result_dir, exist_ok=True)
+    return os.path.join(result_dir, "checkpoint.pkl")
 
 def load_checkpoint(checkpoint_path):
     if os.path.exists(checkpoint_path):
@@ -154,40 +148,22 @@ def save_checkpoint(checkpoint_path, state):
 import json
 
 def append_to_jsonl(file_path, data):
-    """
-    追加模式写入 JSONL 文件。
-
-    参数:
-        file_path (str): JSONL 文件路径。
-        data (dict): 要写入的 JSON 对象（Python 字典）。
-    """
     try:
-        # 以追加模式打开文件
         with open(file_path, 'a', encoding='utf-8') as f:
-            # 将数据序列化为 JSON 字符串并写入文件
             json_line = json.dumps(data, ensure_ascii=False)  # 确保非 ASCII 字符正确编码
             f.write(json_line + '\n')  # 每行一个 JSON 对象
     except Exception as e:
         print(f"写入文件时发生错误: {e}")
 
-def process_work_items(work_items, video_dir_path, model_base, device, checkpoint_dir, resume=False):
+def process_work_items(work_items, video_dir_path, model_base, device, result_dir, resume=False):
     ious = []
     thresh = np.array([0.3, 0.5, 0.7])
     recall = np.array([0, 0, 0])
     
-    os.makedirs(f"./eval_logs/{model_base.replace('/', '-')}_tg", exist_ok=True)
-    log_path = f"./eval_logs/{model_base.replace('/', '-')}_tg/{device}.jsonl"
+    os.makedirs(f"./{result_dir}/{model_base.replace('/', '-')}_tg", exist_ok=True)
+    log_path = f"{result_dir}/{model_base.replace('/', '-')}_tg/{device}.jsonl"
 
-    # 加载检查点（如果需要恢复）
-    # checkpoint_path = get_checkpoint_path(checkpoint_dir)
     processed_items = set()
-    
-    # if resume and os.path.exists(checkpoint_path):
-    #     checkpoint = load_checkpoint(checkpoint_path)
-    #     processed_items = checkpoint['processed_items']
-    #     ious = checkpoint['ious']
-    #     recall = checkpoint['recall']
-    #     print(f"Resuming from checkpoint with {len(processed_items)} processed items")
 
     model, processor = setup_model(model_base, device)
     
@@ -210,19 +186,13 @@ def process_work_items(work_items, video_dir_path, model_base, device, checkpoin
         
         prompt = GROUND_TEMPLATE.replace('[EVENT]', ann['sentences'][sentence_idx])
         
-        # 确定视频路径
         duration = ann['duration'] if 'duration' in ann else ann['video_duration']
         ext = 'mp4'
         video_path = os.path.join(video_dir_path, f"{vid}.{ext}")
-        # for ext in ['mp4', 'mkv', 'webm']:
-        #     path = os.path.join(video_dir_path, f"{vid}.{ext}")
-        #     if os.path.isfile(path):
-        #         video_path = path
-        #         break
-                
-        # 处理视频
+        
         if video_path:
             try:
+                # import pdb; pdb.set_trace()
                 ans = inference(video_path, prompt, model, processor, device=device)
                 # print('prompt', prompt)
                 # print('ans', ans)
@@ -257,7 +227,7 @@ def process_work_items(work_items, video_dir_path, model_base, device, checkpoin
             except Exception as e:
                 print(f"Error processing {vid}_{sentence_idx}: {e}")
     
-    print('=== final result ===')
+    print(f'=== {log_path} result ===')
     # if ious:
     print('mIoU:', sum(ious) / len(ious))
     for th, r in zip(thresh, recall):
@@ -267,7 +237,7 @@ def process_work_items(work_items, video_dir_path, model_base, device, checkpoin
 
 def evaluate(data, args, slurm_procid):
     dataset = DATASETS[args.dataset]
-    video_dir_path = dataset['video_root']
+    video_dir_path = dataset['video_path']
     
     work_items = create_work_items(data)
     
@@ -276,7 +246,7 @@ def evaluate(data, args, slurm_procid):
         video_dir_path, 
         args.model_base, 
         f'cuda:{slurm_procid}', 
-        f'{args.checkpoint_dir}_{slurm_procid}',
+        f'{args.result_dir}_{slurm_procid}',
         args.resume
     )
     
@@ -284,29 +254,18 @@ def evaluate(data, args, slurm_procid):
 
 
 def split_data(data, num_gpus):
-    """
-    将数据均匀分割为 num_gpus 块。
-    如果数据量不能被 num_gpus 整除，最后一块会包含多余的元素。
-    如果数据是字典，则返回的每个块也是字典。
-    """
-    # 记录原始数据类型
+
     is_dict = isinstance(data, dict)
 
-    # 确保 data 是可切片的对象
     if is_dict:
-        # 如果是字典，将其转换为 (key, value) 列表
         data = list(data.items())
     elif not isinstance(data, list):
-        # 如果既不是字典也不是列表，尝试将其转换为列表
         data = list(data)
 
     data_size = len(data)
-    chunk_size = ceil(data_size / num_gpus)  # 每块的大小
-
-    # 分割数据
+    chunk_size = ceil(data_size / num_gpus)  #
     chunks = [data[i * chunk_size:(i + 1) * chunk_size] for i in range(num_gpus)]
 
-    # 如果原始数据是字典，将每个块转换回字典
     if is_dict:
         chunks = [dict(chunk) for chunk in chunks]
 
@@ -324,8 +283,8 @@ if __name__=='__main__':
     with open(dataset['splits'][args.split]['annotation_file']) as f:
         data = json.load(f)
 
-    slurm_procid = int(os.environ.get('SLURM_PROCID', 0))  # 当前进程的全局 ID
-    num_gpus = 8  # 假设总共有 8 块 GPU
+    slurm_procid = int(os.environ.get('SLURM_PROCID', 0))  
+    num_gpus = args.num_gpus
 
     data_chunks = split_data(data, num_gpus)
     current_data_chunk = data_chunks[slurm_procid]
