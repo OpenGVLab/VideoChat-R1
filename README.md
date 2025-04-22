@@ -19,6 +19,7 @@ Perception via Reinforcement Fine-Tuning</a></h2>
 
 
 ## :fire: Updates
+- [x] **2025/04/22**:🔥🔥🔥 We release our VideoChat-R1-caption at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
 - [x] **2025/04/14**:🔥🔥🔥 We release our VideoChat-R1 and  VideoChat-R1-thinking at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
 - [x] **2025/04/10**:🔥🔥🔥 We release our paper and code.
 
