@@ -1,0 +1,11 @@
+include: _default_template.yaml
+task: dream_1k_cn
+dataset_name: dream_1k
+test_split: train
+metric_list:
+  - metric: submission
+    aggregation: !function utils.video_caption_aggregate
+    higher_is_better: true
+lmms_eval_specific_kwargs:
+  default:
+    post_prompt: "详细描述该视频内容。"

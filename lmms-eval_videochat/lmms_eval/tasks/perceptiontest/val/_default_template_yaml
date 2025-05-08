@@ -1,0 +1,9 @@
+dataset_path:  lmms-eval_data/PerceptionTest_Val
+dataset_kwargs:
+  token: True
+  video: True
+  cache_dir: pssd:s3://perception/
+lmms_eval_specific_kwargs:
+  default:
+    pre_prompt: ""
+    post_prompt: ""
