@@ -24,10 +24,10 @@ srun torchrun --nproc_per_node="8" \
     --deepspeed scripts/zero3_offload.json \
     --output_dir $OUTDIR \
     --model_name_or_path your_base_dir/Qwen2.5-VL-7B-Instruct \
-    --train_data_path_gqa /mnt/petrelfs/share_data/lixinhao/videochat-next/reason_origin/nextgqa/nextgqa_val.json \
+    --train_data_path_gqa videochat-next/reason_origin/nextgqa/nextgqa_val.json \
     --train_data_path_tg ./Charades/charades_annotation/train.json \
     --train_data_path_tracking your_base_dir/track_got_train.json \
-    --eval_data_path /mnt/petrelfs/share_data/lixinhao/videochat-next/reason_origin/nextgqa/nextgqa_val.json \
+    --eval_data_path videochat-next/reason_origin/nextgqa/nextgqa_val.json \
     --video_folder_gqa p2:s3://nextqa \
     --video_folder_tg p2:s3://star/Charades_v1_480 \
     --dataset_name charades \

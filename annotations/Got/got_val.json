@@ -1,6 +1,6 @@
 [
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000010",
+        "path": "GOT-10k/val/GOT-10k_Val_000010",
         "object": "sloth",
         "gt": [
             [
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000111",
+        "path": "GOT-10k/val/GOT-10k_Val_000111",
         "object": "bhand truck",
         "gt": [
             [
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000157",
+        "path": "GOT-10k/val/GOT-10k_Val_000157",
         "object": "armadillo",
         "gt": [
             [
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000062",
+        "path": "GOT-10k/val/GOT-10k_Val_000062",
         "object": "tabby",
         "gt": [
             [
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000152",
+        "path": "GOT-10k/val/GOT-10k_Val_000152",
         "object": "indian rat snake",
         "gt": [
             [
@@ -270,7 +270,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000041",
+        "path": "GOT-10k/val/GOT-10k_Val_000041",
         "object": "worm lizard",
         "gt": [
             [
@@ -324,7 +324,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000076",
+        "path": "GOT-10k/val/GOT-10k_Val_000076",
         "object": "fall cankerworm",
         "gt": [
             [
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000170",
+        "path": "GOT-10k/val/GOT-10k_Val_000170",
         "object": "hedge sparrow",
         "gt": [
             [
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000114",
+        "path": "GOT-10k/val/GOT-10k_Val_000114",
         "object": "destroyer escort",
         "gt": [
             [
@@ -486,7 +486,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000180",
+        "path": "GOT-10k/val/GOT-10k_Val_000180",
         "object": "fire engine",
         "gt": [
             [
@@ -540,7 +540,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000138",
+        "path": "GOT-10k/val/GOT-10k_Val_000138",
         "object": "bicycle wheel",
         "gt": [
             [
@@ -594,7 +594,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000086",
+        "path": "GOT-10k/val/GOT-10k_Val_000086",
         "object": "merino",
         "gt": [
             [
@@ -648,7 +648,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000040",
+        "path": "GOT-10k/val/GOT-10k_Val_000040",
         "object": "polar hare",
         "gt": [
             [
@@ -702,7 +702,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000050",
+        "path": "GOT-10k/val/GOT-10k_Val_000050",
         "object": "bovine",
         "gt": [
             [
@@ -756,7 +756,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000051",
+        "path": "GOT-10k/val/GOT-10k_Val_000051",
         "object": "african elephant",
         "gt": [
             [
@@ -810,7 +810,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000135",
+        "path": "GOT-10k/val/GOT-10k_Val_000135",
         "object": "motorcycle wheel",
         "gt": [
             [
@@ -864,7 +864,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000166",
+        "path": "GOT-10k/val/GOT-10k_Val_000166",
         "object": "medusa",
         "gt": [
             [
@@ -918,7 +918,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000139",
+        "path": "GOT-10k/val/GOT-10k_Val_000139",
         "object": "angora cat",
         "gt": [
             [
@@ -972,7 +972,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000109",
+        "path": "GOT-10k/val/GOT-10k_Val_000109",
         "object": "lorry",
         "gt": [
             [
@@ -1026,7 +1026,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000075",
+        "path": "GOT-10k/val/GOT-10k_Val_000075",
         "object": "tree shrew",
         "gt": [
             [
@@ -1080,7 +1080,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000029",
+        "path": "GOT-10k/val/GOT-10k_Val_000029",
         "object": "quarter horse",
         "gt": [
             [
@@ -1134,7 +1134,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000105",
+        "path": "GOT-10k/val/GOT-10k_Val_000105",
         "object": "roadster",
         "gt": [
             [
@@ -1188,7 +1188,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000078",
+        "path": "GOT-10k/val/GOT-10k_Val_000078",
         "object": "yellow-throated marten",
         "gt": [
             [
@@ -1242,7 +1242,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000072",
+        "path": "GOT-10k/val/GOT-10k_Val_000072",
         "object": "lerot",
         "gt": [
             [
@@ -1296,7 +1296,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000134",
+        "path": "GOT-10k/val/GOT-10k_Val_000134",
         "object": "african elephant",
         "gt": [
             [
@@ -1350,7 +1350,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000118",
+        "path": "GOT-10k/val/GOT-10k_Val_000118",
         "object": "pt boat",
         "gt": [
             [
@@ -1404,7 +1404,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000096",
+        "path": "GOT-10k/val/GOT-10k_Val_000096",
         "object": "snow leopard",
         "gt": [
             [
@@ -1458,7 +1458,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000147",
+        "path": "GOT-10k/val/GOT-10k_Val_000147",
         "object": "alaskan brown bear",
         "gt": [
             [
@@ -1512,7 +1512,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000088",
+        "path": "GOT-10k/val/GOT-10k_Val_000088",
         "object": "deer",
         "gt": [
             [
@@ -1566,7 +1566,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000133",
+        "path": "GOT-10k/val/GOT-10k_Val_000133",
         "object": "car wheel",
         "gt": [
             [
@@ -1620,7 +1620,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000063",
+        "path": "GOT-10k/val/GOT-10k_Val_000063",
         "object": "tadpole shrimp",
         "gt": [
             [
@@ -1674,7 +1674,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000168",
+        "path": "GOT-10k/val/GOT-10k_Val_000168",
         "object": "ctenophore",
         "gt": [
             [
@@ -1728,7 +1728,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000021",
+        "path": "GOT-10k/val/GOT-10k_Val_000021",
         "object": "australian terrier",
         "gt": [
             [
@@ -1782,7 +1782,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000178",
+        "path": "GOT-10k/val/GOT-10k_Val_000178",
         "object": "big truck",
         "gt": [
             [
@@ -1836,7 +1836,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000057",
+        "path": "GOT-10k/val/GOT-10k_Val_000057",
         "object": "cruise missile",
         "gt": [
             [
@@ -1890,7 +1890,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000020",
+        "path": "GOT-10k/val/GOT-10k_Val_000020",
         "object": "australian terrier",
         "gt": [
             [
@@ -1944,7 +1944,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000009",
+        "path": "GOT-10k/val/GOT-10k_Val_000009",
         "object": "manatee",
         "gt": [
             [
@@ -1998,7 +1998,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000011",
+        "path": "GOT-10k/val/GOT-10k_Val_000011",
         "object": "anteater",
         "gt": [
             [
@@ -2052,7 +2052,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000065",
+        "path": "GOT-10k/val/GOT-10k_Val_000065",
         "object": "horseshoe crab",
         "gt": [
             [
@@ -2106,7 +2106,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000070",
+        "path": "GOT-10k/val/GOT-10k_Val_000070",
         "object": "black squirrel",
         "gt": [
             [
@@ -2160,7 +2160,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000060",
+        "path": "GOT-10k/val/GOT-10k_Val_000060",
         "object": "otter shrew",
         "gt": [
             [
@@ -2214,7 +2214,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000026",
+        "path": "GOT-10k/val/GOT-10k_Val_000026",
         "object": "stickleback",
         "gt": [
             [
@@ -2268,7 +2268,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000140",
+        "path": "GOT-10k/val/GOT-10k_Val_000140",
         "object": "rock hyrax",
         "gt": [
             [
@@ -2322,7 +2322,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000110",
+        "path": "GOT-10k/val/GOT-10k_Val_000110",
         "object": "lorry",
         "gt": [
             [
@@ -2376,7 +2376,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000085",
+        "path": "GOT-10k/val/GOT-10k_Val_000085",
         "object": "cotswold",
         "gt": [
             [
@@ -2430,7 +2430,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000023",
+        "path": "GOT-10k/val/GOT-10k_Val_000023",
         "object": "scotch terrier",
         "gt": [
             [
@@ -2484,7 +2484,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000059",
+        "path": "GOT-10k/val/GOT-10k_Val_000059",
         "object": "otter shrew",
         "gt": [
             [
@@ -2538,7 +2538,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000171",
+        "path": "GOT-10k/val/GOT-10k_Val_000171",
         "object": "black-crowned night heron",
         "gt": [
             [
@@ -2592,7 +2592,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000015",
+        "path": "GOT-10k/val/GOT-10k_Val_000015",
         "object": "bear cub",
         "gt": [
             [
@@ -2646,7 +2646,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000117",
+        "path": "GOT-10k/val/GOT-10k_Val_000117",
         "object": "aircraft carrier",
         "gt": [
             [
@@ -2700,7 +2700,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000102",
+        "path": "GOT-10k/val/GOT-10k_Val_000102",
         "object": "boar",
         "gt": [
             [
@@ -2754,7 +2754,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000089",
+        "path": "GOT-10k/val/GOT-10k_Val_000089",
         "object": "deer",
         "gt": [
             [
@@ -2808,7 +2808,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000013",
+        "path": "GOT-10k/val/GOT-10k_Val_000013",
         "object": "peba",
         "gt": [
             [
@@ -2862,7 +2862,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000120",
+        "path": "GOT-10k/val/GOT-10k_Val_000120",
         "object": "electric",
         "gt": [
             [
@@ -2916,7 +2916,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000032",
+        "path": "GOT-10k/val/GOT-10k_Val_000032",
         "object": "european hare",
         "gt": [
             [
@@ -2970,7 +2970,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000123",
+        "path": "GOT-10k/val/GOT-10k_Val_000123",
         "object": "skidder",
         "gt": [
             [
@@ -3024,7 +3024,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000024",
+        "path": "GOT-10k/val/GOT-10k_Val_000024",
         "object": "seahorse",
         "gt": [
             [
@@ -3078,7 +3078,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000154",
+        "path": "GOT-10k/val/GOT-10k_Val_000154",
         "object": "common kingsnake",
         "gt": [
             [
@@ -3132,7 +3132,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000095",
+        "path": "GOT-10k/val/GOT-10k_Val_000095",
         "object": "black rhinoceros",
         "gt": [
             [
@@ -3186,7 +3186,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000112",
+        "path": "GOT-10k/val/GOT-10k_Val_000112",
         "object": "lorry",
         "gt": [
             [
@@ -3240,7 +3240,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000130",
+        "path": "GOT-10k/val/GOT-10k_Val_000130",
         "object": "macaque",
         "gt": [
             [
@@ -3294,7 +3294,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000045",
+        "path": "GOT-10k/val/GOT-10k_Val_000045",
         "object": "blindworm blindworm",
         "gt": [
             [
@@ -3348,7 +3348,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000098",
+        "path": "GOT-10k/val/GOT-10k_Val_000098",
         "object": "indian mongoose",
         "gt": [
             [
@@ -3402,7 +3402,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000129",
+        "path": "GOT-10k/val/GOT-10k_Val_000129",
         "object": "cypriniform fish cypriniform",
         "gt": [
             [
@@ -3456,7 +3456,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000115",
+        "path": "GOT-10k/val/GOT-10k_Val_000115",
         "object": "jeep",
         "gt": [
             [
@@ -3510,7 +3510,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000006",
+        "path": "GOT-10k/val/GOT-10k_Val_000006",
         "object": "minicab",
         "gt": [
             [
@@ -3564,7 +3564,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000142",
+        "path": "GOT-10k/val/GOT-10k_Val_000142",
         "object": "black rhinoceros",
         "gt": [
             [
@@ -3618,7 +3618,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000014",
+        "path": "GOT-10k/val/GOT-10k_Val_000014",
         "object": "bear cub",
         "gt": [
             [
@@ -3672,7 +3672,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000174",
+        "path": "GOT-10k/val/GOT-10k_Val_000174",
         "object": "person",
         "gt": [
             [
@@ -3726,7 +3726,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000128",
+        "path": "GOT-10k/val/GOT-10k_Val_000128",
         "object": "standard poodle",
         "gt": [
             [
@@ -3780,7 +3780,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000169",
+        "path": "GOT-10k/val/GOT-10k_Val_000169",
         "object": "raven",
         "gt": [
             [
@@ -3834,7 +3834,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000124",
+        "path": "GOT-10k/val/GOT-10k_Val_000124",
         "object": "airship",
         "gt": [
             [
@@ -3888,7 +3888,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000071",
+        "path": "GOT-10k/val/GOT-10k_Val_000071",
         "object": "brush-tailed porcupine",
         "gt": [
             [
@@ -3942,7 +3942,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000131",
+        "path": "GOT-10k/val/GOT-10k_Val_000131",
         "object": "cheetah",
         "gt": [
             [
@@ -3996,7 +3996,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000141",
+        "path": "GOT-10k/val/GOT-10k_Val_000141",
         "object": "white-tailed jackrabbit",
         "gt": [
             [
@@ -4050,7 +4050,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000066",
+        "path": "GOT-10k/val/GOT-10k_Val_000066",
         "object": "millipede",
         "gt": [
             [
@@ -4104,7 +4104,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000148",
+        "path": "GOT-10k/val/GOT-10k_Val_000148",
         "object": "cinnamon bear",
         "gt": [
             [
@@ -4158,7 +4158,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000079",
+        "path": "GOT-10k/val/GOT-10k_Val_000079",
         "object": "badger",
         "gt": [
             [
@@ -4212,7 +4212,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000127",
+        "path": "GOT-10k/val/GOT-10k_Val_000127",
         "object": "bernese mountain dog",
         "gt": [
             [
@@ -4266,7 +4266,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000151",
+        "path": "GOT-10k/val/GOT-10k_Val_000151",
         "object": "indian rat snake",
         "gt": [
             [
@@ -4320,7 +4320,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000119",
+        "path": "GOT-10k/val/GOT-10k_Val_000119",
         "object": "pt boat",
         "gt": [
             [
@@ -4374,7 +4374,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000039",
+        "path": "GOT-10k/val/GOT-10k_Val_000039",
         "object": "hand truck",
         "gt": [
             [
@@ -4428,7 +4428,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000030",
+        "path": "GOT-10k/val/GOT-10k_Val_000030",
         "object": "lippizan",
         "gt": [
             [
@@ -4482,7 +4482,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000018",
+        "path": "GOT-10k/val/GOT-10k_Val_000018",
         "object": "border collie",
         "gt": [
             [
@@ -4536,7 +4536,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000150",
+        "path": "GOT-10k/val/GOT-10k_Val_000150",
         "object": "penguin",
         "gt": [
             [
@@ -4590,7 +4590,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000093",
+        "path": "GOT-10k/val/GOT-10k_Val_000093",
         "object": "collared peccary",
         "gt": [
             [
@@ -4644,7 +4644,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000028",
+        "path": "GOT-10k/val/GOT-10k_Val_000028",
         "object": "seahorse",
         "gt": [
             [
@@ -4698,7 +4698,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000069",
+        "path": "GOT-10k/val/GOT-10k_Val_000069",
         "object": "viscacha",
         "gt": [
             [
@@ -4752,7 +4752,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000176",
+        "path": "GOT-10k/val/GOT-10k_Val_000176",
         "object": "JetLev-Flyer",
         "gt": [
             [
@@ -4806,7 +4806,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000003",
+        "path": "GOT-10k/val/GOT-10k_Val_000003",
         "object": "small boat",
         "gt": [
             [
@@ -4860,7 +4860,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000042",
+        "path": "GOT-10k/val/GOT-10k_Val_000042",
         "object": "zebra-tailed lizard",
         "gt": [
             [
@@ -4914,7 +4914,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000107",
+        "path": "GOT-10k/val/GOT-10k_Val_000107",
         "object": "stanley steamer",
         "gt": [
             [
@@ -4968,7 +4968,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000100",
+        "path": "GOT-10k/val/GOT-10k_Val_000100",
         "object": "binturong",
         "gt": [
             [
@@ -5022,7 +5022,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000064",
+        "path": "GOT-10k/val/GOT-10k_Val_000064",
         "object": "tadpole shrimp",
         "gt": [
             [
@@ -5076,7 +5076,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000108",
+        "path": "GOT-10k/val/GOT-10k_Val_000108",
         "object": "forklift",
         "gt": [
             [
@@ -5130,7 +5130,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000067",
+        "path": "GOT-10k/val/GOT-10k_Val_000067",
         "object": "moth",
         "gt": [
             [
@@ -5184,7 +5184,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000047",
+        "path": "GOT-10k/val/GOT-10k_Val_000047",
         "object": "rolling stock",
         "gt": [
             [
@@ -5238,7 +5238,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000091",
+        "path": "GOT-10k/val/GOT-10k_Val_000091",
         "object": "lemur",
         "gt": [
             [
@@ -5292,7 +5292,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000126",
+        "path": "GOT-10k/val/GOT-10k_Val_000126",
         "object": "bernese mountain dog",
         "gt": [
             [
@@ -5346,7 +5346,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000125",
+        "path": "GOT-10k/val/GOT-10k_Val_000125",
         "object": "patrol boat",
         "gt": [
             [
@@ -5400,7 +5400,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000165",
+        "path": "GOT-10k/val/GOT-10k_Val_000165",
         "object": "medusa",
         "gt": [
             [
@@ -5454,7 +5454,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000156",
+        "path": "GOT-10k/val/GOT-10k_Val_000156",
         "object": "woodlouse",
         "gt": [
             [
@@ -5508,7 +5508,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000036",
+        "path": "GOT-10k/val/GOT-10k_Val_000036",
         "object": "skibob",
         "gt": [
             [
@@ -5562,7 +5562,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000052",
+        "path": "GOT-10k/val/GOT-10k_Val_000052",
         "object": "ibex",
         "gt": [
             [
@@ -5616,7 +5616,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000056",
+        "path": "GOT-10k/val/GOT-10k_Val_000056",
         "object": "cruise missile",
         "gt": [
             [
@@ -5670,7 +5670,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000162",
+        "path": "GOT-10k/val/GOT-10k_Val_000162",
         "object": "langur",
         "gt": [
             [
@@ -5724,7 +5724,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000116",
+        "path": "GOT-10k/val/GOT-10k_Val_000116",
         "object": "barge",
         "gt": [
             [
@@ -5778,7 +5778,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000044",
+        "path": "GOT-10k/val/GOT-10k_Val_000044",
         "object": "alligator lizard",
         "gt": [
             [
@@ -5832,7 +5832,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000058",
+        "path": "GOT-10k/val/GOT-10k_Val_000058",
         "object": "helicopter",
         "gt": [
             [
@@ -5886,7 +5886,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000145",
+        "path": "GOT-10k/val/GOT-10k_Val_000145",
         "object": "blue point siamese",
         "gt": [
             [
@@ -5940,7 +5940,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000077",
+        "path": "GOT-10k/val/GOT-10k_Val_000077",
         "object": "fall cankerworm",
         "gt": [
             [
@@ -5994,7 +5994,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000005",
+        "path": "GOT-10k/val/GOT-10k_Val_000005",
         "object": "convertible",
         "gt": [
             [
@@ -6048,7 +6048,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000146",
+        "path": "GOT-10k/val/GOT-10k_Val_000146",
         "object": "alaskan brown bear",
         "gt": [
             [
@@ -6102,7 +6102,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000027",
+        "path": "GOT-10k/val/GOT-10k_Val_000027",
         "object": "chimaera",
         "gt": [
             [
@@ -6156,7 +6156,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000104",
+        "path": "GOT-10k/val/GOT-10k_Val_000104",
         "object": "football",
         "gt": [
             [
@@ -6210,7 +6210,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000037",
+        "path": "GOT-10k/val/GOT-10k_Val_000037",
         "object": "covered wagon",
         "gt": [
             [
@@ -6264,7 +6264,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000082",
+        "path": "GOT-10k/val/GOT-10k_Val_000082",
         "object": "longwool",
         "gt": [
             [
@@ -6318,7 +6318,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000149",
+        "path": "GOT-10k/val/GOT-10k_Val_000149",
         "object": "cinnamon bear",
         "gt": [
             [
@@ -6372,7 +6372,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000081",
+        "path": "GOT-10k/val/GOT-10k_Val_000081",
         "object": "sea otter",
         "gt": [
             [
@@ -6426,7 +6426,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000038",
+        "path": "GOT-10k/val/GOT-10k_Val_000038",
         "object": "water cart",
         "gt": [
             [
@@ -6480,7 +6480,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000043",
+        "path": "GOT-10k/val/GOT-10k_Val_000043",
         "object": "gila monster",
         "gt": [
             [
@@ -6534,7 +6534,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000167",
+        "path": "GOT-10k/val/GOT-10k_Val_000167",
         "object": "fairy shrimp",
         "gt": [
             [
@@ -6588,7 +6588,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000164",
+        "path": "GOT-10k/val/GOT-10k_Val_000164",
         "object": "spider",
         "gt": [
             [
@@ -6642,7 +6642,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000099",
+        "path": "GOT-10k/val/GOT-10k_Val_000099",
         "object": "genet",
         "gt": [
             [
@@ -6696,7 +6696,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000153",
+        "path": "GOT-10k/val/GOT-10k_Val_000153",
         "object": "common kingsnake",
         "gt": [
             [
@@ -6750,7 +6750,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000144",
+        "path": "GOT-10k/val/GOT-10k_Val_000144",
         "object": "wildboar",
         "gt": [
             [
@@ -6804,7 +6804,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000132",
+        "path": "GOT-10k/val/GOT-10k_Val_000132",
         "object": "night snake",
         "gt": [
             [
@@ -6858,7 +6858,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000022",
+        "path": "GOT-10k/val/GOT-10k_Val_000022",
         "object": "scotch terrier",
         "gt": [
             [
@@ -6912,7 +6912,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000048",
+        "path": "GOT-10k/val/GOT-10k_Val_000048",
         "object": "train",
         "gt": [
             [
@@ -6966,7 +6966,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000080",
+        "path": "GOT-10k/val/GOT-10k_Val_000080",
         "object": "sea otter",
         "gt": [
             [
@@ -7020,7 +7020,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000136",
+        "path": "GOT-10k/val/GOT-10k_Val_000136",
         "object": "tricycle wheel",
         "gt": [
             [
@@ -7074,7 +7074,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000053",
+        "path": "GOT-10k/val/GOT-10k_Val_000053",
         "object": "angora goat",
         "gt": [
             [
@@ -7128,7 +7128,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000035",
+        "path": "GOT-10k/val/GOT-10k_Val_000035",
         "object": "skateboard",
         "gt": [
             [
@@ -7182,7 +7182,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000055",
+        "path": "GOT-10k/val/GOT-10k_Val_000055",
         "object": "luge",
         "gt": [
             [
@@ -7236,7 +7236,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000008",
+        "path": "GOT-10k/val/GOT-10k_Val_000008",
         "object": "hippopotamus",
         "gt": [
             [
@@ -7290,7 +7290,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000087",
+        "path": "GOT-10k/val/GOT-10k_Val_000087",
         "object": "marco polo sheep",
         "gt": [
             [
@@ -7344,7 +7344,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000163",
+        "path": "GOT-10k/val/GOT-10k_Val_000163",
         "object": "tasmanian devil",
         "gt": [
             [
@@ -7398,7 +7398,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000106",
+        "path": "GOT-10k/val/GOT-10k_Val_000106",
         "object": "sports car",
         "gt": [
             [
@@ -7452,7 +7452,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000101",
+        "path": "GOT-10k/val/GOT-10k_Val_000101",
         "object": "bactrian camel",
         "gt": [
             [
@@ -7506,7 +7506,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000004",
+        "path": "GOT-10k/val/GOT-10k_Val_000004",
         "object": "condor",
         "gt": [
             [
@@ -7560,7 +7560,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000173",
+        "path": "GOT-10k/val/GOT-10k_Val_000173",
         "object": "balloon",
         "gt": [
             [
@@ -7614,7 +7614,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000084",
+        "path": "GOT-10k/val/GOT-10k_Val_000084",
         "object": "cotswold",
         "gt": [
             [
@@ -7668,7 +7668,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000158",
+        "path": "GOT-10k/val/GOT-10k_Val_000158",
         "object": "fall cankerworm",
         "gt": [
             [
@@ -7722,7 +7722,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000122",
+        "path": "GOT-10k/val/GOT-10k_Val_000122",
         "object": "amphibian",
         "gt": [
             [
@@ -7776,7 +7776,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000177",
+        "path": "GOT-10k/val/GOT-10k_Val_000177",
         "object": "dragon-lion dance",
         "gt": [
             [
@@ -7830,7 +7830,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000068",
+        "path": "GOT-10k/val/GOT-10k_Val_000068",
         "object": "snail",
         "gt": [
             [
@@ -7884,7 +7884,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000074",
+        "path": "GOT-10k/val/GOT-10k_Val_000074",
         "object": "hudson bay collared lemming",
         "gt": [
             [
@@ -7938,7 +7938,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000092",
+        "path": "GOT-10k/val/GOT-10k_Val_000092",
         "object": "mangabey",
         "gt": [
             [
@@ -7992,7 +7992,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000034",
+        "path": "GOT-10k/val/GOT-10k_Val_000034",
         "object": "go-kart",
         "gt": [
             [
@@ -8046,7 +8046,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000002",
+        "path": "GOT-10k/val/GOT-10k_Val_000002",
         "object": "dhow",
         "gt": [
             [
@@ -8100,7 +8100,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000103",
+        "path": "GOT-10k/val/GOT-10k_Val_000103",
         "object": "face",
         "gt": [
             [
@@ -8154,7 +8154,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000049",
+        "path": "GOT-10k/val/GOT-10k_Val_000049",
         "object": "common zebra",
         "gt": [
             [
@@ -8208,7 +8208,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000083",
+        "path": "GOT-10k/val/GOT-10k_Val_000083",
         "object": "broadtail",
         "gt": [
             [
@@ -8262,7 +8262,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000113",
+        "path": "GOT-10k/val/GOT-10k_Val_000113",
         "object": "oxcart",
         "gt": [
             [
@@ -8316,7 +8316,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000025",
+        "path": "GOT-10k/val/GOT-10k_Val_000025",
         "object": "barracuda",
         "gt": [
             [
@@ -8370,7 +8370,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000012",
+        "path": "GOT-10k/val/GOT-10k_Val_000012",
         "object": "peludo",
         "gt": [
             [
@@ -8424,7 +8424,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000094",
+        "path": "GOT-10k/val/GOT-10k_Val_000094",
         "object": "chiacoan peccary",
         "gt": [
             [
@@ -8478,7 +8478,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000001",
+        "path": "GOT-10k/val/GOT-10k_Val_000001",
         "object": "fireboat",
         "gt": [
             [
@@ -8532,7 +8532,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000155",
+        "path": "GOT-10k/val/GOT-10k_Val_000155",
         "object": "egyptian cat",
         "gt": [
             [
@@ -8586,7 +8586,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000031",
+        "path": "GOT-10k/val/GOT-10k_Val_000031",
         "object": "hyrax",
         "gt": [
             [
@@ -8640,7 +8640,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000143",
+        "path": "GOT-10k/val/GOT-10k_Val_000143",
         "object": "black rhinoceros",
         "gt": [
             [
@@ -8694,7 +8694,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000033",
+        "path": "GOT-10k/val/GOT-10k_Val_000033",
         "object": "swamprabbit",
         "gt": [
             [
@@ -8748,7 +8748,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000061",
+        "path": "GOT-10k/val/GOT-10k_Val_000061",
         "object": "domestic llama",
         "gt": [
             [
@@ -8802,7 +8802,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000172",
+        "path": "GOT-10k/val/GOT-10k_Val_000172",
         "object": "balloon",
         "gt": [
             [
@@ -8856,7 +8856,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000073",
+        "path": "GOT-10k/val/GOT-10k_Val_000073",
         "object": "golden hamster",
         "gt": [
             [
@@ -8910,7 +8910,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000097",
+        "path": "GOT-10k/val/GOT-10k_Val_000097",
         "object": "lander",
         "gt": [
             [
@@ -8964,7 +8964,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000017",
+        "path": "GOT-10k/val/GOT-10k_Val_000017",
         "object": "border collie",
         "gt": [
             [
@@ -9018,7 +9018,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000046",
+        "path": "GOT-10k/val/GOT-10k_Val_000046",
         "object": "racerunner",
         "gt": [
             [
@@ -9072,7 +9072,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000161",
+        "path": "GOT-10k/val/GOT-10k_Val_000161",
         "object": "striped skunk",
         "gt": [
             [
@@ -9126,7 +9126,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000179",
+        "path": "GOT-10k/val/GOT-10k_Val_000179",
         "object": "pickup truck",
         "gt": [
             [
@@ -9180,7 +9180,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000159",
+        "path": "GOT-10k/val/GOT-10k_Val_000159",
         "object": "pine marten",
         "gt": [
             [
@@ -9234,7 +9234,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000019",
+        "path": "GOT-10k/val/GOT-10k_Val_000019",
         "object": "border collie",
         "gt": [
             [
@@ -9288,7 +9288,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000160",
+        "path": "GOT-10k/val/GOT-10k_Val_000160",
         "object": "hog-nosed skunk",
         "gt": [
             [
@@ -9342,7 +9342,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000137",
+        "path": "GOT-10k/val/GOT-10k_Val_000137",
         "object": "tricycle wheel",
         "gt": [
             [
@@ -9396,7 +9396,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000121",
+        "path": "GOT-10k/val/GOT-10k_Val_000121",
         "object": "electric",
         "gt": [
             [
@@ -9450,7 +9450,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000016",
+        "path": "GOT-10k/val/GOT-10k_Val_000016",
         "object": "goose",
         "gt": [
             [
@@ -9504,7 +9504,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000090",
+        "path": "GOT-10k/val/GOT-10k_Val_000090",
         "object": "giraffe",
         "gt": [
             [
@@ -9558,7 +9558,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000007",
+        "path": "GOT-10k/val/GOT-10k_Val_000007",
         "object": "whale",
         "gt": [
             [
@@ -9612,7 +9612,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000054",
+        "path": "GOT-10k/val/GOT-10k_Val_000054",
         "object": "goral",
         "gt": [
             [
@@ -9666,7 +9666,7 @@
         ]
     },
     {
-        "path": "/mnt/petrelfs/share/videointern/GOT/OpenDataLab___GOT-10k/raw/GOT-10k/val/GOT-10k_Val_000175",
+        "path": "GOT-10k/val/GOT-10k_Val_000175",
         "object": "person",
         "gt": [
             [

@@ -36,7 +36,7 @@ Refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) to infere
 
 ## Evaluation
 
-See [eval_scripts](eval_scripts).
+See [eval_scripts](eval_scripts) and [lmms-eval_videochat](lmms-eval_videochat).
 <!-- See [evaluation codes](lmms-eval_videochat). And [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) have supported our model, you also could use it to evaluate our model on varous benchmarks. -->
 
 ## Training
