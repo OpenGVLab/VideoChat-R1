@@ -11,7 +11,7 @@ git clone https://github.com/OpenGVLab/VideoChat-R1
 cd lmms-eval_videochat
 pip install -e .
 ```
-We provide all evaluation [scripts](scripts) and [annotations](eval_annotations) here.
+We provide all evaluation [scripts](scripts_reason) and [annotations](eval_annotations) here.
 
 You could evaluate one task:
 ```bash
