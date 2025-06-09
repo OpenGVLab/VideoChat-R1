@@ -145,12 +145,6 @@ def parse_timestamp_output(output_string):
 
 
 
-
-
-
-
-
-
 def create_work_items(data, video_root):
     examples = []
     for i, info in enumerate(data):
@@ -293,8 +287,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
         prompt = example_prompt.replace("[START]", str(item["problem"]["start"]))
 
 
-        accs = []
-        ious = []
 
         # try:
         ans = inference(video_path, prompt, model, processor, device=device)
@@ -317,20 +309,16 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
                 iou = average_overlap(pred_glue, item["solution"]["answer"])
         else:
             iou = 0.0
-        ious.append(iou)
+
 
         item_res = {'video_path': video_path, 'prompt':prompt, 'gt':item["solution"], 'pred':ans, 'iou':iou }
-        append_to_jsonl(log_path, item_res)
+        append_to_jsonl(log_path, item_res) # NOTE: we get the eval results from log files!!!
 
         pbar.set_postfix({"mIoU": sum(ious)/len(ious)})
 
         # except Exception as e:
         #     print(f"Error processing {video_path}: {e}")
 
-    print(f'=== {log_path} result ===')
-    # if ious:
-    print('mIoU:', sum(ious) / len(ious))
-    # print("Accuacy:", sum(accs)/len(accs))
 
     return ious, accs
 
