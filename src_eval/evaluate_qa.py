@@ -258,8 +258,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
         except Exception as e:
             print(f"Error processing {video_path}: {e}")
     
-    print(f'=== {log_path} result ===')
-    print("Accuacy:", sum(accs)/len(accs))
                 
     return accs
 
