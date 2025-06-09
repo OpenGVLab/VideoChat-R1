@@ -259,23 +259,19 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
         except Exception as e:
             print(f"Error processing {video_path}: {e}")
     
-    print(f'=== {log_path} result ===')
-    print("Accuacy:", sum(accs)/len(accs))
-                
-    return accs
+
 
 def evaluate(data, video_root, slurm_procid, args):
     work_items = create_work_items(data, video_root=video_root)
     
-    accs = process_work_items(
+    process_work_items(
         work_items, 
         args.model_base, 
         f'cuda:{slurm_procid}', 
         f'{args.result_dir}_{slurm_procid}',
         args.resume
     )
-    
-    return accs
+
 
 if __name__=='__main__':
     args = get_args()
