@@ -269,10 +269,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
         example_prompt = GQA_TEMPLATE.replace("[QUESTION]", item["problem"]["question"])
         prompt = example_prompt.replace("[OPTION]", str(item["problem"]["options"]))
 
-
-        accs = []
-        ious = []
-
         try:
             ans = inference(video_path, prompt, model, processor, device=device)
 
@@ -285,7 +281,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
                 if extract_characters_regex(answer) == extract_characters_regex(item["solution"]["answer"]):
                     acc = 1.0
 
-            accs.append(acc)
 
             # IoU
 
@@ -299,10 +294,9 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
                     iou = compute_iou(pred_glue, item["solution"]["glue"])
             else:
                 iou = 0.0
-            ious.append(iou)
-            
+                
             item_res = {'video_path': video_path, 'prompt':prompt, 'gt':item["solution"], 'pred':ans, 'acc':acc, 'iou':iou }
-            append_to_jsonl(log_path, item_res)
+            append_to_jsonl(log_path, item_res) # NOTE: we get the eval results from log files!!!
             
             pbar.set_postfix({"mIoU": sum(ious)/len(ious), 'accuracy': sum(accs)/len(accs)})
             
