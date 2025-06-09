@@ -236,8 +236,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
         prompt = example_prompt.replace("[OPTION]", str(item["problem"]["options"]))
 
 
-        accs = []
-
         try:
             ans = inference(video_path, prompt, model, processor, device=device)
 
@@ -250,11 +248,10 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
                 if extract_characters_regex(answer) == extract_characters_regex(item["solution"]["answer"]):
                     acc = 1.0
 
-            accs.append(acc)
 
             
             item_res = {'video_path': video_path, 'prompt':prompt, 'gt':item["solution"], 'pred':ans, 'acc':acc }
-            append_to_jsonl(log_path, item_res)
+            append_to_jsonl(log_path, item_res) # NOTE: we get the eval results from log files!!!
             
             pbar.set_postfix({'accuracy': sum(accs)/len(accs)})
             
