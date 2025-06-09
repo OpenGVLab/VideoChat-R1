@@ -316,16 +316,12 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
 
         pbar.set_postfix({"mIoU": sum(ious)/len(ious)})
 
-        # except Exception as e:
-        #     print(f"Error processing {video_path}: {e}")
 
-
-    return ious, accs
 
 def evaluate(data, video_root, slurm_procid, args):
     work_items = create_work_items(data, video_root=video_root)
 
-    ious, accs = process_work_items(
+    process_work_items(
         work_items, 
         args.model_base, 
         f'cuda:{slurm_procid}', 
@@ -333,7 +329,7 @@ def evaluate(data, video_root, slurm_procid, args):
         args.resume
     )
 
-    return ious, accs
+
 
 if __name__=='__main__':
     args = get_args()
