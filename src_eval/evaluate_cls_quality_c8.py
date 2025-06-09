@@ -238,9 +238,6 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
 
         prompt = QA_TEMPLATE.replace("[PROBLEM]", item["problem"])
 
-
-        accs = []
-
         try:
             ans = inference(video_path, prompt, model, processor, device=device)
 
@@ -253,11 +250,9 @@ def process_work_items(work_items, model_base, device, result_dir, resume=False)
                 if answer.strip().lower() == item["solution"].strip().lower():
                     acc = 1.0
 
-            accs.append(acc)
-
             
             item_res = {'video_path': video_path, 'prompt':prompt, 'gt':item["solution"], 'pred':ans, 'acc':acc }
-            append_to_jsonl(log_path, item_res)
+            append_to_jsonl(log_path, item_res) # NOTE: we get the eval results from log files!!!
             
             pbar.set_postfix({'accuracy': sum(accs)/len(accs)})
             
