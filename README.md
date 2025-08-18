@@ -5,7 +5,7 @@
 <h2><a href="https://arxiv.org/pdf/2504.06958">VideoChat-R1: Enhancing Spatio-Temporal
 Perception via Reinforcement Fine-Tuning</a></h2>
 
-[Xinhao Li](https://scholar.google.com/citations?user=evR3uR0AAAAJ)\*, [Ziang Yan](https://scholar.google.com.hk/citations?user=78lx13MAAAAJ&hl=zh-CN)\*, [Desen Meng](https://github.com/Kerin637)\*, Lu Dong, [Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl=zh-CN), [Yinan He](https://dblp.org/pid/93/7763.html), [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), [Yi Wang](https://scholar.google.com.hk/citations?user=Xm2M8UwAAAAJ)^ and [Limin Wang](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)^
+[Xinhao Li](https://scholar.google.com/citations?user=evR3uR0AAAAJ)\*, [Ziang Yan](https://scholar.google.com.hk/citations?user=78lx13MAAAAJ&hl=zh-CN)\*, [Desen Meng](https://scholar.google.com/citations?user=ZvX-jygAAAAJ&hl=en)\*, Lu Dong, [Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl=zh-CN), [Yinan He](https://dblp.org/pid/93/7763.html), [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), [Yi Wang](https://scholar.google.com.hk/citations?user=Xm2M8UwAAAAJ)^ and [Limin Wang](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)^
 
 <p align="center">
         🤗 <a href="https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e">Model</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/pdf/2504.06958">Paper</a> &nbsp&nbsp 
