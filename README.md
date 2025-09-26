@@ -1,28 +1,21 @@
 
-<div align="center">
+# VideoChat-R1 & VideoChat-R1.5: Spatio-Temporal Reasoning for Video Understanding
 
-
-<h2><a href="https://arxiv.org/pdf/2504.06958">VideoChat-R1: Enhancing Spatio-Temporal
-Perception via Reinforcement Fine-Tuning</a></h2>
-
-[Xinhao Li](https://scholar.google.com/citations?user=evR3uR0AAAAJ)\*, [Ziang Yan](https://scholar.google.com.hk/citations?user=78lx13MAAAAJ&hl=zh-CN)\*, [Desen Meng](https://scholar.google.com/citations?user=ZvX-jygAAAAJ&hl=en)\*, Lu Dong, [Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl=zh-CN), [Yinan He](https://dblp.org/pid/93/7763.html), [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), [Yi Wang](https://scholar.google.com.hk/citations?user=Xm2M8UwAAAAJ)^ and [Limin Wang](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)^
-
-<p align="center">
-        🤗 <a href="https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e">Model</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/pdf/2504.06958">Paper</a> &nbsp&nbsp 
-<br>
-
-</p>
-
-
-</div>
 
 
 
 ## :fire: Updates
+
+- [x] **2025/09/26**:🔥🔥🔥 We release our VideoChat-R1.5 model at [Huggingface](https://huggingface.co/OpenGVLab/VideoChat-R1_5), [paper](https://arxiv.org/pdf/2509.21100), and eval code.
+- [x] **2025/09/22**:🔥🔥🔥 Our VideoChat-R1.5 is accepted by NIPs2025.
 - [x] **2025/04/22**:🔥🔥🔥 We release our VideoChat-R1-caption at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
 - [x] **2025/04/14**:🔥🔥🔥 We release our VideoChat-R1 and  VideoChat-R1-thinking at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
-- [x] **2025/04/10**:🔥🔥🔥 We release our paper and code.
+- [x] **2025/04/10**:🔥🔥🔥 We release our VideoChat-R1 [paper](https://arxiv.org/abs/2504.06958) and code.
 
+
+## 🎯 Performances on Video Benchmarks
+
+![alt text](sotas.png)
 
 ## :parrot: Introduction
 
@@ -54,7 +47,15 @@ Perception via Reinforcement Fine-Tuning},
   journal={arXiv preprint arXiv:2504.06958},
   year={2025}
 }
+
+@article{yan2025videochatr15,
+  title={VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception},
+  author={Yan, Ziang and Li, Xinhao and He, Yinan and Zhengrong Yue and Zeng, Xiangyu and Wang, Yali and Qiao, Yu and Wang, Limin and Wang, Yi},
+  journal={arXiv preprint arXiv:2509.21100},
+  year={2025}
+}
 ```
+
 
 <!-- # :dizzy: Acknowledgement
 
