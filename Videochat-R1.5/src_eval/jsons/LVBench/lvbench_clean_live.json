@@ -1,0 +1,3982 @@
+[
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which movie does the host parody in his first appearance?",
+        "candidates": [
+            "(A) Barbie",
+            "(B) American Fiction",
+            "(C) Killers of the Flower Moon",
+            "(D) Oppenheim"
+        ],
+        "answer": "(A) Barbie",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:05-01:30"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which movie wins the most awards at the ceremony?",
+        "candidates": [
+            "(A) Barbie",
+            "(B) Anatomy of a Fall",
+            "(C) Oppenheim",
+            "(D) Poor Things"
+        ],
+        "answer": "(C) Oppenheim",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:35-85:56"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What is the reaction of the Best Supporting Actress when she finds out she wins?",
+        "candidates": [
+            "(A) She shows indifference",
+            "(B) She appears excited",
+            "(C) She gives a faint smile",
+            "(D) She sheds tears of joy"
+        ],
+        "answer": "(D) She sheds tears of joy",
+        "question_type": [
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "19:30-22:04"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What is the nationality of the filmmaker who directs the Best International Feature Film? ",
+        "candidates": [
+            "(A) Italy",
+            "(B) Japan",
+            "(C) Spain",
+            "(D) United Kingdom"
+        ],
+        "answer": "(D) United Kingdom",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "35:33-36:44"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "When the Best Supporting Actor winner goes offstage, what is the color of the outfit of the person sitting next to him?",
+        "candidates": [
+            "(A) Blue",
+            "(B) White",
+            "(C) Black",
+            "(D) Red"
+        ],
+        "answer": "(C) Black",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "41:07-46:27"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which category winner is absent for the award presentation?",
+        "candidates": [
+            "(A) Best International Feature",
+            "(B) Best Director",
+            "(C) Best Original Score",
+            "(D) Best Animated Feature"
+        ],
+        "answer": "(D) Best Animated Feature",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "23:14-66:58"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "How many times does Christopher Nolan came onstage?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "66:20-86:29"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What happens when the Best Actress comes on stage?",
+        "candidates": [
+            "(A) Her dress gets torn",
+            "(B) Her bracelet gets robbed",
+            "(C) She falls on the stage",
+            "(D) Her necklace breaks"
+        ],
+        "answer": "(A) Her dress gets torn",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "69:20-74:13"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which animal, wearing a black bowtie, is a special guest at the event?",
+        "candidates": [
+            "(A) A bird",
+            "(B) A sheep",
+            "(C) A cat",
+            "(D) A dog"
+        ],
+        "answer": "(D) A dog",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "06:25-06:25"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What does the best supporting actress winner wear?",
+        "candidates": [
+            "(A) Red dress",
+            "(B) Pink suit",
+            "(C) Light blue dress",
+            "(D) Black dress"
+        ],
+        "answer": "(C) Light blue dress",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:36-21:56"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Kemp Powers is the main director of which film?",
+        "candidates": [
+            "(A) The film that wins the Animated Feature Film",
+            "(B) The film that is nominated for but does not win the International Feature Film",
+            "(C) The film that is nominated for but does not win the Animated Feature Film",
+            "(D) The film that wins the International Feature Film"
+        ],
+        "answer": "(C) The film that is nominated for but does not win the Animated Feature Film",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "24:38-24:38"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which film wins the Best Animated Feature Film?",
+        "candidates": [
+            "(A) Toy Story 4",
+            "(B) Zootopia",
+            "(C) Spider-Man: Into the Spider-Verse",
+            "(D) The Boy and the Heron"
+        ],
+        "answer": "(D) The Boy and the Heron",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "23:30-25:03"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What happens after the presentation of the award for Best Supporting Actress?",
+        "candidates": [
+            "(A) There is a short clip. Then two presenters come onstage and present the award for Best Animated Feature Film. The winning film is The Boy and the Heron. The award winner comes onstage to give a speech",
+            "(B) There is a short clip. Then two presenters come onstage and present the award for Best Animated Feature Film. The winning film is The Boy and the Heron",
+            "(C) Two presenters come onstage and present the award for Best Animated Feature Film. The winning film is The Boy and the Heron",
+            "(D) Two presenters come onstage and present the award for Best Animated Feature Film. The winning film is The Boy and the Heron. The award winner comes onstage to give a speech"
+        ],
+        "answer": "(B) There is a short clip. Then two presenters come onstage and present the award for Best Animated Feature Film. The winning film is The Boy and the Heron",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "23:30-25:03"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which film wins the Best Original Screenplay award?",
+        "candidates": [
+            "(A) Anatomy of a Fall",
+            "(B) Green Book",
+            "(C) Manchester by the Sea",
+            "(D) Promising Young Woman"
+        ],
+        "answer": "(A) Anatomy of a Fall",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "25:50-30:15"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What happens from 25:50-30:15?",
+        "candidates": [
+            "(A) Two presenters chat, and after a short clip, they announce the winner of the Best Adapted Screenplay",
+            "(B) Two presenters chat and announce the winner of the Best Adapted Screenplay",
+            "(C) Two presenters chat and announce the winner of the Best Original Screenplay",
+            "(D) Two presenters chat, and after a short clip, they announce the winner of the Best Original Screenplay"
+        ],
+        "answer": "(D) Two presenters chat, and after a short clip, they announce the winner of the Best Original Screenplay",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "25:50-30:15"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which award is announced right after the Best Adapted Screenplay award?",
+        "candidates": [
+            "(A) The Best Original Screenplay",
+            "(B) The Best Animated Feature Film",
+            "(C) The Best International Feature Film",
+            "(D) The Best Adapted Screenplay"
+        ],
+        "answer": "(C) The Best International Feature Film",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:15-38:20"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "There is a performance of respectful tribal musicians playing a huge drum together. All of the drummers ___.",
+        "candidates": [
+            "(A) Play synchronously most of the time",
+            "(B) Play synchronously most of the time",
+            "(C) Play asynchronously all the time",
+            "(D) Play synchronously all the time"
+        ],
+        "answer": "(A) Play synchronously most of the time",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "35:15-38:20"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What happens from 41:09-52:20?",
+        "candidates": [
+            "(A) The announcement of the Best Supporting Actress and the performance from Billie Eilish",
+            "(B) The announcement of the Best Leading Actress and the performance from Ken",
+            "(C) The announcement of the Best Supporting Actor and the performance from Ken",
+            "(D) The announcement of the Best Leading Actor and the performance from Billie Eilish"
+        ],
+        "answer": "(C) The announcement of the Best Supporting Actor and the performance from Ken",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "41:09-48:46"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Who is the Best Supporting Actor?",
+        "candidates": [
+            "(A) Robert Downey Jr",
+            "(B) Brad Pitt",
+            "(C) Mahershala Ali",
+            "(D) Daniel Kaluuya"
+        ],
+        "answer": "(A) Robert Downey Jr",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "41:09-48:46"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Gosling's performance mirrors a scene from a movie that stars ___.",
+        "candidates": [
+            "(A) Demi Moore",
+            "(B) Marlon Brando",
+            "(C) Keanu Reeves",
+            "(D) Marilyn Monroe"
+        ],
+        "answer": "(D) Marilyn Monroe",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "49:12-52:32"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Why does Gosling wear pink suit when performing?",
+        "candidates": [
+            "(A) Pink is theme color",
+            "(B) Pink brings good luck",
+            "(C) Pink grabs attention",
+            "(D) Pink is his favorite color"
+        ],
+        "answer": "(A) Pink is theme color",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "49:12-52:32"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Who is the best Best Director?",
+        "candidates": [
+            "(A) Bong Joon-ho",
+            "(B) Christopher Nolan",
+            "(C) Guillermo del Toro",
+            "(D) Damien Chazelle"
+        ],
+        "answer": "(B) Christopher Nolan",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "65:22-68:12"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Who is the Best Lead Actress?",
+        "candidates": [
+            "(A) Ren\u00e9e Zellweger",
+            "(B) Olivia Colman",
+            "(C) Frances McDormand",
+            "(D) Emma Stone"
+        ],
+        "answer": "(D) Emma Stone",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "68:42-76:21"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Which film wins the Best Picture?",
+        "candidates": [
+            "(A) The Shape of Water",
+            "(B) Nomadland",
+            "(C) Moonlight",
+            "(D) Oppenheimer"
+        ],
+        "answer": "(D) Oppenheimer",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "78:52-83:59"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "What is the second to last award presented?",
+        "candidates": [
+            "(A) Best Lead Actor",
+            "(B) Best Lead Actress",
+            "(C) Best Director",
+            "(D) Best Picture"
+        ],
+        "answer": "(B) Best Lead Actress",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-84:33"
+    },
+    {
+        "video": "00000014",
+        "type": "live",
+        "question": "Why is there letter on the screen when the Rock appears on the stage with another presenter?",
+        "candidates": [
+            "(A) It is the translation of an audio that is not English",
+            "(B) It is the auto-generated English subtitles",
+            "(C) It is the description of the next award name",
+            "(D) It is the description of the presenters"
+        ],
+        "answer": "(A) It is the translation of an audio that is not English",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "35:23-35:23"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "Where is the podium located, respective to the people on the stage?",
+        "candidates": [
+            "(A) There is no rostrum",
+            "(B) On the right side of the stage",
+            "(C) In the middle of the stage",
+            "(D) Left side of the stage"
+        ],
+        "answer": "(D) Left side of the stage",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:53-02:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "Where are the Nobel laureates in physiology or medicine come from?",
+        "candidates": [
+            "(A) Americans",
+            "(B) British people",
+            "(C) Japanese",
+            "(D) Norwegian"
+        ],
+        "answer": "(C) Japanese",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "49:40-50:02"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What kind of clothes do winners of the Nobel Prize in Physiology or Medicine wear?",
+        "candidates": [
+            "(A) Black suit",
+            "(B) Dress",
+            "(C) Kimono",
+            "(D) Men's tuxedo"
+        ],
+        "answer": "(D) Men's tuxedo",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "49:00-50:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "How many hosts have changed?",
+        "candidates": [
+            "(A) 5",
+            "(B) 3",
+            "(C) 6",
+            "(D) 1"
+        ],
+        "answer": "(C) 6",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:00-76:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What color are the stools on which the four members of the royal family sit?",
+        "candidates": [
+            "(A) Blue and gold",
+            "(B) Only white",
+            "(C) White and gold",
+            "(D) Red and gold"
+        ],
+        "answer": "(A) Blue and gold",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:58-07:13"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What color is the ribbon on the man who accompanied the first winner of the Nobel Prize in Physics?",
+        "candidates": [
+            "(A) White and green",
+            "(B) Blue and yellow",
+            "(C) Yellow and white",
+            "(D) Blue and white"
+        ],
+        "answer": "(B) Blue and yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "31:05-31:30"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What color is the bow tie worn by the man who presided over the Nobel Prize in Chemistry?",
+        "candidates": [
+            "(A) Red bow tie",
+            "(B) Black bow tie",
+            "(C) White bow tie",
+            "(D) Blue bow tie"
+        ],
+        "answer": "(C) White bow tie",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "33:08-33:20"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "How many female winners are there in this Nobel Prize?",
+        "candidates": [
+            "(A) Only one woman won the prize this year",
+            "(B) Half of the winners this year are women",
+            "(C) Two women won the prize this year",
+            "(D) No women have won prizes this year"
+        ],
+        "answer": "(D) No women have won prizes this year",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:00-80:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What kind of awards have two winners?",
+        "candidates": [
+            "(A) Nobel Prize in Literature",
+            "(B) Nobel Prize in Chemistry",
+            "(C) Nobel Peace Prize",
+            "(D) Nobel Memorial Prize in Economic Sciences"
+        ],
+        "answer": "(D) Nobel Memorial Prize in Economic Sciences",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "11:44-17:54"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "Where is the woman in a blue dress sitting on the right side of the podium?",
+        "candidates": [
+            "(A) Last row",
+            "(B) Nobody wears it",
+            "(C) First row",
+            "(D) Second row"
+        ],
+        "answer": "(A) Last row",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "60:35-60:40"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What happened between 65:02-65:29?",
+        "candidates": [
+            "(A) The singer sang a high note and the audience applauded excitedly",
+            "(B) The singer was so nervous that the audience sighed after singing",
+            "(C) The singer was so nervous that the audience applauded after singing",
+            "(D) The singing was interrupted by a command error"
+        ],
+        "answer": "(C) The singer was so nervous that the audience applauded after singing",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "65:02-65:09"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "How many people won this year?",
+        "candidates": [
+            "(A) 12",
+            "(B) 14",
+            "(C) 11",
+            "(D) 13"
+        ],
+        "answer": "(C) 11",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:30-80:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "How many hosts didn't wear any badges on their chests?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 1",
+            "(D) 8"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "05:00-77:30"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "Who left first after the award ceremony?",
+        "candidates": [
+            "(A) Members of the royal family",
+            "(B) Ensemble member",
+            "(C) Winners on the stage",
+            "(D) Audience under the stage"
+        ],
+        "answer": "(A) Members of the royal family",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "80:00-80:08"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "What happened on the stage after the royal family left?",
+        "candidates": [
+            "(A) Group photo of winners",
+            "(B) Winners leave",
+            "(C) The host left",
+            "(D) Shake hands with the winners"
+        ],
+        "answer": "(D) Shake hands with the winners",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "80:52-84:00"
+    },
+    {
+        "video": "00000015",
+        "type": "live",
+        "question": "Where is the harp player, respective to the people on the stage?",
+        "candidates": [
+            "(A) Right side of stage",
+            "(B) Second floor on the left",
+            "(C) On the left side of the stage",
+            "(D) Second floor on the right"
+        ],
+        "answer": "(D) Second floor on the right",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:13-07:22"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "When does the little mermaid appear for the first time?",
+        "candidates": [
+            "(A) 03:55",
+            "(B) 03:40",
+            "(C) 04:40",
+            "(D) 02:40"
+        ],
+        "answer": "(B) 03:40",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "03:35-03:45"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What happens from 17:16-17:40?",
+        "candidates": [
+            "(A) They quarrel",
+            "(B) They kiss",
+            "(C) They talk nicely",
+            "(D) They hug"
+        ],
+        "answer": "(A) They quarrel",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "17:16-17:40"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What color is the prince's belt?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Red",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(B) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "41:51-41:51"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "When does the mermaid have legs?",
+        "candidates": [
+            "(A) 65:35",
+            "(B) 65:55",
+            "(C) 66:55",
+            "(D) 66:35"
+        ],
+        "answer": "(B) 65:55",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "65:50-65:56"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What does the mermaid do when a group of seagulls are performing?",
+        "candidates": [
+            "(A) She cries",
+            "(B) She stands up",
+            "(C) She wants to find another mermaid?",
+            "(D) She kneels down"
+        ],
+        "answer": "(B) She stands up",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "68:25-68:59"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "When does the prince and the mermaid meet face to face for the first time?",
+        "candidates": [
+            "(A) 68:43",
+            "(B) 69:43",
+            "(C) 67:43",
+            "(D) 70:43"
+        ],
+        "answer": "(D) 70:43",
+        "question_type": [
+            "temporal grounding",
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "70:40-70:45"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What is the first event that involves a group of maids wearing yellow hats?",
+        "candidates": [
+            "(A) The mermaid has legs",
+            "(B) The mermaid disappears",
+            "(C) The mermaid takes a bath",
+            "(D) The mermaid changes the clothes"
+        ],
+        "answer": "(C) The mermaid takes a bath",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "74:14-74:47"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What does the scene switch to after the mermaid gets dress at dawn?",
+        "candidates": [
+            "(A) The ship",
+            "(B) The store",
+            "(C) The kitchen",
+            "(D) The sea"
+        ],
+        "answer": "(C) The kitchen",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "79:36-79:36"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What happens from 87:02-88:22?",
+        "candidates": [
+            "(A) The prince and the mermaid dance together",
+            "(B) The prince and the mermaid kiss",
+            "(C) The prince and the mermaid eat together",
+            "(D) The prince and the mermaid hold the wedding"
+        ],
+        "answer": "(A) The prince and the mermaid dance together",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "87:02-88:22"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "Who appears on the scene with two servants and a seashell in the background?",
+        "candidates": [
+            "(A) The prince",
+            "(B) The fish",
+            "(C) The evil witch",
+            "(D) The merman"
+        ],
+        "answer": "(C) The evil witch",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "92:49-92:49"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "Where are the prince and the mermaid before they go back to the palace?",
+        "candidates": [
+            "(A) On the boat",
+            "(B) On a ship",
+            "(C) In the kitchen",
+            "(D) Beneath the sea"
+        ],
+        "answer": "(A) On the boat",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "97:39-97:39"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What words are written in the background for an event that involves a group of princesses or royal girls?",
+        "candidates": [
+            "(A) The contest",
+            "(B) The decision",
+            "(C) The conceal",
+            "(D) The competition"
+        ],
+        "answer": "(A) The contest",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "106:10-106:10"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What happens from 110:35-110:44?",
+        "candidates": [
+            "(A) The witch takes the mermaid away",
+            "(B) The witch makes a deal with the mermaid",
+            "(C) The prince takes the mermaid away",
+            "(D) The male marmaid takes the mermaid away"
+        ],
+        "answer": "(A) The witch takes the mermaid away",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "110:35-110:44"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What does the mermaid do after the first time she and the merman hugs after she is taken away by the witch?",
+        "candidates": [
+            "(A) The mermaid dances with the prince",
+            "(B) The mermaid saves the prince",
+            "(C) The mermaid has legs again",
+            "(D) The mermaid kneels down"
+        ],
+        "answer": "(D) The mermaid kneels down",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "115:05-115:14"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "Who helps the mermaid to grow legs again?",
+        "candidates": [
+            "(A) The seagull",
+            "(B) The prince",
+            "(C) The witch",
+            "(D) A group of mermaids"
+        ],
+        "answer": "(D) A group of mermaids",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "116:15-116:27"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What is the last major event?",
+        "candidates": [
+            "(A) The merman kills the witch",
+            "(B) The prince and another girl fall in love",
+            "(C) The prince and the mermaid hold a wedding",
+            "(D) The mermaid dies and transforms into bubbles"
+        ],
+        "answer": "(C) The prince and the mermaid hold a wedding",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "119:37-120:25"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What is the final climax event?",
+        "candidates": [
+            "(A) The prince dances with the mermaid",
+            "(B) The prince lifts the mermaid up",
+            "(C) The prince and the mermaid kiss",
+            "(D) The mermaid dies in front of the prince"
+        ],
+        "answer": "(C) The prince and the mermaid kiss",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "121:09-121:12"
+    },
+    {
+        "video": "00000017",
+        "type": "live",
+        "question": "What category does the video beloge to?",
+        "candidates": [
+            "(A) Opera",
+            "(B) TV drama",
+            "(C) Musicals",
+            "(D) Acrobatics"
+        ],
+        "answer": "(C) Musicals",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:01-10:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) Speech video",
+            "(B) News report",
+            "(C) Drama",
+            "(D) Documentary"
+        ],
+        "answer": "(C) Drama",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-45:36"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What is the first animal to appear on the stage?",
+        "candidates": [
+            "(A) Horse",
+            "(B) Camel",
+            "(C) Sheep",
+            "(D) Dog"
+        ],
+        "answer": "(B) Camel",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:40-01:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What crutch is the man in the cloak holding?",
+        "candidates": [
+            "(A) Tiger head walking stick",
+            "(B) Dragon head crutch",
+            "(C) Sheep head walking stick",
+            "(D) Cobra crutch"
+        ],
+        "answer": "(D) Cobra crutch",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:37-02:37"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What is the first kind of bird to appear on the stage?",
+        "candidates": [
+            "(A) Bat",
+            "(B) Parrot",
+            "(C) Lark",
+            "(D) Sparrow"
+        ],
+        "answer": "(B) Parrot",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:50-02:50"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What color is the belt which worn by the character appear on stage first?",
+        "candidates": [
+            "(A) Red",
+            "(B) White",
+            "(C) Black",
+            "(D) Blue"
+        ],
+        "answer": "(A) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:30-06:30"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What color pants are the first woman dancing on stage wearing?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Purple",
+            "(C) Green",
+            "(D) Black"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:15-07:15"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What color is the background of the stage when Aladdin is arrested by three men with knives?",
+        "candidates": [
+            "(A) Blue and white",
+            "(B) Red and blue",
+            "(C) White and red",
+            "(D) Orange and red"
+        ],
+        "answer": "(C) White and red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:30-07:40"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "When the black screen appears on the stage for the first time, from the perspective of the audience, from which direction does Aladdin appear?",
+        "candidates": [
+            "(A) Upper left corner",
+            "(B) Lower left corner",
+            "(C) Upper right corner",
+            "(D) Lower right corner"
+        ],
+        "answer": "(C) Upper right corner",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:00-08:15"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What kind of clothes does the genie wear when he appears for the second time?",
+        "candidates": [
+            "(A) Black suit",
+            "(B) Golden suit",
+            "(C) Blue suit",
+            "(D) White suit"
+        ],
+        "answer": "(D) White suit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:30-20:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "What are the actors not doing among the audience?",
+        "candidates": [
+            "(A) Hug the audience",
+            "(B) Toss and catch",
+            "(C) Riding an elephant",
+            "(D) Riding horses"
+        ],
+        "answer": "(A) Hug the audience",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:00-24:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "When the Buddha statue appears, how many people are next to it?",
+        "candidates": [
+            "(A) 2",
+            "(B) 3",
+            "(C) 1",
+            "(D) 4"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "32:30-32:50"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "When the actors take their final call, how many people in white and purple clothes are the first to appear on the stage?",
+        "candidates": [
+            "(A) 14",
+            "(B) 12",
+            "(C) 11",
+            "(D) 13"
+        ],
+        "answer": "(C) 11",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:00-36:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "When the genie of the magic lamp comes on stage for the curtain call, what is he holding in his hand?",
+        "candidates": [
+            "(A) A plastic bag",
+            "(B) A suitcase",
+            "(C) A basket",
+            "(D) A leather bag"
+        ],
+        "answer": "(B) A suitcase",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "38:40-39:00"
+    },
+    {
+        "video": "00000018",
+        "type": "live",
+        "question": "Where does the red fruit that Aladdin give to the princess come from?",
+        "candidates": [
+            "(A) He picked it from the tree",
+            "(B) He bought it from the fruit merchant",
+            "(C) He stole it from the fruit cart",
+            "(D) He stole it from the basket behind someone else's back"
+        ],
+        "answer": "(D) He stole it from the basket behind someone else's back",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "43:20-43:30"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Which moderator is the last to speak?",
+        "candidates": [
+            "(A) The hostess of the green skirt",
+            "(B) The male host in a black suit",
+            "(C) The male host in the blue jacket",
+            "(D) The hostess in a green suit"
+        ],
+        "answer": "(A) The hostess of the green skirt",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:06-00:14"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What is written on the top dark blue board at 01:31?",
+        "candidates": [
+            "(A) Conference City",
+            "(B) Summit Forum",
+            "(C) Meeting Village",
+            "(D) Meet the Engineer"
+        ],
+        "answer": "(C) Meeting Village",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "01:31-01:31"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What color are the cups on the table of the two presenters?",
+        "candidates": [
+            "(A) Red",
+            "(B) Write",
+            "(C) Blue",
+            "(D) Black"
+        ],
+        "answer": "(D) Black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:04-03:21"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What color is the hostess of the first set of live hosts they connected wearing?",
+        "candidates": [
+            "(A) Grey suit",
+            "(B) Black suit",
+            "(C) Red suit",
+            "(D) Dark blue suit"
+        ],
+        "answer": "(C) Red suit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:18-05:25"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Who interviews Rodney Clark?",
+        "candidates": [
+            "(A) The male host in the green suit",
+            "(B) The hostess in a black suit",
+            "(C) The male host in the blue suit",
+            "(D) The hostess in the red suit"
+        ],
+        "answer": "(D) The hostess in the red suit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:50-14:05"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Who is interviewed before Nieves Navarro?",
+        "candidates": [
+            "(A) Britney Bartlett",
+            "(B) Steve Multer",
+            "(C) Rodney Clark",
+            "(D) Carrie Palin"
+        ],
+        "answer": "(D) Carrie Palin",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:04-20:25"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Who is the second person to speak on stage?",
+        "candidates": [
+            "(A) Carrie Palin",
+            "(B) Jonathan Davidson",
+            "(C) Rodney Clark",
+            "(D) Britney Bartlett"
+        ],
+        "answer": "(B) Jonathan Davidson",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "42:12-42:35"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Jonathan Davidson shows a video about what brand during his talk?",
+        "candidates": [
+            "(A) Saint Laurent",
+            "(B) Gucci",
+            "(C) Dior",
+            "(D) L'Oreal"
+        ],
+        "answer": "(D) L'Oreal",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "51:15-53:23"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What is written in the orange circle in the picture that appears at 69:20?",
+        "candidates": [
+            "(A) WEB",
+            "(B) APP",
+            "(C) AWS",
+            "(D) PCI"
+        ],
+        "answer": "(C) AWS",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "69:18-69:30"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "How many women are there to speak on the stage?",
+        "candidates": [
+            "(A) 3",
+            "(B) 0",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "answer": "(D) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "35:00-139:55"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "Which guest does Ronak Desai invite on stage in the middle of his speech?",
+        "candidates": [
+            "(A) Steve Multer",
+            "(B) Britney Bartlett",
+            "(C) Carrie Palin",
+            "(D) Petek Ergul"
+        ],
+        "answer": "(D) Petek Ergul",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "100:23-100:55"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What does Fletcher Previn do when he gets on stage?",
+        "candidates": [
+            "(A) He hugs the man on the stage",
+            "(B) He high-fives the man on the stage",
+            "(C) He bows to the man on the stage",
+            "(D) He shakes hands with the man on the stage"
+        ],
+        "answer": "(B) He high-fives the man on the stage",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "132:45-132:55"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What is the video doing at the beginning?",
+        "candidates": [
+            "(A) The staff is helping the host make up at that time",
+            "(B) The staff is explaining the process to the host at that time",
+            "(C) The staff is repairing the microphone for the host at that time",
+            "(D) The staff is helping the host with his hairstyle"
+        ],
+        "answer": "(D) The staff is helping the host with his hairstyle",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:04-00:06"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "What's the name of the host in the green skirt?",
+        "candidates": [
+            "(A) Steve Multer",
+            "(B) Petek Ergul",
+            "(C) Nish Parkar",
+            "(D) Carrie Palin"
+        ],
+        "answer": "(C) Nish Parkar",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:53-00:55"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "How many chairs are there in the picture at 01:42?",
+        "candidates": [
+            "(A) 3",
+            "(B) 0",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "01:42-01:44"
+    },
+    {
+        "video": "00000019",
+        "type": "live",
+        "question": "How many times does Jeetu Patel speak on stage?",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 3",
+            "(D) 4"
+        ],
+        "answer": "(A) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:00-139:55"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "What is the planet hanging on the stage background?",
+        "candidates": [
+            "(A) Sun",
+            "(B) Earth",
+            "(C) Moon",
+            "(D) Mars"
+        ],
+        "answer": "(C) Moon",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:00-14:02"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "What kind of hat does the little boy wear?",
+        "candidates": [
+            "(A) Cowboy hat",
+            "(B) Beret",
+            "(C) Baseball cap",
+            "(D) Top hat"
+        ],
+        "answer": "(B) Beret",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "30:33-30:33"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "From how other cats treat the cat with the white cane, we can infer about its status?",
+        "candidates": [
+            "(A) There is no such thing as status for cats",
+            "(B) Its status is very high",
+            "(C) Its status is very low",
+            "(D) Its status is similar to theirs"
+        ],
+        "answer": "(B) Its status is very high",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "35:00-35:54"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "What is the game the two children play with the two calico cats?",
+        "candidates": [
+            "(A) Over under relay",
+            "(B) Tag",
+            "(C) Duck, duck, goose",
+            "(D) Leapfrog"
+        ],
+        "answer": "(D) Leapfrog",
+        "question_type": [
+            "event understanding",
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "40:23-41:00"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "What color skirts do cats holding white fans wear?",
+        "candidates": [
+            "(A) Blue",
+            "(B) White",
+            "(C) Black",
+            "(D) Red"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "73:02-73:50"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "How do cats communicate their thoughts?",
+        "candidates": [
+            "(A) By reciting",
+            "(B) By sleeping",
+            "(C) By singing",
+            "(D) By talking"
+        ],
+        "answer": "(C) By singing",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "83:00-83:10"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "Which movement does the cat, wearing a sparkling black suit, black bow tie, and tight pants, perform?",
+        "candidates": [
+            "(A) Split",
+            "(B) Moonwalk",
+            "(C) Twerk",
+            "(D) Krump"
+        ],
+        "answer": "(A) Split",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "89:58-89:58"
+    },
+    {
+        "video": "00000020",
+        "type": "live",
+        "question": "What letter is on the black board placed on the second floor of the background? ",
+        "candidates": [
+            "(A) Matches",
+            "(B) Poker",
+            "(C) Fire",
+            "(D) Stop"
+        ],
+        "answer": "(A) Matches",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "80:22-80:22"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "Who is the first man in red?",
+        "candidates": [
+            "(A) Kyrie Irving",
+            "(B) Brad Pitt",
+            "(C) Tom Hanks",
+            "(D) Leonardo DiCaprio"
+        ],
+        "answer": "(C) Tom Hanks",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:59-00:59"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "Is the scene where individuals are seen taking photos with the Pope part fictional or real? Which sentence best describes the place this scene happens?",
+        "candidates": [
+            "(A) Fictional, from a movie",
+            "(B) Fictional, from a documentary",
+            "(C) Real, from live",
+            "(D) Real, from news report"
+        ],
+        "answer": "(A) Fictional, from a movie",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "02:23-02:23"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What does the presenter do to Brad Pitt when he wins the award?",
+        "candidates": [
+            "(A) She hugs him",
+            "(B) She gives a high five",
+            "(C) She slaps him",
+            "(D) She kisses him"
+        ],
+        "answer": "(A) She hugs him",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:21-03:23"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "For each award, the number of presenters is different. What are the maximum and minimum numbers of presenters in the video?",
+        "candidates": [
+            "(A) 5, 1",
+            "(B) 2, 1",
+            "(C) 4, 0",
+            "(D) 3, 1"
+        ],
+        "answer": "(B) 2, 1",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "00:00-93:06"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "Where does the movie directed by Gary Rydstrom, Tom Johnson and Mark Ulano take place?",
+        "candidates": [
+            "(A) Land",
+            "(B) Magma",
+            "(C) Ocean",
+            "(D) Space"
+        ],
+        "answer": "(D) Space",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "41:42-41:42"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "Who are the two people dressing as animals?",
+        "candidates": [
+            "(A) They are performers",
+            "(B) They are the recipients of the award",
+            "(C) They are presenters",
+            "(D) They are troublemakers"
+        ],
+        "answer": "(C) They are presenters",
+        "question_type": [
+            "event understanding",
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "56:30-58:49"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What clothes do three winners who win Best Makeup and Hairstyling Design wear?",
+        "candidates": [
+            "(A) Black dress, black suit, blue dress",
+            "(B) Two black dresses, black suit",
+            "(C) Black dress, black suit, white suit",
+            "(D) Blue dress, two blue suits"
+        ],
+        "answer": "(A) Black dress, black suit, blue dress",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "61:24-62:20"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What is the relationship between Bong Joon Ho and the elderly man whom people are standing up and applauding for during his speech?",
+        "candidates": [
+            "(A) Actor and producer",
+            "(B) Employer and employee",
+            "(C) Father and son",
+            "(D) Senior producer and young producer"
+        ],
+        "answer": "(D) Senior producer and young producer",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "70:45-70:51"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What kind of content does the entire video cover?",
+        "candidates": [
+            "(A) The entire video narrates the complete process of the 2020 Golden Globe ceremony, where numerous figures from the film industry participate, with many individuals being nominated and awarded",
+            "(B) The entire video narrates the complete process of the 2020 Oscars ceremony, where numerous figures from the film industry participate, with many individuals being nominated and awarded",
+            "(C) The entire video narrates the complete process of the 2020 Olympics, where numerous athletes around the world participate, with many individuals win the medels",
+            "(D) The entire video narrates the complete process of the 2020 Golden Horse Awards, where numerous figures from the film industry participate, with many individuals being nominated and awarded"
+        ],
+        "answer": "(B) The entire video narrates the complete process of the 2020 Oscars ceremony, where numerous figures from the film industry participate, with many individuals being nominated and awarded",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-93:36"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "Compared to the character the Best Actor portrayed in the movie, the Best Actor winner is ___ on the stage.",
+        "candidates": [
+            "(A) More built",
+            "(B) Quieter",
+            "(C) More animated",
+            "(D) Slimer"
+        ],
+        "answer": "(A) More built",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "74:30-79:30"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What is the nationality of the producers for the Best Picture award?",
+        "candidates": [
+            "(A) Americans",
+            "(B) Chinese",
+            "(C) Koreans",
+            "(D) Japanese"
+        ],
+        "answer": "(C) Koreans",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "89:10-89:40"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What does the last present wear?",
+        "candidates": [
+            "(A) Headphones",
+            "(B) Earrings",
+            "(C) Glasses",
+            "(D) Hearing aid"
+        ],
+        "answer": "(B) Earrings",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "93:00-93:36"
+    },
+    {
+        "video": "00000064",
+        "type": "live",
+        "question": "What frequently appears at the top left corner of the video?",
+        "candidates": [
+            "(A) Date",
+            "(B) QR code",
+            "(C) Channel name",
+            "(D) Nothing"
+        ],
+        "answer": "(B) QR code",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-93:36"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "Where is this event held?",
+        "candidates": [
+            "(A) Sao Paulo",
+            "(B) Manchester",
+            "(C) Rome",
+            "(D) Dubai"
+        ],
+        "answer": "(D) Dubai",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "00:00-00:30"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "How many microphones does the male host have in his opening speech?",
+        "candidates": [
+            "(A) All three are tabletop microphones",
+            "(B) Three, one headset and two desktop microphones",
+            "(C) Two, a microphone and a tabletop microphone",
+            "(D) Three, one headset and two tabletop microphones"
+        ],
+        "answer": "(B) Three, one headset and two desktop microphones",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:32-01:10"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "What did the hostess do when he invited Ronaldo to the stage for the first time?",
+        "candidates": [
+            "(A) He bowed to the audience in thanks",
+            "(B) He shook hands with everyone on stage",
+            "(C) He hugged everyone on stage",
+            "(D) He fist-cumping with the presenter"
+        ],
+        "answer": "(B) He shook hands with everyone on stage",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:40-04:45"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "What does Ronaldo wear?",
+        "candidates": [
+            "(A) He wears a black suit, a white shirt and leather shoes, a watch on his left hand and a stud earring on his right ear",
+            "(B) He wears a black suit, a white shirt and leather shoes, a watch on his left hand and a stud ear on his left ear",
+            "(C) He wears a black suit, a white shirt and white sneakers, a watch on his left hand and a stud earring on his left ear",
+            "(D) He wears a dark blue suit, high neck, white sneakers, watch on left hand and stud earring on left ear"
+        ],
+        "answer": "(D) He wears a dark blue suit, high neck, white sneakers, watch on left hand and stud earring on left ear",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:40-05:30"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "Which of the following awards is actually presented in the video?",
+        "candidates": [
+            "(A) Best Men's Football Club",
+            "(B) Best Middle East Club",
+            "(C) Women's Club of the Year",
+            "(D) Best Digital Content Club"
+        ],
+        "answer": "(B) Best Middle East Club",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "45:25-45:45"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "How many winners did not come to the scene to receive their awards?",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 3",
+            "(D) 4"
+        ],
+        "answer": "(A) 2",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "39:28-43:00"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "How many times has Ronaldo been on stage?",
+        "candidates": [
+            "(A) 5",
+            "(B) 3",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:36-109:12"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "Who applauded for Edson Santana de Moraes when he took the stage to accept the award?",
+        "candidates": [
+            "(A) All the guests",
+            "(B) Male host",
+            "(C) All of them",
+            "(D) Hostess"
+        ],
+        "answer": "(B) Male host",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "57:01-57:07"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "There are ___\u00a0 awards related to the club.",
+        "candidates": [
+            "(A) 2",
+            "(B) 3",
+            "(C) 5",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "44:20-101:54"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "What is the relationship between Ronaldo and the woman in the white dress sitting next to him?",
+        "candidates": [
+            "(A) Husband and wife relationship",
+            "(B) Friendships",
+            "(C) It does not matter",
+            "(D) Sister and brother relationship"
+        ],
+        "answer": "(A) Husband and wife relationship",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "82:17-83:03"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "Cristiano Ronaldo took the stage to accept the award for the first time and won ___ trophies.",
+        "candidates": [
+            "(A) 1",
+            "(B) 0",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "84:16-84:22"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "What kind of award was given in the end?",
+        "candidates": [
+            "(A) Coaching Career Award",
+            "(B) Best Men's Soccer Player",
+            "(C) Best Men's Player",
+            "(D) Player Career Award"
+        ],
+        "answer": "(C) Best Men's Player",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "97:48-99:12"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "Manchester City FC took home a total of ___ trophies when they received the award",
+        "candidates": [
+            "(A) 5",
+            "(B) 6",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(A) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "73:57-75:05"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "How many awards did Manchester City win in this awards?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 7",
+            "(D) 4"
+        ],
+        "answer": "(A) 6",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "37:42-101:54"
+    },
+    {
+        "video": "00000065",
+        "type": "live",
+        "question": "What award did Ronaldo win?",
+        "candidates": [
+            "(A) Maradona Scorer of the Year, Best Middle Eastern Player and Fans' Favorite Player Award",
+            "(B) Best Middle Eastern Player and Fan Favorite Player Award",
+            "(C) Best Men's Soccer Player, Best Middle Eastern Player and Fan Favorite Player Award",
+            "(D) Best Men's Soccer Player and Fan Favorite Player Award"
+        ],
+        "answer": "(A) Maradona Scorer of the Year, Best Middle Eastern Player and Fans' Favorite Player Award",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "79:03-97:48"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "Who is the green sculpture directly behind the stage?",
+        "candidates": [
+            "(A) Friedrich Engels",
+            "(B) Karl Heinrich Marx",
+            "(C) Alfred Bernhard Nobel",
+            "(D) Michelangelo Buonarroti"
+        ],
+        "answer": "(C) Alfred Bernhard Nobel",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:42-11:45"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What does the microphone use for the presenter?",
+        "candidates": [
+            "(A) Two tabletop microphones",
+            "(B) A headset microphone",
+            "(C) A floor-standing microphone",
+            "(D) A handheld microphone"
+        ],
+        "answer": "(A) Two tabletop microphones",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:44-12:06"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "How many tiers of seats are there behind the rostrum?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 5",
+            "(D) 6"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:36-11:42"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "How many women are there in the first row on the right hand side of the host?",
+        "candidates": [
+            "(A) 4",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:29-11:36"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What is the format of the Nobel Peace Prize award?",
+        "candidates": [
+            "(A) Awards were given via telephone connection",
+            "(B) Adopted the method of broadcasting and connecting awards",
+            "(C) Face-to-face awards were adopted",
+            "(D) The awards were presented via video link"
+        ],
+        "answer": "(D) The awards were presented via video link",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:06-12:50"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What happened after the 2020 and 2021 winners were introduced?",
+        "candidates": [
+            "(A) Proceed directly to the award ceremony of the 2022 Nobel laureates",
+            "(B) The 2020 and 2021 winners exited and began to present awards to the 2022 winners",
+            "(C) Everyone looked at the paintings created by the Nobil Foundation for the winners",
+            "(D) Everyone listened to the songs written by the Nobil Foundation for the winners"
+        ],
+        "answer": "(D) Everyone listened to the songs written by the Nobil Foundation for the winners",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:20-24:45"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What color dress does the lady who sings bel canto wear?",
+        "candidates": [
+            "(A) Brown dress skirt",
+            "(B) Black dress skirt",
+            "(C) White dress skirt",
+            "(D) Red dress skirt"
+        ],
+        "answer": "(B) Black dress skirt",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "42:45-43:04"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "How many people have won the Nobel Prize in Chemistry?",
+        "candidates": [
+            "(A) 4",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "40:38-41:00"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What is the gender of the Nobel Prize winners in physics?",
+        "candidates": [
+            "(A) Nobel Prize in Physics Winners Are Two Men",
+            "(B) Nobel Prize in Physics Winners Are Three Men",
+            "(C) The Nobel Prize in Physics has been won by one woman and two men",
+            "(D) Nobel Prize in Physics winners are three women"
+        ],
+        "answer": "(B) Nobel Prize in Physics Winners Are Three Men",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "29:28-30:04"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "Where does the orchestra conductor stand?",
+        "candidates": [
+            "(A) On the left side of the second floor, from the perspective of the camera view",
+            "(B) On the right side of the second floor, from the perspective of the camera view",
+            "(C) There was no command",
+            "(D) Right in the middle of the second floor"
+        ],
+        "answer": "(D) Right in the middle of the second floor",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "34:05-35:07"
+    },
+    {
+        "video": "00000066",
+        "type": "live",
+        "question": "What was the mood of the people at the scene most of the time?",
+        "candidates": [
+            "(A) Heavy, silent",
+            "(B) Bored, not interested",
+            "(C) Excited, happy",
+            "(D) Reckless, aggressive"
+        ],
+        "answer": "(A) Heavy, silent",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-80:00"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "Which side of the stage was empty at the opening?",
+        "candidates": [
+            "(A) Both first rows of left and right",
+            "(B) First row on the left",
+            "(C) Second row on the left",
+            "(D) There was no one"
+        ],
+        "answer": "(A) Both first rows of left and right",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-02:30"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "Where is the podium located?",
+        "candidates": [
+            "(A) Left side of the stage, from the perspective of people on the stage",
+            "(B) On the right side of the stage, from the perspective of people on the stage",
+            "(C) In the middle of the stage",
+            "(D) There is no rostrum"
+        ],
+        "answer": "(A) Left side of the stage, from the perspective of people on the stage",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "00:00-00:08"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "What is the main color of the decoration design of the whole stage?",
+        "candidates": [
+            "(A) Yellow and red",
+            "(B) Blue and red",
+            "(C) Yellow and blue",
+            "(D) Green and red"
+        ],
+        "answer": "(C) Yellow and blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:48"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "From 24:30-24:33, what did G\u00e9rard Albert Mourou do?",
+        "candidates": [
+            "(A) Get up from your chair",
+            "(B) He is receiving the award",
+            "(C) He fell to the ground",
+            "(D) He put the book on the chair"
+        ],
+        "answer": "(D) He put the book on the chair",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "24:30-24:33"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "Who appears on the screen at 38:13?",
+        "candidates": [
+            "(A) Three Nobel Laureates in Physics",
+            "(B) Three Nobel Laureates in Chemistry",
+            "(C) Three Nobel laureates in economics",
+            "(D) Three Nobel Prize winners in literature"
+        ],
+        "answer": "(B) Three Nobel Laureates in Chemistry",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "38:13-38:20"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "How many Nobel Prizes in physiology or medicine have been awarded?",
+        "candidates": [
+            "(A) 1",
+            "(B) 3",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "49:05-49:30"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "What color is the wall light around the stage?",
+        "candidates": [
+            "(A) Red",
+            "(B) Blue",
+            "(C) Green",
+            "(D) Yellow"
+        ],
+        "answer": "(D) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:24-01:40"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "Do Nobel laureates in physiology or medicine wear suits?",
+        "candidates": [
+            "(A) No, two wear kimonos",
+            "(B) No, one wears a suit, one wears a kimono",
+            "(C) Yes, two wear suits",
+            "(D) No, one wears a suit, one wears a dress"
+        ],
+        "answer": "(B) No, one wears a suit, one wears a kimono",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "49:05-49:15"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "How many women are there on the right side of the stage, from the perspective of the camera view?",
+        "candidates": [
+            "(A) 5",
+            "(B) 4",
+            "(C) 6",
+            "(D) 7"
+        ],
+        "answer": "(D) 7",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "46:33-46:34"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "Who leaves the venue first after the awards?",
+        "candidates": [
+            "(A) Winners",
+            "(B) Compere",
+            "(C) Royalty",
+            "(D) Audience"
+        ],
+        "answer": "(C) Royalty",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "63:20-03:35"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "What clothes does the person who presides over the Nobel Prize in Chemistry wear?",
+        "candidates": [
+            "(A) Black suit",
+            "(B) Red suit",
+            "(C) Long red dress",
+            "(D) Long black dress"
+        ],
+        "answer": "(C) Long red dress",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "23:31-35:11"
+    },
+    {
+        "video": "00000067",
+        "type": "live",
+        "question": "How many hosts have changed?",
+        "candidates": [
+            "(A) 7",
+            "(B) 5",
+            "(C) 6",
+            "(D) 4"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "00:00-60:42"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "The stool on which the winner sits is ___.",
+        "candidates": [
+            "(A) Black",
+            "(B) Yellow",
+            "(C) Green",
+            "(D) Red"
+        ],
+        "answer": "(D) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:15-03:00"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "What color is the decoration on the edge of the stage?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Red",
+            "(C) Black",
+            "(D) Yellow"
+        ],
+        "answer": "(D) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:07"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "What color stool does the royal family sit on?",
+        "candidates": [
+            "(A) Blue and gold",
+            "(B) Red and gold",
+            "(C) Yellow and gold",
+            "(D) Green and gold"
+        ],
+        "answer": "(A) Blue and gold",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-01:07"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "How many hostesses are there?",
+        "candidates": [
+            "(A) 5",
+            "(B) 1",
+            "(C) 3",
+            "(D) 2"
+        ],
+        "answer": "(C) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-70:00"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "How many winners are there this year?",
+        "candidates": [
+            "(A) 13",
+            "(B) 12",
+            "(C) 14",
+            "(D) 11"
+        ],
+        "answer": "(D) 11",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:06-63:00"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "What is the Nobel Prize in Physics awarded after?",
+        "candidates": [
+            "(A) Nobel Prize in Chemistry",
+            "(B) Nobel Peace Prize",
+            "(C) Nobel Prize in Economics",
+            "(D) Nobel Prize in Physiology or Medicine"
+        ],
+        "answer": "(A) Nobel Prize in Chemistry",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:48-29:41"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "How many categories of awards are awarded by three winners?",
+        "candidates": [
+            "(A) 3",
+            "(B) 4",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "answer": "(D) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:06-63:00"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "Which of the winners has a different color than the others?",
+        "candidates": [
+            "(A) Katalin Karik\u00f3",
+            "(B) \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0415\u043a\u0438\u043c\u043e\u0432",
+            "(C) Ferenc Krausz",
+            "(D) Anne L'Huillier"
+        ],
+        "answer": "(D) Anne L'Huillier",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "50:02-50:08"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "Who sits in front of the cellist?",
+        "candidates": [
+            "(A) Accordionist",
+            "(B) Violinist",
+            "(C) Conductor",
+            "(D) Saxophonist"
+        ],
+        "answer": "(B) Violinist",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "61:15-61:25"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "What is the logo of the stage floor?",
+        "candidates": [
+            "(A) Love and peace are written on the ground",
+            "(B) An \"N\" placed in a circle",
+            "(C) Nobel is written on the ground",
+            "(D) The nobel prize"
+        ],
+        "answer": "(D) The nobel prize",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:01-00:30"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "What color is the bow tie of the Nobel Prize winner in literature?",
+        "candidates": [
+            "(A) Red",
+            "(B) White",
+            "(C) Black",
+            "(D) Blue"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "55:50-56:20"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "How many microphones are there on the podium?",
+        "candidates": [
+            "(A) 1",
+            "(B) 4",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:00-05:15"
+    },
+    {
+        "video": "00000068",
+        "type": "live",
+        "question": "Where is the podium located, respective to the people on the stage?",
+        "candidates": [
+            "(A) In the middle of the stage",
+            "(B) Left side of the stage",
+            "(C) On the right side of the stage",
+            "(D) There is no rostrum"
+        ],
+        "answer": "(B) Left side of the stage",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:22-00:30"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What type of video is this",
+        "candidates": [
+            "(A) Speech video",
+            "(B) Documentary",
+            "(C) Concert",
+            "(D) News report"
+        ],
+        "answer": "(A) Speech video",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-120:07"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What words are on the screen before the demo of Fourier Intelligence?",
+        "candidates": [
+            "(A) I am a boy",
+            "(B) I am a train",
+            "(C) I am a trainer",
+            "(D) I am a robot"
+        ],
+        "answer": "(C) I am a trainer",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:25-01:25"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What did Jensen Huang do after the end of the first promotional video?",
+        "candidates": [
+            "(A) He waved and walked off the stage",
+            "(B) He walked off the stage",
+            "(C) He walked onto the stage while waving",
+            "(D) He bowed to the audience"
+        ],
+        "answer": "(C) He walked onto the stage while waving",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:15-03:30"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What's Jen-Hsun Huang's expression like when he talks about the development of AI?",
+        "candidates": [
+            "(A) Frightened",
+            "(B) Happy",
+            "(C) Uncomfortable",
+            "(D) Unbelievable"
+        ],
+        "answer": "(D) Unbelievable",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "11:07-11:15"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What's on the screen behind Jen-Hsun Huang when he talks about Ansys Rescale?",
+        "candidates": [
+            "(A) Boat",
+            "(B) Cart",
+            "(C) Airplane",
+            "(D) Car"
+        ],
+        "answer": "(D) Car",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "14:25-14:25"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What is the promotional video about that mentions Nvlink Switch System?",
+        "candidates": [
+            "(A) Chip suitability",
+            "(B) Chip function",
+            "(C) Chip energy saving",
+            "(D) Chip structure"
+        ],
+        "answer": "(D) Chip structure",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "25:30-27:30"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "Which company do the presenters mention after the collaboration between NVIDIA and Google?",
+        "candidates": [
+            "(A) Amazon",
+            "(B) Oracle",
+            "(C) Microsoft",
+            "(D) AMD"
+        ],
+        "answer": "(B) Oracle",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "60:44-60:44"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What does the promotional video show that mentions omniverse digital twin?",
+        "candidates": [
+            "(A) Showcasing Nvidia's production workshop",
+            "(B) Showcasing AMD products",
+            "(C) Showcasing AMD's production workshop",
+            "(D) Showcasing NVIDIA products"
+        ],
+        "answer": "(A) Showcasing Nvidia's production workshop",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "62:35-63:30"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "Which area is used to demonstrate the AI forecast?",
+        "candidates": [
+            "(A) Philippines region",
+            "(B) Japan area",
+            "(C) Taiwan region",
+            "(D) Hawaii island"
+        ],
+        "answer": "(C) Taiwan region",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "69:09-69:09"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "Which company does the presenter mentions before Cohesity?",
+        "candidates": [
+            "(A) Nvidia",
+            "(B) Servicenow",
+            "(C) Sap",
+            "(D) Dell Technologies"
+        ],
+        "answer": "(B) Servicenow",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "86:12-86:12"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "Which company claims to first to provide AI-powered business insights from secondary data?",
+        "candidates": [
+            "(A) Snowflakes",
+            "(B) Cohesity",
+            "(C) Nvidia",
+            "(D) Servicenow"
+        ],
+        "answer": "(B) Cohesity",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "86:24-86:24"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "Which company does the presenter mentions before NetApp?",
+        "candidates": [
+            "(A) Snowflake",
+            "(B) Servicenow",
+            "(C) Cohesity",
+            "(D) Dell Technologies"
+        ],
+        "answer": "(A) Snowflake",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "86:43-86:43"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What brand of car is used to show 3DEXCITE?",
+        "candidates": [
+            "(A) Audi",
+            "(B) Land rover",
+            "(C) BMW",
+            "(D) Rolls royce"
+        ],
+        "answer": "(B) Land rover",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "101:00-101:00"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What brand is the green SUV?",
+        "candidates": [
+            "(A) Rolls royce",
+            "(B) Yangwang U8",
+            "(C) Land rover",
+            "(D) BMW"
+        ],
+        "answer": "(B) Yangwang U8",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "102:31-102:31"
+    },
+    {
+        "video": "00000069",
+        "type": "live",
+        "question": "What is this video mainly about?",
+        "candidates": [
+            "(A) Jensen Huang introduces AMD's new products and achievements in various fields",
+            "(B) Lisa Su introduces AMD's new products and achievements in various fields",
+            "(C) Jensen Huang introduces NVIDIA's new products and achievements in various fields",
+            "(D) Lisa Su introduces NVIDIA's new products and achievements in various fields"
+        ],
+        "answer": "(C) Jensen Huang introduces NVIDIA's new products and achievements in various fields",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-120:07"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What category does the video belong to?",
+        "candidates": [
+            "(A) News program",
+            "(B) Travel vlog",
+            "(C) News conference",
+            "(D) Sports competition"
+        ],
+        "answer": "(C) News conference",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:01-15:00"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "When \"Pursuit of the Dream Machine\" appears on the screen behind the speaker, two lines of pictures are below the sentence. The timeline numbers ablove the first line of pictures are ____.",
+        "candidates": [
+            "(A) 1976, 1990, 2007, 2022",
+            "(B) 1945, 1960, 1968, 1972",
+            "(C) 1976, 1991, 2007, 2023",
+            "(D) 1946, 1962, 1968, 1972"
+        ],
+        "answer": "(B) 1945, 1960, 1968, 1972",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "04:01-04:01"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What color are the straps worn around the audience's necks?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Red",
+            "(C) Green",
+            "(D) Purple"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:07-05:07"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "How many videos are played during Satya Nadella's speech?",
+        "candidates": [
+            "(A) 4",
+            "(B) 5",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:16-05:16"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "After the press conference started, during the first video played, a yellow square appeared. What is the pattern in this yellow square?",
+        "candidates": [
+            "(A) Lock",
+            "(B) Handbag",
+            "(C) Coffee",
+            "(D) Kettle"
+        ],
+        "answer": "(C) Coffee",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:37-07:44"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "Who is the earliest character in the entire video?",
+        "candidates": [
+            "(A) Two teenage males",
+            "(B) Two teenage females",
+            "(C) Two elderly females",
+            "(D) A teenage female, a teenage male"
+        ],
+        "answer": "(B) Two teenage females",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:45-17:51"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What is the logical sequence of the entire conference?",
+        "candidates": [
+            "(A) What we build, How we build, Why we build",
+            "(B) How we build, What we build, Why we build",
+            "(C) How we build, Why we build, What we build",
+            "(D) What we build, Why we build, How we build"
+        ],
+        "answer": "(B) How we build, What we build, Why we build",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "18:33-18:33"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "Who is Mohd Adbuallah Khan?",
+        "candidates": [
+            "(A) A engineer",
+            "(B) A worker",
+            "(C) A teacher",
+            "(D) A farmer"
+        ],
+        "answer": "(D) A farmer",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "28:50-28:52"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What do the people do from 29:27-29:33?",
+        "candidates": [
+            "(A) They read books",
+            "(B) They dance",
+            "(C) The use the computer",
+            "(D) The sing songs"
+        ],
+        "answer": "(A) They read books",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "29:27-29:33"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What appears on the screen at the end of the video?",
+        "candidates": [
+            "(A) \"Microsoft Copilot\" and the logo",
+            "(B) \"Open AI\" and the logo",
+            "(C) \"Microsoft\" and the logo",
+            "(D) \"Google\"and the logo"
+        ],
+        "answer": "(C) \"Microsoft\" and the logo",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "31:11-31:11"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What main color is the cover of the book held by the little Indian girl wearing a blue turban?",
+        "candidates": [
+            "(A) White",
+            "(B) Red",
+            "(C) Blue",
+            "(D) Yellow"
+        ],
+        "answer": "(D) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "18:34-18:34"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "In the video, how many people are standing on the stage speaking?",
+        "candidates": [
+            "(A) Four",
+            "(B) Two",
+            "(C) Three",
+            "(D) One"
+        ],
+        "answer": "(B) Two",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-31:12"
+    },
+    {
+        "video": "00000070",
+        "type": "live",
+        "question": "What appears on the screen at 21:57?",
+        "candidates": [
+            "(A) To personalize and navigate your PC",
+            "(B) The trusted tools you need",
+            "(C) To bring Bing to ChatGPT",
+            "(D) To build next generation"
+        ],
+        "answer": "(B) The trusted tools you need",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "21:57-21:57"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "What is this video about?",
+        "candidates": [
+            "(A) Signing ceremony",
+            "(B) Vocal concert",
+            "(C) Dance competition",
+            "(D) Fashion show"
+        ],
+        "answer": "(B) Vocal concert",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-89:51"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "What instrument does the first person who wears black outfit play?",
+        "candidates": [
+            "(A) Guitar",
+            "(B) Drum kit",
+            "(C) Bass",
+            "(D) Piano"
+        ],
+        "answer": "(C) Bass",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:05-05:20"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How many dancers are there when Britney Spears first stands on the ground?",
+        "candidates": [
+            "(A) 6",
+            "(B) 2",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:24-06:35"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How many backup dancers struggle out of the silver cloth that is placed on the ground?",
+        "candidates": [
+            "(A) 8",
+            "(B) 4",
+            "(C) 6",
+            "(D) 2"
+        ],
+        "answer": "(B) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:38-06:50"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "What word best describes the atmosphere of the second song?",
+        "candidates": [
+            "(A) Relaxing",
+            "(B) Darksome",
+            "(C) Gory",
+            "(D) Lively"
+        ],
+        "answer": "(B) Darksome",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:43-09:10"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "There is a song in which the backup dancers wear black-and-white striped clothes. What colors are the flags that some dancers wave?",
+        "candidates": [
+            "(A) White, yellow, blue and black",
+            "(B) Purple, green, yellow and black",
+            "(C) Orange, yellow, white and black",
+            "(D) Red, yellow, blue and black"
+        ],
+        "answer": "(A) White, yellow, blue and black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:15-10:22"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How does the audience near the stage at the first floor watch the performance?",
+        "candidates": [
+            "(A) They stands and watch",
+            "(B) There is no audience near the stage",
+            "(C) They sit on chairs and watch",
+            "(D) They try to step onto the stage and watch"
+        ],
+        "answer": "(A) They stands and watch",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:35-08:00"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "There is a song in which the female singer wears a tight fitting astronaut suit. How does she leave the stage?",
+        "candidates": [
+            "(A) She is carried down by the dancers",
+            "(B) She goes downstairs from one side of the stage",
+            "(C) She descends in the elevator on the stage",
+            "(D) She is hoisted off the stage by a wire"
+        ],
+        "answer": "(C) She descends in the elevator on the stage",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "17:50-18:05"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How many coats does the female singer change between when she gets off the music box and when she enters it again?",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 0",
+            "(D) 3"
+        ],
+        "answer": "(A) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:00-25:03"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How many candles are there on the candlestick on top of the Yamaha piano?",
+        "candidates": [
+            "(A) 6",
+            "(B) 1",
+            "(C) 3",
+            "(D) 5"
+        ],
+        "answer": "(D) 5",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "34:30-34:50"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "What does the singer do after she sits down next to the pianist?",
+        "candidates": [
+            "(A) She sings a song",
+            "(B) She chats with the audience and plays the piano",
+            "(C) She has a rest and drinks some water",
+            "(D) She greets her fans around the world"
+        ],
+        "answer": "(D) She greets her fans around the world",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "34:41-37:55"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "There is a song in which the singer wears a green bikini and has a piece of fabric tied around her body. Where is the green fabric tied to?",
+        "candidates": [
+            "(A) Her right leg",
+            "(B) Her right arm",
+            "(C) Her wrist",
+            "(D) Her left arm"
+        ],
+        "answer": "(B) Her right arm",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "76:40-77:19"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "Who is on stage from 58:40-60:08, and what are they doing?",
+        "candidates": [
+            "(A) A group of dancers is performing, each dancing one after the other",
+            "(B) A group of singers and the main singer are performing, each singing one after the other",
+            "(C) A group of dancers and the main singer are performing, each dancing one after the other",
+            "(D) A group of singers are performing, each singing one after the other"
+        ],
+        "answer": "(A) A group of dancers is performing, each dancing one after the other",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "58:30-60:08"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "Before the main singer comes on stage wearing a white dress with embellishments on it, there is a music band performing on the stage. How many musicians are playing the electric piano?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 0",
+            "(D) 2"
+        ],
+        "answer": "(D) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "60:46-61:30"
+    },
+    {
+        "video": "00000071",
+        "type": "live",
+        "question": "How many bracelets does the main singer wear during the song where she pushes a dancer wearing a red hat, interacts with him, and then interacts with another dancer wearing a black hat?",
+        "candidates": [
+            "(A) She wears two bracelets on her left hand and one on her right hand",
+            "(B) She wears three bracelets on her right hand",
+            "(C) She wears two bracelets on her right hand and one on her left hand",
+            "(D) She wears three bracelets on her left hand"
+        ],
+        "answer": "(B) She wears three bracelets on her right hand",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "28:52-29:00"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What was the first instrument to appear in the video?",
+        "candidates": [
+            "(A) Bass",
+            "(B) Drum kit",
+            "(C) Electric piano",
+            "(D) Guitar"
+        ],
+        "answer": "(B) Drum kit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:20-00:25"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color is the female singer's microphone?",
+        "candidates": [
+            "(A) Golden",
+            "(B) Write",
+            "(C) Red",
+            "(D) Green"
+        ],
+        "answer": "(D) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:10-02:30"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What are the costumes of the dancers between 03:30-04:20?",
+        "candidates": [
+            "(A) They wore TV-like hoods and tight red clothes",
+            "(B) They wore TV-like hoods and tight black clothes",
+            "(C) They wore TV-like hoods and tight yellow clothes",
+            "(D) They wore TV-like hoods and tight green clothes"
+        ],
+        "answer": "(A) They wore TV-like hoods and tight red clothes",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "03:30-04:20"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What shoes does the female singer wear?",
+        "candidates": [
+            "(A) Sandals",
+            "(B) High-heeled shoes",
+            "(C) Sneaker",
+            "(D) Slippers"
+        ],
+        "answer": "(C) Sneaker",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:56-14:03"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color are the decorative balls on the heads of the dancers at 19:59?",
+        "candidates": [
+            "(A) Green",
+            "(B) Black",
+            "(C) Yellow",
+            "(D) Write"
+        ],
+        "answer": "(C) Yellow",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "19:59-21:35"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color is her floor microphone stand?",
+        "candidates": [
+            "(A) Brown",
+            "(B) Red",
+            "(C) Pink",
+            "(D) Black"
+        ],
+        "answer": "(C) Pink",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "27:30-27:55"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many dancers came on stage between 31:27-0:31:31?",
+        "candidates": [
+            "(A) 9",
+            "(B) 8",
+            "(C) 7",
+            "(D) 6"
+        ],
+        "answer": "(C) 7",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "31:27-31:31"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color has her wheat rack been changed to?",
+        "candidates": [
+            "(A) Purple",
+            "(B) Black",
+            "(C) Red",
+            "(D) Golden"
+        ],
+        "answer": "(B) Black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "41:53-42:00"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many white lights were on at 45:08?",
+        "candidates": [
+            "(A) 24",
+            "(B) 20",
+            "(C) 6",
+            "(D) 5"
+        ],
+        "answer": "(A) 24",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "45:08-45:09"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color guitar is the female singer holding?",
+        "candidates": [
+            "(A) Write",
+            "(B) Black",
+            "(C) Green",
+            "(D) Brown"
+        ],
+        "answer": "(A) Write",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "47:48-48:35"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What are the dancers with pink ponytails wearing on their heads?",
+        "candidates": [
+            "(A) White headgear",
+            "(B) Black hat",
+            "(C) White hat",
+            "(D) Black headgear"
+        ],
+        "answer": "(D) Black headgear",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "59:00-59:20"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What color did the female singer change the microphone halfway?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Black",
+            "(C) Red",
+            "(D) Yellow"
+        ],
+        "answer": "(C) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "62:57-63:10"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What balls did the dancers carry onto the stage?",
+        "candidates": [
+            "(A) Football-style yoga ball",
+            "(B) Table tennis style yoga ball",
+            "(C) Volleyball style yoga ball",
+            "(D) Basketball-style yoga ball"
+        ],
+        "answer": "(D) Basketball-style yoga ball",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "67:43-68:02"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many machines were blowing at the beginning of the concert?",
+        "candidates": [
+            "(A) 9",
+            "(B) 11",
+            "(C) 10",
+            "(D) 12"
+        ],
+        "answer": "(B) 11",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:25-01:28"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What is Katy Perry's hair like?",
+        "candidates": [
+            "(A) Straight hair only",
+            "(B) Straight hair pony tail",
+            "(C) Curly hair only",
+            "(D) Curly hair pony tail"
+        ],
+        "answer": "(B) Straight hair pony tail",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:34-02:50"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many colors are there in the background of rainbow decoration on the stage?",
+        "candidates": [
+            "(A) Five colors",
+            "(B) Six colors",
+            "(C) Seven colors",
+            "(D) Four colors"
+        ],
+        "answer": "(B) Six colors",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:50-03:51"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What are her earrings like?",
+        "candidates": [
+            "(A) Black circle earrings",
+            "(B) White circle earrings",
+            "(C) Green circle earrings",
+            "(D) Red circle earrings"
+        ],
+        "answer": "(C) Green circle earrings",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:17-03:33"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many microphones are there on the circular platform in the center of the stage?",
+        "candidates": [
+            "(A) 6",
+            "(B) 2",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:17-04:22"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "How many TV hoods appeared after 05:45?",
+        "candidates": [
+            "(A) 7",
+            "(B) 3",
+            "(C) 4",
+            "(D) 1"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "05:45-05:46"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "After the performance of TV headgear, what color are the lights in the next scene?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Pink",
+            "(C) Red",
+            "(D) Write"
+        ],
+        "answer": "(C) Red",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:03-06:15"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "Why doesn't the dancer in red tights have hair?",
+        "candidates": [
+            "(A) Because they cut their hair short",
+            "(B) Because they wrapped their hair in tights",
+            "(C) Because they are a buzz cut",
+            "(D) Because they shaved their heads"
+        ],
+        "answer": "(B) Because they wrapped their hair in tights",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "06:44-07:00"
+    },
+    {
+        "video": "00000072",
+        "type": "live",
+        "question": "What happens at Katy Perry's concert before her official appearance?",
+        "candidates": [
+            "(A) The band starts playing, with a close-up focusing on the bassist and the audience",
+            "(B) The band starts playing, with a close-up focusing on the drummer and keyboardist",
+            "(C) The band starts playing, with a close-up focusing on the drummer and bassist",
+            "(D) The band waits to play, with a close-up of the keyboardist and bassist"
+        ],
+        "answer": "(C) The band starts playing, with a close-up focusing on the drummer and bassist",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:20-00:25"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "How many people are there at the beginning of the video?",
+        "candidates": [
+            "(A) 5",
+            "(B) 2",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:54-00:54"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color suit is the first speaker wearing in the video?",
+        "candidates": [
+            "(A) Gray",
+            "(B) Green",
+            "(C) Black",
+            "(D) Blue"
+        ],
+        "answer": "(A) Gray",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:12-02:12"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color is the inner layer of clothing worn by the second speaker in the video?",
+        "candidates": [
+            "(A) Green",
+            "(B) Red",
+            "(C) Gray",
+            "(D) Black"
+        ],
+        "answer": "(D) Black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:08-05:10"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What unit appears in the frame at 06:11 in the video?",
+        "candidates": [
+            "(A) 1 kg",
+            "(B) 1 trillion",
+            "(C) 1 million",
+            "(D) 1 billion"
+        ],
+        "answer": "(B) 1 trillion",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "06:11-06:29"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "Why does the camera suddenly cut at 13:28 in the video?",
+        "candidates": [
+            "(A) Because there was a loud noise off-camera",
+            "(B) Because the lighting suddenly changed",
+            "(C) Because there was a technical glitch",
+            "(D) Because the second speaker is scratching their nose to avoid an awkward moment"
+        ],
+        "answer": "(D) Because the second speaker is scratching their nose to avoid an awkward moment",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "13:28-13:28"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "Which side of the stage does the second speaker pick up the chip from?",
+        "candidates": [
+            "(A) Near the audience seating",
+            "(B) Directly towards the left side of the stage",
+            "(C) Diagonally across the stage",
+            "(D) Towards the back of the stage"
+        ],
+        "answer": "(B) Directly towards the left side of the stage",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:20-32:50"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color clothes is the fifth speaker wearing in the video?",
+        "candidates": [
+            "(A) Red",
+            "(B) Black",
+            "(C) Red",
+            "(D) Blue"
+        ],
+        "answer": "(B) Black",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "49:11-49:20"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "How many Asian speakers appear in the video?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 5",
+            "(D) 1"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-80:20"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color clothes is the speaker wearing during the live stream at the factory in the video?",
+        "candidates": [
+            "(A) Green",
+            "(B) White",
+            "(C) Blue",
+            "(D) Yellow"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "55:13-55:13"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color shoes is the sixth speaker wearing in the video?",
+        "candidates": [
+            "(A) Brown",
+            "(B) Blue",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(A) Brown",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "61:22-62:30"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What color is the hair of the seventh speaker?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Red",
+            "(C) Black",
+            "(D) Golden"
+        ],
+        "answer": "(D) Golden",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "66:33-66:33"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "Which speaker remains standing on the stage?",
+        "candidates": [
+            "(A) The sixth one",
+            "(B) The first one",
+            "(C) The second one",
+            "(D) The last one"
+        ],
+        "answer": "(C) The second one",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-97:47"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What's the posture of the person at 14:09?",
+        "candidates": [
+            "(A) Standing",
+            "(B) Sitting",
+            "(C) Jumping",
+            "(D) Sleeping"
+        ],
+        "answer": "(A) Standing",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "74:10-74:10"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What type of glasses frames does the last Asian speaker in the video have?",
+        "candidates": [
+            "(A) The glasses are round",
+            "(B) The glasses are square",
+            "(C) The glasses are triangular",
+            "(D) The last Asian speaker in the video is not wearing glasses"
+        ],
+        "answer": "(A) The glasses are round",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "77:00-77:46"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What position on the stage is the second person demonstrating the operation standing?",
+        "candidates": [
+            "(A) Directly facing the left side of the stage",
+            "(B) Close to the center of the stage",
+            "(C) Near the audience on the right side",
+            "(D) At the back of the stage"
+        ],
+        "answer": "(A) Directly facing the left side of the stage",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "90:37-90:37"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "What brand of car appears in the video?",
+        "candidates": [
+            "(A) Mercedes-Benz",
+            "(B) Porsche",
+            "(C) BMW",
+            "(D) Intel"
+        ],
+        "answer": "(D) Intel",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:20-01:20"
+    },
+    {
+        "video": "00000073",
+        "type": "live",
+        "question": "Where is the microphone of the second speaker?",
+        "candidates": [
+            "(A) On the left side of the face",
+            "(B) On the right side of the face",
+            "(C) In the hand",
+            "(D) On the collar"
+        ],
+        "answer": "(B) On the right side of the face",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "16:33-30:00"
+    }
+]

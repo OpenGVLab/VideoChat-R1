@@ -1,0 +1,4415 @@
+[
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What year appears in the opening caption of the video?",
+        "candidates": [
+            "(A) 1636",
+            "(B) 1366",
+            "(C) 1363",
+            "(D) 1633"
+        ],
+        "answer": "(D) 1633",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:15-00:19"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "How is the weather like in the opening?",
+        "candidates": [
+            "(A) Cloudy",
+            "(B) Snowy",
+            "(C) Sunny",
+            "(D) Rainy"
+        ],
+        "answer": "(B) Snowy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-01:16"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "After the man with the gun threatens the cook, what does the protagonist do?",
+        "candidates": [
+            "(A) The protagonist pushes the table aside and stands up, confronting the man. After a series of quarrels, she kills the man and leaves the restaurant. The chef follows her",
+            "(B) The protagonist pushes the table aside and stands up, confronting the man. After a series of quarrels, she injuries  the man and leaves the restaurant. The chef follows her",
+            "(C) The protagonist pushes the table aside and stands up, taking out her gun and pointing at the man. After a series of quarrels, she kills the man and leaves the restaurant. The chef follows her",
+            "(D) The protagonist pushes the table aside and stands up, taking out her gun and pointing at the man. After a series of quarrels, she kills the man and leaves the restaurant"
+        ],
+        "answer": "(A) The protagonist pushes the table aside and stands up, confronting the man. After a series of quarrels, she kills the man and leaves the restaurant. The chef follows her",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "04:19-08:41"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What does the protagonist do when the man with the gun keeps approaching her?",
+        "candidates": [
+            "(A) The protagonist cuts off the hand of the man with the gun with her sword",
+            "(B) The protagonist cuts off two fingers of the man with the gun with her sword",
+            "(C) The protagonist impales the man with the gun with her word",
+            "(D) The protagonist breaks the windows with her sword and flees"
+        ],
+        "answer": "(B) The protagonist cuts off two fingers of the man with the gun with her sword",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:04-06:17"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "How many sticks does the protagonist put in the incense burner?",
+        "candidates": [
+            "(A) 3",
+            "(B) 2",
+            "(C) 5",
+            "(D) 1"
+        ],
+        "answer": "(D) 1",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:43-10:50"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "Why are the mother and child, who line in front of the protagonist, unable to enter the city?",
+        "candidates": [
+            "(A) They do not bribe the guard",
+            "(B) They are foreigners",
+            "(C) They bring illegal weapons",
+            "(D) They do not have a pass"
+        ],
+        "answer": "(A) They do not bribe the guard",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "19:35-20:20"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "How many people are carrying the sedan chair for the woman?",
+        "candidates": [
+            "(A) 4",
+            "(B) 8",
+            "(C) 6",
+            "(D) 2"
+        ],
+        "answer": "(C) 6",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "24:06-24:40"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What happens when the woman wearing a red kimono kneels?",
+        "candidates": [
+            "(A) A child rides on her back",
+            "(B) A man kneels beside her",
+            "(C) A man takes out his sword",
+            "(D) A child hits her head with noodles"
+        ],
+        "answer": "(D) A child hits her head with noodles",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "26:10-26:16"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "How many times does the protagonist knock on the green door?",
+        "candidates": [
+            "(A) 1",
+            "(B) 5",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:05-31:45"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What does the protagonist see through the window after she is taken to the utility room?",
+        "candidates": [
+            "(A) A group of monks sitting cross-legged in the snow",
+            "(B) A group of citizens chatting together",
+            "(C) A group of warriors practicing swords",
+            "(D) A group of samurais eating"
+        ],
+        "answer": "(C) A group of warriors practicing swords",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "33:57-34:04"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "Why does the protagonist tie iron to her limbs?",
+        "candidates": [
+            "(A) Because she wants to strength her body",
+            "(B) Because irons are decorations",
+            "(C) Because she has superpower and iron surpress it",
+            "(D) Because tying iron is a culture tradition"
+        ],
+        "answer": "(A) Because she wants to strength her body",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "40:55-41:01"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What does the protagonist wipe her face with when she is knocked to the ground during a solo fight?",
+        "candidates": [
+            "(A) With snow on the ground",
+            "(B) With her sleeves",
+            "(C) With her hands",
+            "(D) With a handkerchief in her pocket"
+        ],
+        "answer": "(A) With snow on the ground",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "50:00-50:10"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "Why does the protagonist aim her sword at the cook?",
+        "candidates": [
+            "(A) Because he is a spy",
+            "(B) Because he wants to steal the sword",
+            "(C) Because he wants to challenge the protagonist",
+            "(D) Because he finds out that the protagonist is a woman"
+        ],
+        "answer": "(D) Because he finds out that the protagonist is a woman",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "57:43-57:50"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What is the protagonist primary objection at the spring?",
+        "candidates": [
+            "(A) Sleep",
+            "(B) Drink some water",
+            "(C) Wash clothes",
+            "(D) Take a bath"
+        ],
+        "answer": "(D) Take a bath",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "54:57-55:02"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What else does the protagonist do in the shower besides taking a shower?",
+        "candidates": [
+            "(A) Eat some food",
+            "(B) Stitches her wound",
+            "(C) Drink spring water",
+            "(D) Relax"
+        ],
+        "answer": "(B) Stitches her wound",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "56:07-56:14"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "When the protagonist moves the table at the restaurant, what happens to the things on the table?",
+        "candidates": [
+            "(A) One of the chopsticks on the bowl falls to the table",
+            "(B) One of the chopsticks on the bowl falls to the floor",
+            "(C) The seasoning bottle falls",
+            "(D) The bowl falls to the floor"
+        ],
+        "answer": "(A) One of the chopsticks on the bowl falls to the table",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:35-04:42"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What part of the cook is different from other people?",
+        "candidates": [
+            "(A) Leg",
+            "(B) Foot",
+            "(C) Eye",
+            "(D) Hand"
+        ],
+        "answer": "(D) Hand",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "03:00-03:03"
+    },
+    {
+        "video": "00000000",
+        "type": "cartoon",
+        "question": "What does the protagonist cut off from the man who she fights in the snow in the end?",
+        "candidates": [
+            "(A) Leg",
+            "(B) Cloth",
+            "(C) Eye",
+            "(D) Hair"
+        ],
+        "answer": "(D) Hair",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "52:08-53:55"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What color is the scene at the begining?",
+        "candidates": [
+            "(A) White",
+            "(B) Blue",
+            "(C) Brown",
+            "(D) Grey"
+        ],
+        "answer": "(D) Grey",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:01-01:01"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What happens from 01:58-02:46?",
+        "candidates": [
+            "(A) A woman runs, stumbles against a man, and knocks over all his stuff",
+            "(B) A woman runs, stumbles against a man, and he cries",
+            "(C) A man runs, stumbles against a woman, and she cries",
+            "(D) A man runs, stumbles against a woman, and knocks over all her stuff"
+        ],
+        "answer": "(D) A man runs, stumbles against a woman, and knocks over all her stuff",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "01:58-02:46"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What does the woman in red do after she collides with the man?",
+        "candidates": [
+            "(A) She picks up things on the ground on her own and throws them away",
+            "(B) She picks up things on the ground with the man",
+            "(C) She picks up things on the ground on her own",
+            "(D) She picks up things on the ground with a passerby"
+        ],
+        "answer": "(C) She picks up things on the ground on her own",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:52-03:08"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What does the man do after the second collision?",
+        "candidates": [
+            "(A) He looks for his book",
+            "(B) He looks for his phone",
+            "(C) He looks for the woman",
+            "(D) He looks for the post"
+        ],
+        "answer": "(A) He looks for his book",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:42-05:00"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "Why does the man follow the woman in red after they meet for the third time?",
+        "candidates": [
+            "(A) He falls in love with the woman",
+            "(B) He is a spy",
+            "(C) The woman has his phone",
+            "(D) The woman has his book"
+        ],
+        "answer": "(D) The woman has his book",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:15-05:31"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What best summarizes the first half of the events when the woman and the man meet for the third time?",
+        "candidates": [
+            "(A) They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She goes to a beach",
+            "(B) They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man reads a book. He then leaves",
+            "(C) They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She then sits near a rive",
+            "(D) They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. He then leaves"
+        ],
+        "answer": "(C) They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She then sits near a rive",
+        "question_type": [
+            "event understanding",
+            "summarization"
+        ],
+        "time_reference": "06:26-07:04"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What color is the first plane?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) Red",
+            "(C) White",
+            "(D) Blue"
+        ],
+        "answer": "(A) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:26-09:53"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What appears on the screen after the fictional character from the man's book appears in the air for the first time, traveling between buildings?",
+        "candidates": [
+            "(A) The book",
+            "(B) A butterfly",
+            "(C) A rainbow",
+            "(D) A plane"
+        ],
+        "answer": "(C) A rainbow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:31-12:36"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What does the man do after he sees the woman for the third time?",
+        "candidates": [
+            "(A) He runs a marathon",
+            "(B) He sleeps in his bed",
+            "(C) He draws the woman in the book",
+            "(D) He looks for the woman"
+        ],
+        "answer": "(C) He draws the woman in the book",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:52-15:10"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What does the woman do before throwing the Coca-Cola can into the air?",
+        "candidates": [
+            "(A) She dances with people",
+            "(B) She throws her shoe away",
+            "(C) She walks barefoot",
+            "(D) She fights with a police"
+        ],
+        "answer": "(A) She dances with people",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "15:24-15:45"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What does the woman do after she sees a rolling stone on the ground",
+        "candidates": [
+            "(A) She runs away",
+            "(B) She goes to meet the man",
+            "(C) She throws her shoe away",
+            "(D) She dances with people"
+        ],
+        "answer": "(C) She throws her shoe away",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "23:36-24:09"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "Where do the man and the woman sit at where the woman is eating a pear?",
+        "candidates": [
+            "(A) A river",
+            "(B) A fountain",
+            "(C) A street corner",
+            "(D) A park bench"
+        ],
+        "answer": "(B) A fountain",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "28:11-28:56"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What happens from 35:52-36:41?",
+        "candidates": [
+            "(A) The woman goes to meet the man barefoot, but she is stopped by other people",
+            "(B) The woman goes to meet the man, but she is stopped by other people",
+            "(C) The woman goes to meet the man barefoot, but she is stopped by a car",
+            "(D) The woman goes to meet the man, but she is stopped by some dancers"
+        ],
+        "answer": "(B) The woman goes to meet the man, but she is stopped by other people",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "35:52-36:41"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "How is the weather before the season transitions to winter?",
+        "candidates": [
+            "(A) Rainy",
+            "(B) Windy",
+            "(C) Snowy",
+            "(D) Sunny"
+        ],
+        "answer": "(A) Rainy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "37:08-37:19"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What happens from 37:30-38:05?",
+        "candidates": [
+            "(A) The man visits the places that he and the woman have been to before",
+            "(B) The man visits the new places",
+            "(C) The man visits the places that he and the woman have been to before, would like to go to, and new places",
+            "(D) The man visits the places that he and the woman would like to go to"
+        ],
+        "answer": "(A) The man visits the places that he and the woman have been to before",
+        "question_type": [
+            "temporal grounding",
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "37:30-38:05"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "When does the man meet the woman for the last time?",
+        "candidates": [
+            "(A) Autumn",
+            "(B) Winter",
+            "(C) Spring",
+            "(D) Summer"
+        ],
+        "answer": "(C) Spring",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "49:49-49:49"
+    },
+    {
+        "video": "00000001",
+        "type": "cartoon",
+        "question": "What happens to the woman in the man's imagery when she is not around?",
+        "candidates": [
+            "(A) She becomes an angel",
+            "(B) She turns into an elvis",
+            "(C) She turns into a flower fairy",
+            "(D) She grows six more hands"
+        ],
+        "answer": "(C) She turns into a flower fairy",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "46:57-47:30"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color hair do the two kids have in the video?",
+        "candidates": [
+            "(A) Black",
+            "(B) Blue",
+            "(C) Green",
+            "(D) Red"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:55-01:20"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "Where is the camera angle locate at 03:19 in the video?",
+        "candidates": [
+            "(A) Behind the girl",
+            "(B) Above the girl",
+            "(C) In front of the girl",
+            "(D) Next to the girl"
+        ],
+        "answer": "(A) Behind the girl",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "03:10-03:20"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color is the necklace around the neck of the elderly person in the video?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Black",
+            "(C) Green",
+            "(D) Red"
+        ],
+        "answer": "(A) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:29-06:31"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "Why does the girl wear a mask in the video?",
+        "candidates": [
+            "(A) Because she's participating in a costume party",
+            "(B) Because it's a fashion statement",
+            "(C) She wants to know where someone is",
+            "(D) Because she's trying to hide her identity"
+        ],
+        "answer": "(C) She wants to know where someone is",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "08:10-08:37"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What is on the head of the older brother of the two childreno?",
+        "candidates": [
+            "(A) Headscarf",
+            "(B) Crown",
+            "(C) Helmet",
+            "(D) Hat"
+        ],
+        "answer": "(A) Headscarf",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "22:42-22:42"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color are the balls held by the two people in the video?",
+        "candidates": [
+            "(A) Black",
+            "(B) Blue",
+            "(C) Green",
+            "(D) Red"
+        ],
+        "answer": "(B) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "27:13-27:13"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color light is emanating from the woman's arm at 36:05 in the video?",
+        "candidates": [
+            "(A) Green",
+            "(B) Red",
+            "(C) Yellow",
+            "(D) Blue"
+        ],
+        "answer": "(D) Blue",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "36:05-36:15"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What does the girl use to find the person she is looking for in the video?",
+        "candidates": [
+            "(A) Mask",
+            "(B) Tail",
+            "(C) Phone",
+            "(D) Car"
+        ],
+        "answer": "(A) Mask",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-63:48"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color is the crystal on the object held by the girl?",
+        "candidates": [
+            "(A) White",
+            "(B) Yellow",
+            "(C) Red",
+            "(D) Blue"
+        ],
+        "answer": "(D) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "59:04-59:04"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "What color are the runes on the bottom of the girl's feet at 38:18 in the video?",
+        "candidates": [
+            "(A) Golden",
+            "(B) White",
+            "(C) Red",
+            "(D) Black"
+        ],
+        "answer": "(A) Golden",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "38:19-38:19"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "How many people are leaving by boat in the video?",
+        "candidates": [
+            "(A) 2",
+            "(B) 4",
+            "(C) 0",
+            "(D) 1"
+        ],
+        "answer": "(D) 1",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "33:52-33:46"
+    },
+    {
+        "video": "00000002",
+        "type": "cartoon",
+        "question": "The girl rescue a total of how many spirits?",
+        "candidates": [
+            "(A) 5",
+            "(B) 2",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-63:48"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What is the first word in the video?",
+        "candidates": [
+            "(A) ENT",
+            "(B) NET",
+            "(C) TNE",
+            "(D) ETN"
+        ],
+        "answer": "(B) NET",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-00:06"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "How many birds are there flying at the beginning of the video?",
+        "candidates": [
+            "(A) 6",
+            "(B) 4",
+            "(C) 5",
+            "(D) 8"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:15-00:28"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "How many doors have colored lights at 00:29?",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 3",
+            "(D) 0"
+        ],
+        "answer": "(C) 3",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "00:29-00:35"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What is the character doing between 01:05-01:09?",
+        "candidates": [
+            "(A) Tie the gift box",
+            "(B) Destroy the gift box",
+            "(C) Colour the gift box",
+            "(D) Stuff a gift box with something"
+        ],
+        "answer": "(A) Tie the gift box",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:05-01:09"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What color are the clothes on the two men playing the trumpet?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Yellow",
+            "(C) Lilac",
+            "(D) Rose"
+        ],
+        "answer": "(C) Lilac",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:53-01:56"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "Does the Queen go first or does the king go first?",
+        "candidates": [
+            "(A) Their children",
+            "(B) King",
+            "(C) Queen",
+            "(D) They walk side by side"
+        ],
+        "answer": "(C) Queen",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "02:00-02:07"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "After the king talk to the green Dragon, who embraces the king?",
+        "candidates": [
+            "(A) Prince",
+            "(B) Green dragon",
+            "(C) Queen",
+            "(D) Princess"
+        ],
+        "answer": "(A) Prince",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:18-05:22"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What are the patterns on the shawls of Kings and queens?",
+        "candidates": [
+            "(A) Heart pattern",
+            "(B) Circle pattern",
+            "(C) Star pattern",
+            "(D) Fruit pattern"
+        ],
+        "answer": "(A) Heart pattern",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:22-05:27"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What color are the teeth in the middle of the green dragon?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) Aqua",
+            "(C) Brown",
+            "(D) Faint yellow"
+        ],
+        "answer": "(D) Faint yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:17-06:21"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What happens when the villain's mirror breaks?",
+        "candidates": [
+            "(A) The mirror fragments automatically fuse on the ground into a whole mirror again",
+            "(B) The mirror fragments cut the villain's hand",
+            "(C) The mirror fragments are thrown away by the villains",
+            "(D) The mirror fragments fly into the sky"
+        ],
+        "answer": "(D) The mirror fragments fly into the sky",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "09:49-09:56"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "Who save the green dragon from the net?",
+        "candidates": [
+            "(A) Villain",
+            "(B) Prince",
+            "(C) Pink dragon",
+            "(D) Princess"
+        ],
+        "answer": "(B) Prince",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:40-13:10"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "Who grasps the villain in the net?",
+        "candidates": [
+            "(A) Green dragon and light blue dragon",
+            "(B) Yellow dragon and light blue dragon",
+            "(C) The prince and the pink dragon",
+            "(D) Yellow dragon and pink dragon"
+        ],
+        "answer": "(B) Yellow dragon and light blue dragon",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:28-13:32"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "How does the villain follow the prince, princess and dragon?",
+        "candidates": [
+            "(A) Run after",
+            "(B) Pilot a plane",
+            "(C) Drive a car",
+            "(D) Ride a bike"
+        ],
+        "answer": "(C) Drive a car",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:57-16:25"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What instruments do the prince and princess play respectively during the performance?",
+        "candidates": [
+            "(A) Both the prince and the princess are playing the guitar",
+            "(B) The prince is playing the guitar and the princess is playing the drum set",
+            "(C) The prince is playing the guitar and the princess is playing the piano",
+            "(D) The prince plays the drum set and the princess plays the guitar"
+        ],
+        "answer": "(D) The prince plays the drum set and the princess plays the guitar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:04-20:13"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "When the prince and princess play, the green dragon is singing in the sky while dropping what?",
+        "candidates": [
+            "(A) Tree leaf",
+            "(B) Star",
+            "(C) Snowflake",
+            "(D) Flower"
+        ],
+        "answer": "(D) Flower",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:14-20:18"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "Why is the king so happy after using the telescope?",
+        "candidates": [
+            "(A) Because the king is curious about binoculars",
+            "(B) Because he sees his children greeting him",
+            "(C) Because he sees the first prize",
+            "(D) The villain makes a fool of himself because his sleigh caught fire"
+        ],
+        "answer": "(D) The villain makes a fool of himself because his sleigh caught fire",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "38:04-38:13"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What festival are they celebrating?",
+        "candidates": [
+            "(A) Mid-Autumn Festival",
+            "(B) Christmas Day",
+            "(C) All Saints' Day",
+            "(D) Valentine's day"
+        ],
+        "answer": "(B) Christmas Day",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "21:21-23:15"
+    },
+    {
+        "video": "00000003",
+        "type": "cartoon",
+        "question": "What is on the green dragon at 27:08?",
+        "candidates": [
+            "(A) Black scarf",
+            "(B) Red scarf",
+            "(C) Green scarf",
+            "(D) Yellow scarf"
+        ],
+        "answer": "(D) Yellow scarf",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "27:08-27:12"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Who gets the lollipop last?",
+        "candidates": [
+            "(A) Frankenstein",
+            "(B) Zombie",
+            "(C) Vampire",
+            "(D) Dokkaebi"
+        ],
+        "answer": "(B) Zombie",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "08:45-10:00"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Why doesn't the vampire want the lollipop?",
+        "candidates": [
+            "(A) Because he thinks it is child who eat lollipop",
+            "(B) Because he can't eat lollipop",
+            "(C) Because he doesn't like lollipop",
+            "(D) Because he thinks the lollipop is dirty"
+        ],
+        "answer": "(D) Because he thinks the lollipop is dirty",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "10:05-10:43"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "When is the school let out in the afternoon?",
+        "candidates": [
+            "(A) 2:00 pm",
+            "(B) 3:30 pm",
+            "(C) 2:30 pm",
+            "(D) 3:00 pm"
+        ],
+        "answer": "(A) 2:00 pm",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "13:40-13:50"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "What does the vampire do when the girl first finds him?",
+        "candidates": [
+            "(A) Hide in the cabinet",
+            "(B) Return the phone",
+            "(C) Drink tomato juice",
+            "(D) Clean the desk"
+        ],
+        "answer": "(D) Clean the desk",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:00-14:15"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "What happens in the vampire's dream after he faints in front of the girl?",
+        "candidates": [
+            "(A) The girl ties him to a tree and washes him",
+            "(B) The girl ties him to a cross and burns him",
+            "(C) The girl ties him to a cross and washes him",
+            "(D) The girl ties him to a tree and burns him"
+        ],
+        "answer": "(D) The girl ties him to a tree and burns him",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:30-15:00"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Why the girl faints after the Frankenstein enters the room in the night she hides in the cabinet?",
+        "candidates": [
+            "(A) She is scared by a ghost hunter",
+            "(B) She is scared by a zombie's head",
+            "(C) She is scared by a vampire",
+            "(D) She is scared by the Frankenstein"
+        ],
+        "answer": "(B) She is scared by a zombie's head",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "24:00-24:25"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Why does vampire bang his head on a table?",
+        "candidates": [
+            "(A) He have no money to compensate",
+            "(B) The girl is noisy and doesn't study hard",
+            "(C) He is hungry",
+            "(D) He is nervous"
+        ],
+        "answer": "(B) The girl is noisy and doesn't study hard",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "35:30-35:40"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Where does the girl take the vampire after the exam?",
+        "candidates": [
+            "(A) A playground",
+            "(B) Her home",
+            "(C) The principal room",
+            "(D) A park"
+        ],
+        "answer": "(D) A park",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "46:00-47:20"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "What happens to the girl and the vampire?",
+        "candidates": [
+            "(A) The vampire breaks the girl's game console but has no money to compensate, so he can only help the girl study. In the end, they become good friends",
+            "(B) The vampire breaks the girl's game console but has no money to compensate, so he can only work in labor to earn money with the girl. In the end, they become good friends",
+            "(C) The vampire breaks the girl's cell phone but has no money to compensate, so he can only work in labor to earn money with the girl. In the end, they become good friends",
+            "(D) The vampire breaks the girl's cell phone but has no money to compensate, so he can only help the girl study. In the end, they become good friends"
+        ],
+        "answer": "(D) The vampire breaks the girl's cell phone but has no money to compensate, so he can only help the girl study. In the end, they become good friends",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "13:14-53:28"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "What does dokkaebi do after dancing alone?",
+        "candidates": [
+            "(A) Vomit",
+            "(B) Play music",
+            "(C) Sing",
+            "(D) Eat lollipop"
+        ],
+        "answer": "(A) Vomit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "57:20-57:41"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "How many monsters does the ghost hunter capture first?",
+        "candidates": [
+            "(A) 3",
+            "(B) 6",
+            "(C) 5",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "58:17-58:35"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Who stop the ghost hunter at last?",
+        "candidates": [
+            "(A) Skeleton",
+            "(B) The human girl",
+            "(C) Principal",
+            "(D) Vampire"
+        ],
+        "answer": "(D) Vampire",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "73:01-74:21"
+    },
+    {
+        "video": "00000004",
+        "type": "cartoon",
+        "question": "Who is the director of this video?",
+        "candidates": [
+            "(A) Bong Ho Kim",
+            "(B) Bong Joon Ho",
+            "(C) Mike Yangtzi",
+            "(D) Jin Kum"
+        ],
+        "answer": "(A) Bong Ho Kim",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "77:53-78:00"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "How many round glasses are there in the round frame above the house?",
+        "candidates": [
+            "(A) 7",
+            "(B) 5",
+            "(C) 6",
+            "(D) 8"
+        ],
+        "answer": "(A) 7",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:53"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "What are running around the street?",
+        "candidates": [
+            "(A) Rabbit",
+            "(B) Spider",
+            "(C) Cat",
+            "(D) Mouse"
+        ],
+        "answer": "(D) Mouse",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:33-02:35"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "Why do the two women break down and cover their ears?",
+        "candidates": [
+            "(A) Because they can not finish the chores",
+            "(B) Because the neighbor is renovating the house",
+            "(C) Because there are dogs everywhere",
+            "(D) Because there are rats everywhere"
+        ],
+        "answer": "(D) Because there are rats everywhere",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:12-03:20"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "How many mice run across the roof above the street?",
+        "candidates": [
+            "(A) 5",
+            "(B) 2",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "03:46-03:47"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "There is a group of people wearing the same outfit, lining up in a line across the street. How many people are there",
+        "candidates": [
+            "(A) 8",
+            "(B) 6",
+            "(C) 5",
+            "(D) 4"
+        ],
+        "answer": "(B) 6",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:16-04:20"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "After two groups of people collide, which direction do the six people wearing the same outfit go to?",
+        "candidates": [
+            "(A) All but one go in the opposite direction",
+            "(B) To the opposite direction of the other group",
+            "(C) To the same direction as the other group",
+            "(D) Some go to the opposite direction of the other group, some go to the same direction as the other group"
+        ],
+        "answer": "(C) To the same direction as the other group",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:41-04:42"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "How do people in the government communicate with everyone?",
+        "candidates": [
+            "(A) They use a telephone hotline",
+            "(B) They sit face to face and talk",
+            "(C) They communicate through the government window",
+            "(D) They utilize the email listed on the website"
+        ],
+        "answer": "(C) They communicate through the government window",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:24-05:32"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "How many people are there in the government?",
+        "candidates": [
+            "(A) 7",
+            "(B) 8",
+            "(C) 6",
+            "(D) 5"
+        ],
+        "answer": "(A) 7",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:25-06:32"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "When the people in the government are thinking, what kind of person comes into the meeting room?",
+        "candidates": [
+            "(A) A person without a nose",
+            "(B) A person with a particularly long nose",
+            "(C) A person with colorful hat",
+            "(D) A person in a tall hat"
+        ],
+        "answer": "(B) A person with a particularly long nose",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "08:40-08:45"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "What kind of flying creatures can the person summon with a flute?",
+        "candidates": [
+            "(A) Bat",
+            "(B) Butterfly",
+            "(C) Eagle",
+            "(D) Sparrow"
+        ],
+        "answer": "(A) Bat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:48-10:50"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "How much does the man with a long nose get paid?",
+        "candidates": [
+            "(A) A gold coin",
+            "(B) He gets nothing",
+            "(C) Three gold coins",
+            "(D) A bag of gold coins"
+        ],
+        "answer": "(A) A gold coin",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:41-19:50"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "One of the events for the celebration is a number of people riding on top of each other and performing acrobatics. How many people are there?",
+        "candidates": [
+            "(A) 5",
+            "(B) 3",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:45-17:48"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "After the performance of three people riding on top of each other, what's the next performance?",
+        "candidates": [
+            "(A) Dance performance",
+            "(B) Nunchaku performance",
+            "(C) Somersault performance",
+            "(D) Kite flying performance"
+        ],
+        "answer": "(B) Nunchaku performance",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:48-17:58"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "What is the image of the government?",
+        "candidates": [
+            "(A) Irresponsible and stingy",
+            "(B) Accountable but poor",
+            "(C) Friendly but unorganized",
+            "(D) Wealthy and responsible"
+        ],
+        "answer": "(A) Irresponsible and stingy",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-30:22"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "Who is the narrator?",
+        "candidates": [
+            "(A) John Hambley",
+            "(B) Robert Hardy",
+            "(C) Chris Walker",
+            "(D) David Rohl"
+        ],
+        "answer": "(B) Robert Hardy",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "29:24-29:24"
+    },
+    {
+        "video": "00000005",
+        "type": "cartoon",
+        "question": "Where does the man with long nose spend his night?",
+        "candidates": [
+            "(A) In an inn",
+            "(B) In a moutain",
+            "(C) Near a river",
+            "(D) On the roof of the government building"
+        ],
+        "answer": "(C) Near a river",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "16:04-17:20"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What instruments are already on the stage before the actors come on?",
+        "candidates": [
+            "(A) Harp",
+            "(B) Bass",
+            "(C) Drum kit",
+            "(D) Piano"
+        ],
+        "answer": "(C) Drum kit",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:27-00:33"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "How does the red-haired girl who plays bass look from 01:42-01:47?",
+        "candidates": [
+            "(A) Angry",
+            "(B) Boring",
+            "(C) Amazed",
+            "(D) Excited"
+        ],
+        "answer": "(C) Amazed",
+        "question_type": [
+            "event understanding",
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "01:42-01:47"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What color vest is the man lifting weights wearing?",
+        "candidates": [
+            "(A) Green",
+            "(B) Blue",
+            "(C) Orange",
+            "(D) Yellow"
+        ],
+        "answer": "(A) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:09-03:12"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "Why does the three girls run?",
+        "candidates": [
+            "(A) They are chasing the escaped pig",
+            "(B) They are afraid of being hit by a giant green cylinder",
+            "(C) They are comparing the running speed",
+            "(D) They are being chased by a man with a gun"
+        ],
+        "answer": "(B) They are afraid of being hit by a giant green cylinder",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:15-06:55"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What does the three girls do between 07:48-07:50?",
+        "candidates": [
+            "(A) They are bowing",
+            "(B) They are hugging",
+            "(C) They are dancing",
+            "(D) They are shaking hands"
+        ],
+        "answer": "(D) They are shaking hands",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "07:48-07:50"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What is the license plate number of the purple car driven by a woman with long black hair?",
+        "candidates": [
+            "(A) Mandy",
+            "(B) Erica",
+            "(C) Lucy",
+            "(D) Angela"
+        ],
+        "answer": "(A) Mandy",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "08:10-08:15"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "After the girl with long black hair presses the wrench on the machine, what picture appears?",
+        "candidates": [
+            "(A) Three apple icons appear",
+            "(B) Three milk carton icons appear",
+            "(C) Three cherry icons appear",
+            "(D) Three ice cream icons appear"
+        ],
+        "answer": "(D) Three ice cream icons appear",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:34-11:39"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What are two men in suits doing in front of a screen?",
+        "candidates": [
+            "(A) They are playing video games",
+            "(B) They are watching movies on the screen",
+            "(C) They are watching variety shows",
+            "(D) They are spying on three girls"
+        ],
+        "answer": "(D) They are spying on three girls",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:05-14:22"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "After returning to school through the slide, where does the girl with orange hair appear?",
+        "candidates": [
+            "(A) In the vending machine",
+            "(B) In a car",
+            "(C) School toilet",
+            "(D) In the trash can"
+        ],
+        "answer": "(D) In the trash can",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:45-18:00"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What happens when the boy at the vending machine is about to press the button?",
+        "candidates": [
+            "(A) The girl with long purple hair appears in the vending machine",
+            "(B) The girl with long red hair appears in the vending machine",
+            "(C) The girl with long black hair appears in the vending machine",
+            "(D) The girl with short blond hair appears in the vending machine"
+        ],
+        "answer": "(D) The girl with short blond hair appears in the vending machine",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:49-17:55"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What letter appears on the computer after the girl with orange hair comes down from the bed and turns on the computer?",
+        "candidates": [
+            "(A) M",
+            "(B) N",
+            "(C) V",
+            "(D) W"
+        ],
+        "answer": "(D) W",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "21:07-21:15"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "Where is the girl with short blond hair taken by two men in suits wearing sunglasses?",
+        "candidates": [
+            "(A) Hospital",
+            "(B) School",
+            "(C) Hotel",
+            "(D) Prison"
+        ],
+        "answer": "(D) Prison",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:10-22:30"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "Where are the three girls transported?",
+        "candidates": [
+            "(A) On the spaceship",
+            "(B) On the car",
+            "(C) On the plane",
+            "(D) On the ship"
+        ],
+        "answer": "(C) On the plane",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "23:25-24:08"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "Why does the boat where the man with gray hair in a suit sink into the river?",
+        "candidates": [
+            "(A) Because the girl with long black hair throws an explosive charge on his boat",
+            "(B) Because the girl with short black hair throws an explosive charge on his boat",
+            "(C) Because the girl with short red hair throws an explosive charge on his boat",
+            "(D) Because the girl with short blond hair throws an explosive charge on his boat"
+        ],
+        "answer": "(D) Because the girl with short blond hair throws an explosive charge on his boat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "24:45-24:53"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What happens after three girls got on motorcycles?",
+        "candidates": [
+            "(A) Robots are chasing them and shooting them with black light",
+            "(B) Robots are chasing them and shooting them with yellow light",
+            "(C) Robots are chasing them and shooting them with green light",
+            "(D) Robots are chasing them and shooting them with yellow light"
+        ],
+        "answer": "(C) Robots are chasing them and shooting them with green light",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "26:19-26:35"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What are the green numbers that appear between 36:05-36:06?",
+        "candidates": [
+            "(A) 59.9",
+            "(B) 9.59",
+            "(C) 5.95",
+            "(D) 99.5"
+        ],
+        "answer": "(B) 9.59",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "36:05-36:06"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "What changes do the people in the hall share?",
+        "candidates": [
+            "(A) Their hair is partly green",
+            "(B) Their hair is partly light yellow",
+            "(C) Their hair is partly light blue",
+            "(D) Their hair is partly red"
+        ],
+        "answer": "(B) Their hair is partly light yellow",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "36:50-37:16"
+    },
+    {
+        "video": "00000006",
+        "type": "cartoon",
+        "question": "How many knives are hanging on the wall of the kitchen where the chef is?",
+        "candidates": [
+            "(A) 8",
+            "(B) 6",
+            "(C) 11",
+            "(D) 9"
+        ],
+        "answer": "(A) 8",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "46:35-46:38"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What color are the birds at the beginning of the video?",
+        "candidates": [
+            "(A) Black",
+            "(B) Yellow",
+            "(C) White",
+            "(D) Blue"
+        ],
+        "answer": "(C) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:00-01:00"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What color hat does the protagonist wear the day she leaves her home?",
+        "candidates": [
+            "(A) Red",
+            "(B) Blue",
+            "(C) Black",
+            "(D) Yellow"
+        ],
+        "answer": "(B) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:30-19:45"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "When the protagonist first enters the building with a hidden door disguised as a bookshelf, how many people are in the room?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 5",
+            "(D) 2"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "22:04-22:04"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "Why does the family use candle for illumination?",
+        "candidates": [
+            "(A) Power supply is disrupted",
+            "(B) One family member is allergic to electric light",
+            "(C) There is no electricity in the attic",
+            "(D) One family member wants cozy atmosphere"
+        ],
+        "answer": "(C) There is no electricity in the attic",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "27:59-27:59"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What room are the two people eagerly waiting in at 41:17?",
+        "candidates": [
+            "(A) Kitchen",
+            "(B) Living room",
+            "(C) Bathroom",
+            "(D) Bedroom"
+        ],
+        "answer": "(C) Bathroom",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "41:17-41:24"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What year is written on the first cake appears in the video?",
+        "candidates": [
+            "(A) 1942",
+            "(B) 1937",
+            "(C) 1949",
+            "(D) 1943"
+        ],
+        "answer": "(D) 1943",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "49:39-49:39"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What change occurred to the lighting tool when the girl writes in her diary?",
+        "candidates": [
+            "(A) It changes from a candle to a lantern",
+            "(B) It changes from a desk lamp to a candle",
+            "(C) It changes from a desk lamp to a spotlight",
+            "(D) It changes from a candle to a flashlight"
+        ],
+        "answer": "(B) It changes from a desk lamp to a candle",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "07:14-58:55"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "How many birthdays does the protagonist celebrate in the video?",
+        "candidates": [
+            "(A) 1",
+            "(B) 0",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-74:15"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "Where does the boy first kiss the girl?",
+        "candidates": [
+            "(A) The nose",
+            "(B) The cheek",
+            "(C) The forehead",
+            "(D) The hand"
+        ],
+        "answer": "(C) The forehead",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "66:44-66:46"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What year is written on the second cake appears in the video?",
+        "candidates": [
+            "(A) 1944",
+            "(B) 1937",
+            "(C) 1945",
+            "(D) 1943"
+        ],
+        "answer": "(A) 1944",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "66:58-66:58"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "Why are the people cheering and jumping for joy in the video?",
+        "candidates": [
+            "(A) Because they win a competition",
+            "(B) Because they find a treasure",
+            "(C) Because the Allies make a comeback",
+            "(D) Because the war ends"
+        ],
+        "answer": "(C) Because the Allies make a comeback",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "72:40-73:40"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What is the first gift the protagonist received for her third birthday?",
+        "candidates": [
+            "(A) A pen",
+            "(B) A doll",
+            "(C) A book",
+            "(D) A dress"
+        ],
+        "answer": "(A) A pen",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "74:15-74:17"
+    },
+    {
+        "video": "00000046",
+        "type": "cartoon",
+        "question": "What color clothes does the protagonist wear when she is taken away to the concentration camp?",
+        "candidates": [
+            "(A) Black",
+            "(B) Red",
+            "(C) Yellow",
+            "(D) Blue"
+        ],
+        "answer": "(D) Blue",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "82:40-82:49"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Which platform does the video stream on first?",
+        "candidates": [
+            "(A) Tencent",
+            "(B) Netflix",
+            "(C) Youtube",
+            "(D) Twitch"
+        ],
+        "answer": "(B) Netflix",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-00:10"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Does the protagonist wear a pair of glasses in the video?",
+        "candidates": [
+            "(A) No",
+            "(B) Yes, only once",
+            "(C) Yes, all the time",
+            "(D) Yes, most of the time"
+        ],
+        "answer": "(B) Yes, only once",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "00:33-00:37"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "___ as the protagonist lockpicking the door ",
+        "candidates": [
+            "(A) Fire ignites",
+            "(B) Water floods in",
+            "(C) Mice appear",
+            "(D) Enemies appear"
+        ],
+        "answer": "(B) Water floods in",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:01-04:52"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What happens to the protagonist after she climbs up from the underground tunnel that is filled with water?",
+        "candidates": [
+            "(A) She is killed",
+            "(B) She encounters a beast",
+            "(C) She is lost in direction",
+            "(D) She encounters an enemy"
+        ],
+        "answer": "(D) She encounters an enemy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:06-05:12"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Do the guards find the protagonist before 07:19?",
+        "candidates": [
+            "(A) No",
+            "(B) Yes, and they alert more guards",
+            "(C) Yes, but they fail to alert more guards",
+            "(D) No information about it"
+        ],
+        "answer": "(C) Yes, but they fail to alert more guards",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "06:00-06:27"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "How is the second guard killed?",
+        "candidates": [
+            "(A) By an arrow",
+            "(B) By a spear",
+            "(C) By a stone",
+            "(D) By a gun"
+        ],
+        "answer": "(B) By a spear",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "06:33-06:39"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "How does the protagonist go through the passage at 10:33?",
+        "candidates": [
+            "(A) She runs across passage, and dodges all the spears",
+            "(B) She runs across passage, but one of her leg is injured",
+            "(C) She runs across passage, but losses her weapon",
+            "(D) She finds an alternative path and does not go through the passage"
+        ],
+        "answer": "(B) She runs across passage, but one of her leg is injured",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "10:33-11:22"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What factor does not make the fight from 13:08-16:06 difficult?",
+        "candidates": [
+            "(A) The number of enemies",
+            "(B) The injury on protagonist's leg",
+            "(C) The traps below the ground",
+            "(D) The protagonist loses her weapon"
+        ],
+        "answer": "(C) The traps below the ground",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "13:08-16:06"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What do the people do at the place that has a bucket with ice water?",
+        "candidates": [
+            "(A) Prepare the food",
+            "(B) Do the laundry",
+            "(C) Play with water",
+            "(D) Take a bath"
+        ],
+        "answer": "(A) Prepare the food",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "16:12-16:36"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What is hidden behind the stone at the garden?",
+        "candidates": [
+            "(A) A tiger",
+            "(B) A monkey",
+            "(C) A mouse",
+            "(D) A wolf"
+        ],
+        "answer": "(B) A monkey",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:48-18:05"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "How does the protagonist defend herself against the monkeys army?",
+        "candidates": [
+            "(A) By a grenade",
+            "(B) By a gun",
+            "(C) By a spear",
+            "(D) By a banana"
+        ],
+        "answer": "(A) By a grenade",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:01-19:10"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Where does the protagonist find one of her friend?",
+        "candidates": [
+            "(A) In a meeting room",
+            "(B) In a garden",
+            "(C) In a prison cell",
+            "(D) By the cliff"
+        ],
+        "answer": "(C) In a prison cell",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "22:42-23:44"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Why does the tall man cut off the chains at 21:49?",
+        "candidates": [
+            "(A) To open the gate",
+            "(B) To blow out the candles",
+            "(C) To trigger a trap",
+            "(D) To help the character"
+        ],
+        "answer": "(B) To blow out the candles",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "21:49-21:49"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What might be the best film rating system according to the Motion Picture Association?",
+        "candidates": [
+            "(A) PG-13",
+            "(B) G",
+            "(C) PG",
+            "(D) R"
+        ],
+        "answer": "(D) R",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-34:04"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Which sentence best describes the outcome of the fight between the protagonist and the first time she encounters a group of Samurais?",
+        "candidates": [
+            "(A) The protagonist spares the last remaining Samurai",
+            "(B) The protagonist injures all the Samurais",
+            "(C) The protagonist kills all the Samurais",
+            "(D) The protagonist flees the fight"
+        ],
+        "answer": "(A) The protagonist spares the last remaining Samurai",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "13:08-16:06"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "What happens in the video?",
+        "candidates": [
+            "(A) The protagonist seeks revenge. She defeats most of the enemies who block her way. But in the end, she does not successfully kill the antagonist",
+            "(B) The protagonist seeks revenge. She kills all the enemies who block her way. And in the end, she successfully kill the antagonist",
+            "(C) The protagonist seeks revenge. She defeats most of the enemies who block her way. And in the end, she successfully kill the antagonist",
+            "(D) The protagonist seeks revenge. She kills all the enemies who block her way. But in the end, she does not successfully kill the antagonist"
+        ],
+        "answer": "(A) The protagonist seeks revenge. She defeats most of the enemies who block her way. But in the end, she does not successfully kill the antagonist",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-34:04"
+    },
+    {
+        "video": "00000047",
+        "type": "cartoon",
+        "question": "Which sentence best describes the outcome of the fight between the protagonist and the second time she encounters a group of Samurais?",
+        "candidates": [
+            "(A) The protagonist flees the fight",
+            "(B) The protagonist injures all the Samurais",
+            "(C) The protagonist spares the last remaining Samurai",
+            "(D) The protagonist kills all the Samurais"
+        ],
+        "answer": "(A) The protagonist flees the fight",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "28:00-28:24"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What is the first scene of the video?",
+        "candidates": [
+            "(A) River side",
+            "(B) Forest",
+            "(C) Snow Mountain",
+            "(D) Rice fields"
+        ],
+        "answer": "(C) Snow Mountain",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:55-02:00"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What does the ladybug do at the beginning?",
+        "candidates": [
+            "(A) Collecting nectar from flowers",
+            "(B) Fight against each other",
+            "(C) Picking fruits",
+            "(D) Throw bombs"
+        ],
+        "answer": "(C) Picking fruits",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:12-03:15"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How is the weather when the ladybug picks up the apple?",
+        "candidates": [
+            "(A) Snowy",
+            "(B) Sunny",
+            "(C) Hazy",
+            "(D) Rainy"
+        ],
+        "answer": "(A) Snowy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:33-03:37"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "There is a scene of a worker packing up stuff. What is the destination of the last package?",
+        "candidates": [
+            "(A) Katmandou",
+            "(B) Berlin",
+            "(C) Tokyo",
+            "(D) Budapest"
+        ],
+        "answer": "(A) Katmandou",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "14:29-14:44"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "An ant and a spider go sailing. What is inside the cabin?",
+        "candidates": [
+            "(A) IMac",
+            "(B) IPod",
+            "(C) IPad",
+            "(D) IPhone"
+        ],
+        "answer": "(B) IPod",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "36:23-36:23"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What is counterintuitive about the sailing?",
+        "candidates": [
+            "(A) The boat is unbalanced",
+            "(B) The speed is high",
+            "(C) The boat is small",
+            "(D) The power is balloons"
+        ],
+        "answer": "(B) The speed is high",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "39:25-40:20"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What insect do the ladybugs save from a spider?",
+        "candidates": [
+            "(A) Mantis",
+            "(B) Butterfly",
+            "(C) Grasshopper",
+            "(D) Caterpillar"
+        ],
+        "answer": "(D) Caterpillar",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "47:56-50:10"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How is the weather at 59:55-59:57?",
+        "candidates": [
+            "(A) Hazy",
+            "(B) Snowy",
+            "(C) Sunny",
+            "(D) Rainy"
+        ],
+        "answer": "(D) Rainy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "59:55-59:57"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What do the ladybugs do at dusk?",
+        "candidates": [
+            "(A) They drink coconut juice and eat coconut meat",
+            "(B) They lift a coconut and smash it on the ground. Then they drink coconut juice and eat coconut meat",
+            "(C) They lift a coconut together",
+            "(D) They lift a coconut and smash it on the ground"
+        ],
+        "answer": "(C) They lift a coconut together",
+        "question_type": [
+            "summarization",
+            "event understanding"
+        ],
+        "time_reference": "61:41-62:29"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What can be inferred about the interaction between the ladybugs and the coconut?",
+        "candidates": [
+            "(A) The coconut is hard. From sunset to late night, the ladybugs can not open it",
+            "(B) The coconut is hard. From noon to sunset, the ladybugs can not open it",
+            "(C) The whole process takes a long time, from sunset to late night",
+            "(D) The whole process takes a long time, from noon to sunset"
+        ],
+        "answer": "(D) The whole process takes a long time, from noon to sunset",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "60:54-62:32"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How do the ant and the spider get out of the shark's stomach?",
+        "candidates": [
+            "(A) By climbing shark's esophagus",
+            "(B) By watching a movie",
+            "(C) By breaking shark's tooth",
+            "(D) By playing some music"
+        ],
+        "answer": "(D) By playing some music",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "63:19-63:27"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "One time a smaller insect saves a larger insect of the same class in the rainforest, what happens?",
+        "candidates": [
+            "(A) The smaller ladybug saves the larger ladybug from a spider's web",
+            "(B) The smaller mantis saves the larger mantis from a human's hand",
+            "(C) The smaller ladybug saves the larger ladybug from a mantis's hand",
+            "(D) The smaller mantis saves the larger mantis from a spider's web"
+        ],
+        "answer": "(C) The smaller ladybug saves the larger ladybug from a mantis's hand",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "68:07-68:26"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How do the two ladybugs escape the attack from a group of mantises?",
+        "candidates": [
+            "(A) Board a train under the cover of the ant",
+            "(B) Board a rocket under the cover from the spider",
+            "(C) Board a spaceship under the cover from the ant",
+            "(D) Board a small boat under the cover from the spider"
+        ],
+        "answer": "(D) Board a small boat under the cover from the spider",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "70:15-70:36"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How many mantises appear attack the two ladybugs at the shore?",
+        "candidates": [
+            "(A) 5",
+            "(B) 1",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "70:48-70:50"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "How many insects are on the board when they arrive at the caterpillar kingdom?",
+        "candidates": [
+            "(A) 0",
+            "(B) 5",
+            "(C) 3",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "70:57-71:37"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "Where did their ship go at 71:27-74:30?",
+        "candidates": [
+            "(A) A garden",
+            "(B) At sea level",
+            "(C) A cave",
+            "(D) A tree hole"
+        ],
+        "answer": "(D) A tree hole",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "71:27-74:30"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What is on the stone at the construction site in the end?",
+        "candidates": [
+            "(A) Green dye",
+            "(B) Moss",
+            "(C) Caterpillar",
+            "(D) Little grass"
+        ],
+        "answer": "(C) Caterpillar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "78:09-78:20"
+    },
+    {
+        "video": "00000048",
+        "type": "cartoon",
+        "question": "What is written on the sign when a group of workers wearing orange protective gear hammer to the ground?",
+        "candidates": [
+            "(A) Danger Plage Interdite",
+            "(B) Danger Poison Caterpillars",
+            "(C) Ilegal Place",
+            "(D) Extreme Danger"
+        ],
+        "answer": "(A) Danger Plage Interdite",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "78:51-79:00"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What is the type of the video?",
+        "candidates": [
+            "(A) Cartoon",
+            "(B) Vlog",
+            "(C) Football live",
+            "(D) Film"
+        ],
+        "answer": "(A) Cartoon",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-43:06"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "Is this a recent cartoon?",
+        "candidates": [
+            "(A) Yes",
+            "(B) No",
+            "(C) I don't know",
+            "(D) Maybe"
+        ],
+        "answer": "(B) No",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-43:06"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What falls in the water at the beginning of the video?",
+        "candidates": [
+            "(A) A paper",
+            "(B) A leaf",
+            "(C) A photo",
+            "(D) A ring"
+        ],
+        "answer": "(B) A leaf",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:13-00:16"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What is the color of the fruit which is played by children?",
+        "candidates": [
+            "(A) Red",
+            "(B) Yellow",
+            "(C) Green",
+            "(D) Blue"
+        ],
+        "answer": "(A) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:26-00:30"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What is the first human girl holding when she first appears in the video?",
+        "candidates": [
+            "(A) A bag",
+            "(B) A doll",
+            "(C) A mobile phone",
+            "(D) A photo"
+        ],
+        "answer": "(B) A doll",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:18-01:21"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "Where is the blue fairy?",
+        "candidates": [
+            "(A) On a bowl",
+            "(B) On a hat",
+            "(C) On a pot",
+            "(D) On a wheel"
+        ],
+        "answer": "(B) On a hat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:21-02:22"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "___ help the blue fairy to get back to the hat by letting her bounce on their bodies.",
+        "candidates": [
+            "(A) Two snails",
+            "(B) Two caterpillars and a snail",
+            "(C) Two caterpillars",
+            "(D) A snail and a caterpillar"
+        ],
+        "answer": "(D) A snail and a caterpillar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:23-02:37"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What does the fairy do on a stone near a river when the doll is floating on the river?",
+        "candidates": [
+            "(A) She is in a daze",
+            "(B) She is sleeping",
+            "(C) She is looking at the mirror",
+            "(D) She is playing"
+        ],
+        "answer": "(C) She is looking at the mirror",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:26-05:31"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What is the fairy's reaction when she first sees the doll after looking at a drop of water as a mirror?",
+        "candidates": [
+            "(A) She is very sad",
+            "(B) She is very happy",
+            "(C) She is very amazed",
+            "(D) She is very scared"
+        ],
+        "answer": "(D) She is very scared",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "05:35-05:39"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What does the bear first catch?",
+        "candidates": [
+            "(A) A fairy",
+            "(B) A mouse",
+            "(C) A bird",
+            "(D) A frog"
+        ],
+        "answer": "(D) A frog",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:41-07:48"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "Where does the frog and the fairy talk for the first time?",
+        "candidates": [
+            "(A) On the tree stump",
+            "(B) On the river",
+            "(C) On the ground",
+            "(D) On the bear"
+        ],
+        "answer": "(D) On the bear",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "09:22-09:37"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "How many fairies are trapped on the spider web?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:05-14:09"
+    },
+    {
+        "video": "00000050",
+        "type": "cartoon",
+        "question": "What appears at the branch of the tree talking to the bear and frog in the night?",
+        "candidates": [
+            "(A) A black bird",
+            "(B) A blue bird",
+            "(C) A pink bird",
+            "(D) A green bird"
+        ],
+        "answer": "(C) A pink bird",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "16:16-16:21"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What are the changes in the scene from 01:05-01:10?",
+        "candidates": [
+            "(A) From the road to the forest",
+            "(B) From the forest to the bedroom",
+            "(C) From the yard to the road",
+            "(D) From the yard to the bedroom"
+        ],
+        "answer": "(D) From the yard to the bedroom",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "01:05-01:10"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is the weather like in this scene from 05:54-05:59?",
+        "candidates": [
+            "(A) It's sunny",
+            "(B) A cloudy day",
+            "(C) It's raining",
+            "(D) It's snowing"
+        ],
+        "answer": "(C) It's raining",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "05:54-05:59"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is the little girl doing from 08:34-08:38?",
+        "candidates": [
+            "(A) Blowing air by the window",
+            "(B) Sleeping",
+            "(C) Closeing the window",
+            "(D) Singing"
+        ],
+        "answer": "(C) Closeing the window",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "08:34-08:38"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is the maid doing from 13:11-13:24?",
+        "candidates": [
+            "(A) She is skipping rope",
+            "(B) She is kicking shuttlecock",
+            "(C) She is weaving a flower basket",
+            "(D) She is weaving clothes"
+        ],
+        "answer": "(A) She is skipping rope",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "13:11-13:24"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "Why does the gardener suddenly laugh from 14:15-14:18?",
+        "candidates": [
+            "(A) Because the little girl falls, he is mocking",
+            "(B) Because he also likes skipping rope",
+            "(C) Because he is very happy to see the flowers blooming",
+            "(D) Because he feels happy working"
+        ],
+        "answer": "(A) Because the little girl falls, he is mocking",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "14:15-14:18"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is the relationship between two people on the screen from 27:20-27:25?",
+        "candidates": [
+            "(A) A romantic relationship",
+            "(B) Good friend",
+            "(C) Father daughter relationship",
+            "(D) Siblings"
+        ],
+        "answer": "(B) Good friend",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "14:34-14:44"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What kind of scene transitions are there from 37:24-37:29?",
+        "candidates": [
+            "(A) From recollection to another recollection",
+            "(B) From Reality to Memories",
+            "(C) From memories to reality",
+            "(D) From the garden to the bedroom"
+        ],
+        "answer": "(B) From Reality to Memories",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "37:24-37:29"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What content is depicted in the video during 42:52-43:00?",
+        "candidates": [
+            "(A) The growth and blooming of flowers",
+            "(B) The transformation of forests",
+            "(C) The life of a bug",
+            "(D) The germination and growth of trees"
+        ],
+        "answer": "(A) The growth and blooming of flowers",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "42:52-43:00"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is this scene during 43:15-43:21?",
+        "candidates": [
+            "(A) The ocean",
+            "(B) Water surface",
+            "(C) A blue oil painting",
+            "(D) A sky with clouds"
+        ],
+        "answer": "(B) Water surface",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "43:15-43:21"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "Why does the girl pick up a handful of water during 43:22-43:27?",
+        "candidates": [
+            "(A) Because she wants to wash her face",
+            "(B) Because she wants to drink water",
+            "(C) Because she wants to water the flowers",
+            "(D) Because she wants to give the boy water"
+        ],
+        "answer": "(C) Because she wants to water the flowers",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "43:22-43:27"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What is the boy doing at 43:29-43:31?",
+        "candidates": [
+            "(A) Trim the branches and leaves",
+            "(B) Appreciate flowers",
+            "(C) Picking flowers",
+            "(D) Talk to the flowers"
+        ],
+        "answer": "(A) Trim the branches and leaves",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "43:29-43:31"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "How is this man's mood form 44:18-44:21?",
+        "candidates": [
+            "(A) Nervous",
+            "(B) Happy",
+            "(C) Anger",
+            "(D) Sadness"
+        ],
+        "answer": "(C) Anger",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "44:18-44:21"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "Why does the boy fall during 45:01-45:07?",
+        "candidates": [
+            "(A) Because he is sick and unable to stand",
+            "(B) Because he suddenly faints due to hypoglycemia",
+            "(C) Because he suddenly falls asleep and collapses",
+            "(D) Because he accidentally trips over a stone"
+        ],
+        "answer": "(A) Because he is sick and unable to stand",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "45:01-45:07"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "Why does the man wearing a hat smile from 46:20-46:25?",
+        "candidates": [
+            "(A) The boy almost falls, he is mocking",
+            "(B) He sees the boy making good friends and smiles proudly",
+            "(C) He catches the boy who is about to fall and smiles proudly",
+            "(D) The boy can stand up and walk, and he feels relieved"
+        ],
+        "answer": "(D) The boy can stand up and walk, and he feels relieved",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "46:20-46:25"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What happen during this period from 50:54-51:15?",
+        "candidates": [
+            "(A) The woman in black lockes the girl with yellow hair in a room",
+            "(B) The woman in black and the girl are playing hide and seek",
+            "(C) The girl lockes the boy in a wheelchair into a small room",
+            "(D) The girl lockes the woman in black into a small room"
+        ],
+        "answer": "(A) The woman in black lockes the girl with yellow hair in a room",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "50:54-50:15"
+    },
+    {
+        "video": "00000051",
+        "type": "cartoon",
+        "question": "What actions are the girl and her cat doing form 51:44-51:47?",
+        "candidates": [
+            "(A) The girl hugges the kitten",
+            "(B) The girl lets go of the kitten",
+            "(C) The girl is catching lice for the kitten",
+            "(D) The girl pinches the kitten's neck"
+        ],
+        "answer": "(A) The girl hugges the kitten",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "51:44-51:47"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What type is this video?",
+        "candidates": [
+            "(A) TV Show",
+            "(B) Cartoon",
+            "(C) Vlog",
+            "(D) Documentary"
+        ],
+        "answer": "(B) Cartoon",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-10:43"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What appears first after the cast list?",
+        "candidates": [
+            "(A) A book with a white cover",
+            "(B) A book with a yellow cover",
+            "(C) A book with a pink cover",
+            "(D) A book with a dark blue cover"
+        ],
+        "answer": "(D) A book with a dark blue cover",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:12-61:19"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What does the person want to pull out from the book?",
+        "candidates": [
+            "(A) A blue umbrella and a white umbrella",
+            "(B) A white umbrella and a black umbrella",
+            "(C) A red umbrella and a blue umbrella",
+            "(D) A red umbrella and a black umbrella"
+        ],
+        "answer": "(B) A white umbrella and a black umbrella",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:23-01:43"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "Where does the rain come from when the man in black first open his umbrella?",
+        "candidates": [
+            "(A) A girl is watering the flowers",
+            "(B) A boy is crying",
+            "(C) A girl is crying",
+            "(D) A boy is watering the flowers"
+        ],
+        "answer": "(A) A girl is watering the flowers",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:30-05:36"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "How many swallows live in the birdhouse?",
+        "candidates": [
+            "(A) 1",
+            "(B) 2",
+            "(C) 0",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:53-05:57"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What color is the flower planted by the boy when he and the girl plant the flower?",
+        "candidates": [
+            "(A) Red",
+            "(B) White",
+            "(C) Yellow",
+            "(D) Blue"
+        ],
+        "answer": "(A) Red",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:12-06:15"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What kind of weather follows the first rainy days?",
+        "candidates": [
+            "(A) Foggy days",
+            "(B) Sunny days",
+            "(C) Cloudy days",
+            "(D) Snowy days"
+        ],
+        "answer": "(D) Snowy days",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "07:13-07:27"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What is located in the sea?",
+        "candidates": [
+            "(A) A bird house",
+            "(B) A flower house",
+            "(C) A palace",
+            "(D) A garden"
+        ],
+        "answer": "(C) A palace",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "08:19-08:29"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What does the queen living in the palace have?",
+        "candidates": [
+            "(A) A big garden",
+            "(B) A big bed",
+            "(C) A big sculpture",
+            "(D) A big mirror"
+        ],
+        "answer": "(D) A big mirror",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:01-09:12"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What happens that makes the flowers in the pot die?",
+        "candidates": [
+            "(A) A heavy rain comes to the town so does the queen. The temperature decreases drastically",
+            "(B) A storm comes to the town and so does the queen. The temperature decreases drastically",
+            "(C) A heavy rain comes to the town. The temperature decreases drastically",
+            "(D) A storm comes to the town. The temperature decreases drastically"
+        ],
+        "answer": "(B) A storm comes to the town and so does the queen. The temperature decreases drastically",
+        "question_type": [
+            "event understanding",
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "11:14-11:29"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What does the queen do to the little boy after bringing him to the wild?",
+        "candidates": [
+            "(A) She kills him",
+            "(B) She freezes him",
+            "(C) She hugs him",
+            "(D) She beats him"
+        ],
+        "answer": "(C) She hugs him",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "16:30-16:39"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What is on the other side of the river when the girl rides on a boat in spring?",
+        "candidates": [
+            "(A) The entry to another world",
+            "(B) A larger river",
+            "(C) A high mountain",
+            "(D) A beautiful palace"
+        ],
+        "answer": "(D) A beautiful palace",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:08-20:13"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What is the facial expression of the little girl when she wakes up in the garden and walks alone?",
+        "candidates": [
+            "(A) Excited",
+            "(B) Angry",
+            "(C) Depressed",
+            "(D) Happy"
+        ],
+        "answer": "(C) Depressed",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "23:28-23:43"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "Where does the black bird on the beach take the little girl to?",
+        "candidates": [
+            "(A) A river",
+            "(B) A palace",
+            "(C) A mountain",
+            "(D) A garden"
+        ],
+        "answer": "(B) A palace",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:06-27:21"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What are put into the  gold carriage?",
+        "candidates": [
+            "(A) Some bombs",
+            "(B) Some toys",
+            "(C) Hard to observe",
+            "(D) Delicious food"
+        ],
+        "answer": "(D) Delicious food",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "37:56-38:10"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "Are there foxes in the place that has a cage with rabbits?",
+        "candidates": [
+            "(A) Hard to observe",
+            "(B) No",
+            "(C) Yes",
+            "(D) I don't know"
+        ],
+        "answer": "(C) Yes",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "43:00-43:22"
+    },
+    {
+        "video": "00000052",
+        "type": "cartoon",
+        "question": "What does the old witch take from the little girl's arm while she is sleeping?",
+        "candidates": [
+            "(A) A fish",
+            "(B) A flower",
+            "(C) A book",
+            "(D) A snowball"
+        ],
+        "answer": "(A) A fish",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "51:39-51:50"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What color is the feather on the hat worn by the swallow at the beginning of the film?",
+        "candidates": [
+            "(A) Red",
+            "(B) Yellow",
+            "(C) Brown",
+            "(D) Pink"
+        ],
+        "answer": "(D) Pink",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:42-00:50"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "Who saves Thumbelina from falling into the pool?",
+        "candidates": [
+            "(A) A cow",
+            "(B) A dog",
+            "(C) A sheep",
+            "(D) A chicken"
+        ],
+        "answer": "(A) A cow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:13-04:18"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What was Thumbelina doing before she falls into the three-egg nest?",
+        "candidates": [
+            "(A) She is cleaning with a red feather",
+            "(B) She is cleaning with a yellow feather",
+            "(C) She is cleaning with a white feather",
+            "(D) She is cleaning with a black feather"
+        ],
+        "answer": "(C) She is cleaning with a white feather",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:44-04:53"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "Where does Thumbelina sit listening to the old woman's story?",
+        "candidates": [
+            "(A) On the mini stool",
+            "(B) In the bed where she sleeps",
+            "(C) On the old woman's nose",
+            "(D) On a woman's hat"
+        ],
+        "answer": "(C) On the old woman's nose",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:57-06:18"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "Where does Thumbelina hide when she is scared by the pocket Prince?",
+        "candidates": [
+            "(A) Teapot",
+            "(B) Bed",
+            "(C) Teacup",
+            "(D) Box"
+        ],
+        "answer": "(A) Teapot",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:52-13:00"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "Why does the dog become agitated when Thumbelina comes out of the teapot to talk to the prince?",
+        "candidates": [
+            "(A) Because the prince stabs the dog with his sword",
+            "(B) Because the prince and Thumbelina has a conflict",
+            "(C) Because the dog is awakened by them and is angry",
+            "(D) Because the dog thinks the prince is a danger to Thumbelina"
+        ],
+        "answer": "(D) Because the dog thinks the prince is a danger to Thumbelina",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "13:22-13:51"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What does the prince give Thumbelina when he sends her back from a trip with him?",
+        "candidates": [
+            "(A) A necklace",
+            "(B) A firefly",
+            "(C) A flower",
+            "(D) A ring"
+        ],
+        "answer": "(D) A ring",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "18:00-18:57"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "When the toads leaves, who is the first to appear before Thumbelina and help her?",
+        "candidates": [
+            "(A) A woman with a dog",
+            "(B) Swallow in hat",
+            "(C) Prince riding an insect",
+            "(D) Mermaid in the river"
+        ],
+        "answer": "(B) Swallow in hat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "29:10-30:20"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "How does the swallows in hats get to the rocks on the shore?",
+        "candidates": [
+            "(A) It is blown to the shore by the wind",
+            "(B) It is photographed on the shore by lotus leaves",
+            "(C) It is washed ashore by the river",
+            "(D) It is patted by the tail of a fish"
+        ],
+        "answer": "(D) It is patted by the tail of a fish",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "31:23-31:28"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What is the relationship between the three characters who appear at 35:29?",
+        "candidates": [
+            "(A) The relationship between friends and opponents",
+            "(B) The relationship between teachers and students",
+            "(C) The relationship between superiors and subordinates",
+            "(D) The relationship between parents and children"
+        ],
+        "answer": "(D) The relationship between parents and children",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "35:29-36:02"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What was written above the hole at 39:19?",
+        "candidates": [
+            "(A) Forest Hostel",
+            "(B) Welcome Everyone",
+            "(C) Dangerous area",
+            "(D) Beeile Ballroom"
+        ],
+        "answer": "(D) Beeile Ballroom",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "39:19-39:22"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What are the two figures doing between 47:35-49:05?",
+        "candidates": [
+            "(A) They are fighting with guns",
+            "(B) They are fighting with swords",
+            "(C) They are arguing and fighting",
+            "(D) They are bowing and hugging"
+        ],
+        "answer": "(C) They are arguing and fighting",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "47:35-49:05"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What does the prince do when he finds Thumbelina and picks her up?",
+        "candidates": [
+            "(A) He kisses Thumbelina on the mouth",
+            "(B) He kisses Thumbelina on the face",
+            "(C) He kisses Thumbelina's right hand",
+            "(D) He kisses Thumbelina's left hand"
+        ],
+        "answer": "(A) He kisses Thumbelina on the mouth",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "77:02-77:15"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What color is the bouquet Thumbelina holding when she marry the prince?",
+        "candidates": [
+            "(A) Baby blue",
+            "(B) Dark green",
+            "(C) Faint yellow",
+            "(D) French grey"
+        ],
+        "answer": "(A) Baby blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "77:59-78:10"
+    },
+    {
+        "video": "00000053",
+        "type": "cartoon",
+        "question": "What color is the peach heart on the old woman's chest?",
+        "candidates": [
+            "(A) Rosy",
+            "(B) Orange",
+            "(C) Khaki",
+            "(D) Green"
+        ],
+        "answer": "(C) Khaki",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:04-03:33"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What happens after the boy looks very down in the middle of the man and the woman?",
+        "candidates": [
+            "(A) The cat eats and the boy packs the luggage",
+            "(B) The boy eats and the cat packs the luggage",
+            "(C) The cat writes and the boy packs the luggage",
+            "(D) The boy writes and the cat packs the luggage"
+        ],
+        "answer": "(D) The boy writes and the cat packs the luggage",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:19-03:54"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "Who do the boy and the cat meet on the way they first leave home?",
+        "candidates": [
+            "(A) The old man",
+            "(B) The couple",
+            "(C) The rabbit",
+            "(D) The dog"
+        ],
+        "answer": "(D) The dog",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:21-04:32"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What happens after the boy and the cat meet the dog for the first time?",
+        "candidates": [
+            "(A) They clean the house",
+            "(B) They meet the guest",
+            "(C) They wash the dish",
+            "(D) They eat the food"
+        ],
+        "answer": "(A) They clean the house",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:02-05:50"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "Who appears first when the boy, cat and dog are cleaning the house?",
+        "candidates": [
+            "(A) The rabbit",
+            "(B) The old man",
+            "(C) The woman",
+            "(D) The couple"
+        ],
+        "answer": "(B) The old man",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:29-05:29"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What does the man with the mustache do when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "(A) He chases a cat",
+            "(B) He chases a cow",
+            "(C) He chases a dog",
+            "(D) He chases a bird"
+        ],
+        "answer": "(D) He chases a bird",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:14-08:25"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "Why does the man with the mustache chase the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "(A) The bird holds his hat",
+            "(B) The bird holds his coin",
+            "(C) The bird holds his box",
+            "(D) The bird holds his letter"
+        ],
+        "answer": "(B) The bird holds his coin",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:14-08:40"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What does the couple do after boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "(A) They wash dishes",
+            "(B) They drink the water",
+            "(C) They watch the TV",
+            "(D) They make the dinner"
+        ],
+        "answer": "(A) They wash dishes",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:50-09:33"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What color is the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "(A) Black",
+            "(B) Yellow",
+            "(C) White",
+            "(D) Blue"
+        ],
+        "answer": "(A) Black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:35-10:03"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What happens when the boy is writing a letter for the first time?",
+        "candidates": [
+            "(A) The cat scratches the sheet",
+            "(B) The cow bites the sheet",
+            "(C) The dog barks at someone",
+            "(D) The dog bites the sheet"
+        ],
+        "answer": "(B) The cow bites the sheet",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:13-12:28"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "Who appears when the boy have a fever and after the cat open the dor?",
+        "candidates": [
+            "(A) The couple",
+            "(B) The stranger",
+            "(C) The old man",
+            "(D) The bird"
+        ],
+        "answer": "(A) The couple",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:17-15:17"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What happens to the family in the railway station?",
+        "candidates": [
+            "(A) The child leaves his parents and takes the train",
+            "(B) The child leaves his parents and takes the bus",
+            "(C) The child takes the train with his parent",
+            "(D) The child takes the subway with his parent"
+        ],
+        "answer": "(A) The child leaves his parents and takes the train",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "21:14-21:50"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "Why does the cat looks so happy while it is operating the sewing machine?",
+        "candidates": [
+            "(A) The dog comes",
+            "(B) The old man comes",
+            "(C) The boy comes",
+            "(D) The couple comes"
+        ],
+        "answer": "(C) The boy comes",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "23:39-24:15"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What does the scene switch to after the boy, cat, and dog having meal together for the first time with a trophy on the table in the second cartoon?",
+        "candidates": [
+            "(A) The bedroom",
+            "(B) The restaurant",
+            "(C) The sand beach",
+            "(D) The kitchen"
+        ],
+        "answer": "(C) The sand beach",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "25:56-25:56"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What does the cat do after the man in brown having meal with the boy, cat, and dog?",
+        "candidates": [
+            "(A) The cat hides the box",
+            "(B) The cat opens the box",
+            "(C) The cat replaces the box",
+            "(D) The cat throws the box away"
+        ],
+        "answer": "(C) The cat replaces the box",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:18-32:26"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What is inside the yellow box replaced by the cat and from the man in brown?",
+        "candidates": [
+            "(A) The bottle and the letter",
+            "(B) The camera and the book",
+            "(C) The bottle and the book",
+            "(D) The camera and the letter"
+        ],
+        "answer": "(D) The camera and the letter",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "32:26-33:01"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What happens after the yellow box is replaced by the cat?",
+        "candidates": [
+            "(A) The dog chases the rabbit",
+            "(B) The dog chases the bird",
+            "(C) The cat chases the rabbit",
+            "(D) The cat chases the cow"
+        ],
+        "answer": "(A) The dog chases the rabbit",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "32:55-33:51"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What color is the rabbit after the yellow box is replaced by the cat?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Yellow",
+            "(C) White",
+            "(D) Blue"
+        ],
+        "answer": "(D) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "32:55-33:51"
+    },
+    {
+        "video": "00000054",
+        "type": "cartoon",
+        "question": "What is the weather like in the beginning of the third catoon?",
+        "candidates": [
+            "(A) It snows",
+            "(B) It rains",
+            "(C) It suns",
+            "(D) It frosts"
+        ],
+        "answer": "(A) It snows",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:54-36:01"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "How many pink and blue shrews are talking to the big mouse?",
+        "candidates": [
+            "(A) 6",
+            "(B) 3",
+            "(C) 4",
+            "(D) 5"
+        ],
+        "answer": "(D) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:49-01:52"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What does the black and pink shrew do after climbing the window?",
+        "candidates": [
+            "(A) It opens the window",
+            "(B) It rings the alarm",
+            "(C) It falls out of the window",
+            "(D) It destroys the alarm"
+        ],
+        "answer": "(B) It rings the alarm",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:40-06:55"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "Why does the mice run away?",
+        "candidates": [
+            "(A) Because the black cat sheriff calls the police",
+            "(B) Because they meet more powerful mice",
+            "(C) Because their boss is injured",
+            "(D) Because the owner of the house is back"
+        ],
+        "answer": "(A) Because the black cat sheriff calls the police",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "07:31-07:36"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "How many policemen are riding cars from 10:05-10:07?",
+        "candidates": [
+            "(A) 6",
+            "(B) 4",
+            "(C) 5",
+            "(D) 7"
+        ],
+        "answer": "(A) 6",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "10:05-10:07"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "How many shots does Sheriff Black Cat fire after he finds the black mice?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 8",
+            "(D) 2"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "10:52-11:00"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "After finding a row of switches, which switch does Sheriff Black Cat press?",
+        "candidates": [
+            "(A) Bottom switch",
+            "(B) Red switch",
+            "(C) Yellow switch",
+            "(D) Top switch"
+        ],
+        "answer": "(C) Yellow switch",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:59-12:03"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What are the policemen locked up in?",
+        "candidates": [
+            "(A) In a rectangular cage",
+            "(B) In an oval cage",
+            "(C) In a round cage",
+            "(D) In a square cage"
+        ],
+        "answer": "(B) In an oval cage",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:44-12:50"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "Why does \"one ear\" change its name to \"one ear\"?",
+        "candidates": [
+            "(A) Because it has an ear bitten off by a cat",
+            "(B) Because one of its ears is pulled off",
+            "(C) Because one of its ears is cut off by a knife",
+            "(D) Because one of its ears is shot off"
+        ],
+        "answer": "(D) Because one of its ears is shot off",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "16:00-16:20"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What's the panda's hand?",
+        "candidates": [
+            "(A) Tape recorder and gun",
+            "(B) Tape recorder and shovel",
+            "(C) Guns and shovels",
+            "(D) Shovel and bucket"
+        ],
+        "answer": "(B) Tape recorder and shovel",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:03-19:05"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What is the elephant eating after the monkey has finished talking?",
+        "candidates": [
+            "(A) Tree leaf",
+            "(B) Bread",
+            "(C) Stoneboog",
+            "(D) Soil block"
+        ],
+        "answer": "(D) Soil block",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "26:15-26:20"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What color is the bow tie on Miss Mantis's chest?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Black",
+            "(C) Green",
+            "(D) Red"
+        ],
+        "answer": "(B) Black",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "38:41-38:39"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "Who eats Mr. Mantis?",
+        "candidates": [
+            "(A) Black mouse",
+            "(B) Black Cat Detective",
+            "(C) His mantis bride",
+            "(D) Pink mouse"
+        ],
+        "answer": "(C) His mantis bride",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "38:04-39:30"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What is the name of the newspaper that the mice read at 45:38?",
+        "candidates": [
+            "(A) Forest daily",
+            "(B) News daily",
+            "(C) Animal daily",
+            "(D) Citizen daily"
+        ],
+        "answer": "(A) Forest daily",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "45:38-45:39"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "What is the weather like when the panda is caught?",
+        "candidates": [
+            "(A) Sunny weather",
+            "(B) Heavy rain weather",
+            "(C) Cloudy weather",
+            "(D) Heavy snow weather"
+        ],
+        "answer": "(B) Heavy rain weather",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "58:13-58:30"
+    },
+    {
+        "video": "00000055",
+        "type": "cartoon",
+        "question": "How many guns does the dove have in her hand to attack the criminals?",
+        "candidates": [
+            "(A) 0",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "63:59-64:05"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Why is this old man shaking when he appears?",
+        "candidates": [
+            "(A) He feels excited",
+            "(B) He feels cold",
+            "(C) He feels shocked",
+            "(D) He feels scared"
+        ],
+        "answer": "(B) He feels cold",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "02:08-02:41"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What are the skills of the red calabash boy?",
+        "candidates": [
+            "(A) He has infinitely power and can get bigger",
+            "(B) He has invisibility",
+            "(C) He is indestructible",
+            "(D) He has clairaudience and clairvoyance"
+        ],
+        "answer": "(A) He has infinitely power and can get bigger",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "14:01-19:40"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "When does the second calabash boy come out of the calabash?",
+        "candidates": [
+            "(A) 19:39",
+            "(B) 18:39",
+            "(C) 20:39",
+            "(D) 21:39"
+        ],
+        "answer": "(C) 20:39",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "20:25-20:43"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "How does the snake find out that the orange calabash boy had arrived?",
+        "candidates": [
+            "(A) The leaves",
+            "(B) The bloodstain",
+            "(C) The markers",
+            "(D) The footprints"
+        ],
+        "answer": "(D) The footprints",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:31-24:40"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What happens after the orange calabash boy come to save grandpa?",
+        "candidates": [
+            "(A) He gets deaf",
+            "(B) He gets unconscious",
+            "(C) He gets drunk",
+            "(D) He gets blind"
+        ],
+        "answer": "(D) He gets blind",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "25:57-26:18"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Who does the orange calabash boy meet after he drops into the cliff?",
+        "candidates": [
+            "(A) The red calabash boy",
+            "(B) The yellow calabash boy",
+            "(C) The grandpa",
+            "(D) The snake"
+        ],
+        "answer": "(C) The grandpa",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "26:18-26:32"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What are the skills of the orange calabash boy?",
+        "candidates": [
+            "(A) He is indestructible",
+            "(B) He has infinitely power and can get bigger",
+            "(C) He has invisibility",
+            "(D) He has infinitely power and can get bigger"
+        ],
+        "answer": "(D) He has infinitely power and can get bigger",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:43-27:25"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Who rescues the orange calabash boy and the grandfather",
+        "candidates": [
+            "(A) The green calabash boy",
+            "(B) The red calabash boy",
+            "(C) The blue calabash boy",
+            "(D) The pangolin"
+        ],
+        "answer": "(D) The pangolin",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "27:23-27:52"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Who smashes the magic mirror?",
+        "candidates": [
+            "(A) The yellow calabash boy",
+            "(B) The red calabash boy",
+            "(C) The blue calabash boy",
+            "(D) The green calabash boy"
+        ],
+        "answer": "(A) The yellow calabash boy",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "36:52-38:05"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What does the blue calabash boy use to scratch the scorpion's nose, causing the scorpion to sneeze?",
+        "candidates": [
+            "(A) The leave on his head",
+            "(B) The stick on his head",
+            "(C) The feather on his head",
+            "(D) The calabash on his head"
+        ],
+        "answer": "(A) The leave on his head",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "40:54-42:56"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What is the end of the pangolin?",
+        "candidates": [
+            "(A) He gets lost",
+            "(B) He is thrown off the cliff by the scorpion",
+            "(C) He jumps off the cliff by himself",
+            "(D) He escapes successfully"
+        ],
+        "answer": "(B) He is thrown off the cliff by the scorpion",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "52:54-54:19"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What are the skills of the blue calabash boy?",
+        "candidates": [
+            "(A) He has clairvoyance",
+            "(B) He is indestructible",
+            "(C) He has clairaudience",
+            "(D) He has invisibility"
+        ],
+        "answer": "(D) He has invisibility",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "59:21-64:44"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Who steals the S-shaped jade?",
+        "candidates": [
+            "(A) The red calabash boy",
+            "(B) The blue calabash boy",
+            "(C) The yellow calabash boy",
+            "(D) The green calabash boy"
+        ],
+        "answer": "(B) The blue calabash boy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "64:45-65:53"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "Who saves the grandfather who fell on the cliff?",
+        "candidates": [
+            "(A) The pangolin",
+            "(B) A deer",
+            "(C) A eagle",
+            "(D) A little bird"
+        ],
+        "answer": "(C) A eagle",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "76:07-76:31"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "How many calabashs are there on the calabash vine?",
+        "candidates": [
+            "(A) 8",
+            "(B) 6",
+            "(C) 5",
+            "(D) 7"
+        ],
+        "answer": "(D) 7",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:50-10:26"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What category does the video belong to?",
+        "candidates": [
+            "(A) Documentary",
+            "(B) Animation",
+            "(C) Show",
+            "(D) Games"
+        ],
+        "answer": "(B) Animation",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-15:00"
+    },
+    {
+        "video": "00000056",
+        "type": "cartoon",
+        "question": "What is the first animal to be frozen?",
+        "candidates": [
+            "(A) A squirrel",
+            "(B) A bird",
+            "(C) A deer",
+            "(D) A pangolin"
+        ],
+        "answer": "(C) A deer",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "19:30-19:45"
+    }
+]

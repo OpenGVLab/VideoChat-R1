@@ -1,0 +1,4102 @@
+[
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) News report",
+            "(B) Documentary",
+            "(C) Sporting events",
+            "(D) TV show"
+        ],
+        "answer": "(D) TV show",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-75:57"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What is the name of the judge who is second to the left from the camera's view during the first performance?",
+        "candidates": [
+            "(A) MICHAL",
+            "(B) GWEN",
+            "(C) JAMES",
+            "(D) NIALL"
+        ],
+        "answer": "(D) NIALL",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "00:41-00:41"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What color top is the second conteatant wearing?",
+        "candidates": [
+            "(A) Gold",
+            "(B) Red",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(A) Gold",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:40-01:40"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "How many coaches are turning for the second player?",
+        "candidates": [
+            "(A) One referee turns around for him",
+            "(B) Two referees turn around for him",
+            "(C) No referee turns around for him",
+            "(D) Three referees turn around for him"
+        ],
+        "answer": "(A) One referee turns around for him",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:15-02:20"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What instrument is the man playing while the girl, wearing a blue sweetheart bandeau top and wide jeans with holes on them, sings?",
+        "candidates": [
+            "(A) Erhu",
+            "(B) Cello",
+            "(C) Piano",
+            "(D) Guitar"
+        ],
+        "answer": "(C) Piano",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:18-03:18"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What color coat does the sixth contestant wear?",
+        "candidates": [
+            "(A) White",
+            "(B) Green",
+            "(C) Yellow",
+            "(D) Red"
+        ],
+        "answer": "(B) Green",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "11:36-11:36"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What instrument is the eighth contestant playing?",
+        "candidates": [
+            "(A) Piano",
+            "(B) Cello",
+            "(C) Erhu",
+            "(D) Guitar"
+        ],
+        "answer": "(D) Guitar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:13-14:13"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "Which judge turns last when the ninth contestant performs?",
+        "candidates": [
+            "(A) BILL+TOM",
+            "(B) Blocked",
+            "(C) SHIRIN",
+            "(D) GIOVANNI"
+        ],
+        "answer": "(B) Blocked",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:00-17:30"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What color shirt is the tenth contestant singing on stage wearing?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Red",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(A) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:50-17:50"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What happens after the 11th contestant performs?",
+        "candidates": [
+            "(A) The blocked judge lies down",
+            "(B) Justina lies down",
+            "(C) The blocked judge stands up",
+            "(D) The blocked judge sits down"
+        ],
+        "answer": "(A) The blocked judge lies down",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "21:00-21:20"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What does the second girl on the right do between 32:00-32:05?",
+        "candidates": [
+            "(A) She is angry",
+            "(B) She smiles",
+            "(C) She crys",
+            "(D) She sits down"
+        ],
+        "answer": "(C) She crys",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "32:00-32:05"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "Who turns around first when the 17th contestant performs?",
+        "candidates": [
+            "(A) GIOVANNI",
+            "(B) URBAN",
+            "(C) VANNA",
+            "(D) Justina"
+        ],
+        "answer": "(C) VANNA",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "32:10-32:30"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What does the blonde woman do during Joao Duarte's performance?",
+        "candidates": [
+            "(A) She smiles",
+            "(B) She sat down",
+            "(C) She crys",
+            "(D) She is angry"
+        ],
+        "answer": "(C) She crys",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "34:45-35:00"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "Who turns first for the contestant with curly hair, wearing glasses, and a white and blue sweatshirt?",
+        "candidates": [
+            "(A) Benas",
+            "(B) Monika Liu",
+            "(C) Justina",
+            "(D) Mantas"
+        ],
+        "answer": "(D) Mantas",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "44:43-44:43"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What color is the 24th contestant on stage wearing?",
+        "candidates": [
+            "(A) Blue and black",
+            "(B) Blue and white",
+            "(C) Black and white",
+            "(D) Red and white"
+        ],
+        "answer": "(B) Blue and white",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "44:54-44:54"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "All the players in the video get ___ -Chair Turns.",
+        "candidates": [
+            "(A) 2",
+            "(B) 4",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(B) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-75:57"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What hairstyle does the woman who sings \"El Me Minti\u00f3\" have?",
+        "candidates": [
+            "(A) Short hair",
+            "(B) Long hair",
+            "(C) Other",
+            "(D) Bald"
+        ],
+        "answer": "(D) Bald",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "68:40-68:40"
+    },
+    {
+        "video": "00000038",
+        "type": "tv",
+        "question": "What is the main color of the scene while the contestant sings \"Kiss Me\"?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Red",
+            "(C) Black",
+            "(D) Green"
+        ],
+        "answer": "(D) Green",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "70:31-70:31"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "How many contestants can be seen playing the piano in the video?",
+        "candidates": [
+            "(A) 1",
+            "(B) 4",
+            "(C) 3",
+            "(D) 2"
+        ],
+        "answer": "(D) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-60:00"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What color are the pants worn by the first contestant in the video?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Green",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(D) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-01:30"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What accessory is the second contestant wearing around his neck?",
+        "candidates": [
+            "(A) Silver pendant",
+            "(B) Leather choker",
+            "(C) Gold chain",
+            "(D) Pearl necklace"
+        ],
+        "answer": "(D) Pearl necklace",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:20-02:25"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What instrument is the fifth contestant using during their performance?",
+        "candidates": [
+            "(A) Piano",
+            "(B) Guitar",
+            "(C) Saxophone",
+            "(D) Drums"
+        ],
+        "answer": "(B) Guitar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:50-09:07"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "How many rings are the 12th contestant wearing on their hands?",
+        "candidates": [
+            "(A) 2",
+            "(B) 0",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(A) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "21:06-21:49"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "Who is the first coach to turn around during the third contestant's performance?",
+        "candidates": [
+            "(A) The coach wearing the denim jacket",
+            "(B) The coach wearing the floral sweater",
+            "(C) The coach wearing the black jacket",
+            "(D) The coach wearing the pink dress"
+        ],
+        "answer": "(D) The coach wearing the pink dress",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:42-04:08"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What type of song is the eighth contestant singing according to the refection of coaches?",
+        "candidates": [
+            "(A) Rock",
+            "(B) Heavy metal",
+            "(C) Soft acoustic",
+            "(D) High-energy rhythmic"
+        ],
+        "answer": "(C) Soft acoustic",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "14:02-15:45"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "How many coaches turn their chairs during the performance from 24:49-26:00?",
+        "candidates": [
+            "(A) 4",
+            "(B) 2",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(C) 3",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "24:49-26:00"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What color are the lights on the coaches' chairs when they turn around?",
+        "candidates": [
+            "(A) Red",
+            "(B) White",
+            "(C) Black",
+            "(D) Yellow"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:43-02:14"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What is the name of the song sung by the third contestant?",
+        "candidates": [
+            "(A) Creep",
+            "(B) Savage Love (Laxed \u2013 Siren Beat)",
+            "(C) Turning Tables",
+            "(D) Break My Heart Again"
+        ],
+        "answer": "(A) Creep",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "03:49-03:49"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "What is the name of the tenth contestant displayed on the screen?",
+        "candidates": [
+            "(A) Shanae Watson",
+            "(B) Sia",
+            "(C) Jason Jones",
+            "(D) Chandelier"
+        ],
+        "answer": "(A) Shanae Watson",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "17:37-17:40"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "Who is the original singer of the song 'Anyone' that one of the contestants sings in the video?",
+        "candidates": [
+            "(A) Justin Bieber",
+            "(B) Juan Geck",
+            "(C) Christina Aguilera",
+            "(D) Demi Lovato"
+        ],
+        "answer": "(A) Justin Bieber",
+        "question_type": [
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "45:13-45:13"
+    },
+    {
+        "video": "00000039",
+        "type": "tv",
+        "question": "In what order do the judges turn around when Adele sings?",
+        "candidates": [
+            "(A) Three judges turn around. The order is Adam, Jenniffer, Kelly",
+            "(B) Three judges turn around. The order is Adam, Kelly, Jenniffer",
+            "(C) All of the judges turn around. The order is Adam, Blake, Jenniffer, Kelly",
+            "(D) All of the judges turn around. The order is Adam, Kelly, Jenniffer, Blake"
+        ],
+        "answer": "(C) All of the judges turn around. The order is Adam, Blake, Jenniffer, Kelly",
+        "question_type": [
+            "summarization",
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-60:00"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What talent do Olga and Bonnie have?",
+        "candidates": [
+            "(A) The dog plays the piano",
+            "(B) The dog dances gracefully on its hind legs",
+            "(C) The dog performs a series of acrobatic jumps",
+            "(D) The dog trots proudly alongside its owner, head held high"
+        ],
+        "answer": "(A) The dog plays the piano",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "04:45-05:49"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is the name of the dog that plays the piano?",
+        "candidates": [
+            "(A) Bonnie",
+            "(B) Hurricane",
+            "(C) Buddy",
+            "(D) Nymeria"
+        ],
+        "answer": "(A) Bonnie",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "04:45-05:49"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is the name of the third group?",
+        "candidates": [
+            "(A) Aron and Buddy",
+            "(B) Amber and Nymeria",
+            "(C) Heather and Bogart",
+            "(D) Adrian Stoica and Hurricane"
+        ],
+        "answer": "(B) Amber and Nymeria",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:01-07:58"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "Who is the woman wearing a tall hat, dressed head to toe in black, holding a magician stick, and the dog wearing black clothes with a silver star?",
+        "candidates": [
+            "(A) Amber and Nymeria's show time",
+            "(B) Aron and Buddy's show time",
+            "(C) Adrian Stoica and Hurricane's show time",
+            "(D) Heather and Bogart's show time"
+        ],
+        "answer": "(A) Amber and Nymeria's show time",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:58-12:02"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "Why do the four judges stand up for Amber and Nymeria?",
+        "candidates": [
+            "(A) Because they are so touched about Nymeria's performance",
+            "(B) Because they are so traumatised about Nymeria's performance errors",
+            "(C) Because they are so sad about Nymeria's performance errors",
+            "(D) Because they are so excited about Nymeria's performance"
+        ],
+        "answer": "(D) Because they are so excited about Nymeria's performance",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "11:15-11:30"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many dogs does Diana Vedyashinka perform with?",
+        "candidates": [
+            "(A) Three",
+            "(B) Five",
+            "(C) Six",
+            "(D) Four"
+        ],
+        "answer": "(B) Five",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:10-16:39"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What do Buddy and Aaron perform?",
+        "candidates": [
+            "(A) Buddy plays the piano and Aaron sings",
+            "(B) Aaron plays the guitar and Buddy sings",
+            "(C) Aaron plays the piano and Buddy sings",
+            "(D) Aaron plays the hide-and-seek and Buddy sings"
+        ],
+        "answer": "(B) Aaron plays the guitar and Buddy sings",
+        "question_type": [
+            "key information retrieval",
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "18:26-20:53"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is the decoration on the neck of the black and white dog that comes out after the puppy wearing the red bow?",
+        "candidates": [
+            "(A) Blue scarf",
+            "(B) Black scarf",
+            "(C) Red scarf",
+            "(D) White scarf"
+        ],
+        "answer": "(C) Red scarf",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "26:55-26:59"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is written on the paper that Heather holds in her hand?",
+        "candidates": [
+            "(A) Bogart Simon",
+            "(B) Bonnie Amber",
+            "(C) Adrian Stoica",
+            "(D) Heather"
+        ],
+        "answer": "(A) Bogart Simon",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "28:21-28:21"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many legs does Bogart have?",
+        "candidates": [
+            "(A) Four",
+            "(B) Three",
+            "(C) One",
+            "(D) Two"
+        ],
+        "answer": "(B) Three",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "26:33-29:31"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many \"Yes\"does Bogart get?",
+        "candidates": [
+            "(A) Four",
+            "(B) One",
+            "(C) Three",
+            "(D) Two"
+        ],
+        "answer": "(A) Four",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "29:09-30:57"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What's on the black cloth that appears in front of the judges?",
+        "candidates": [
+            "(A) Pictures of dogs",
+            "(B) Line cards",
+            "(C) Poker cards",
+            "(D) Photos of guests"
+        ],
+        "answer": "(A) Pictures of dogs",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "45:30-45:40"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many piles are the cards in front of the judges divided into by the woman in red?",
+        "candidates": [
+            "(A) 6",
+            "(B) 2",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "45:40-46:03"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "Why does Miracle's owner play a video clip?",
+        "candidates": [
+            "(A) To explain why Miracle becomes so beautiful",
+            "(B) To explain why Miracle' gets hurt",
+            "(C) To explain why Miracle's owner cries",
+            "(D) To explain why Miracle's owner have over 40 dogs"
+        ],
+        "answer": "(D) To explain why Miracle's owner have over 40 dogs",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "46:44-48:58"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is the one last thing the man in the yellow T-shirt wants Joe to do?",
+        "candidates": [
+            "(A) Play with his dog. The dog and the judge paly hide and seek",
+            "(B) Play with his dog. The dog barks at the judge",
+            "(C) Play with his dog. The dog and the judge play the ball",
+            "(D) Play with his dog. The dog chases the judge"
+        ],
+        "answer": "(A) Play with his dog. The dog and the judge paly hide and seek",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "58:25-59:08"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many judges are there?",
+        "candidates": [
+            "(A) Five",
+            "(B) Four",
+            "(C) Six",
+            "(D) Three"
+        ],
+        "answer": "(B) Four",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "59:03-59:03"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "What is the last interaction between Joe and Chico?",
+        "candidates": [
+            "(A) The dog catches the ball thrown by the person",
+            "(B) The dog finds the person who has the ball",
+            "(C) The dog bites the person who has the ball",
+            "(D) The dog miss the ball thrown by the person"
+        ],
+        "answer": "(B) The dog finds the person who has the ball",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "59:14-59:14"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many \"woofs\" does Chico have?",
+        "candidates": [
+            "(A) Two",
+            "(B) Four",
+            "(C) Three",
+            "(D) One"
+        ],
+        "answer": "(B) Four",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "60:40-60:45"
+    },
+    {
+        "video": "00000040",
+        "type": "tv",
+        "question": "How many dogs go on the stage in the first hour of this video?",
+        "candidates": [
+            "(A) 24",
+            "(B) 30",
+            "(C) 25",
+            "(D) 29"
+        ],
+        "answer": "(D) 29",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-60:00"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) News report",
+            "(B) TV show",
+            "(C) Sports competition",
+            "(D) Documentary"
+        ],
+        "answer": "(B) TV show",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-40:50"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What color tie is the host wearing?",
+        "candidates": [
+            "(A) Purple",
+            "(B) Red",
+            "(C) White",
+            "(D) Black"
+        ],
+        "answer": "(A) Purple",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:00-01:00"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What's the date on the screen when Kobe comes on stage?",
+        "candidates": [
+            "(A) 8.24.2024",
+            "(B) 8.30.2018",
+            "(C) 9.23.2024",
+            "(D) 9.3.2019"
+        ],
+        "answer": "(D) 9.3.2019",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "04:45-05:00"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What color is Kobe's tie at the beginning of the video?",
+        "candidates": [
+            "(A) Red",
+            "(B) White",
+            "(C) Black",
+            "(D) Purple"
+        ],
+        "answer": "(C) Black",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "05:23-05:23"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What is Kobe's sitting posture at 05:32?",
+        "candidates": [
+            "(A) Sitting upright",
+            "(B) Sitting with legs crossed",
+            "(C) Sitting leaning forward",
+            "(D) Legs together"
+        ],
+        "answer": "(B) Sitting with legs crossed",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "05:32-05:32"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What's the part of the interview where Kobe wears a gray suit?",
+        "candidates": [
+            "(A) Reminiscing about Kobe's training days",
+            "(B) Memories of unforgettable moments with Kobe",
+            "(C) Recall what others said about Kobe Bryant",
+            "(D) Remembering Kobe's game moments"
+        ],
+        "answer": "(B) Memories of unforgettable moments with Kobe",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "02:10-13:45"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "At 14:23, what does Kobe do with reporters?",
+        "candidates": [
+            "(A) The reporter shakes hands with Kobe",
+            "(B) Kobe waves to reporters",
+            "(C) Reporters and Kobe high-five",
+            "(D) The reporter and Bryant hug"
+        ],
+        "answer": "(A) The reporter shakes hands with Kobe",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "14:05-14:30"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "Who is sitting to the right of Kobe?",
+        "candidates": [
+            "(A) Derek Fisher",
+            "(B) James",
+            "(C) Ariza",
+            "(D) Paul Gasol"
+        ],
+        "answer": "(A) Derek Fisher",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "15:31-15:31"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "From the audience's point of view, what color are the shoes on Kobe's left?",
+        "candidates": [
+            "(A) Black",
+            "(B) Red",
+            "(C) Purple",
+            "(D) White"
+        ],
+        "answer": "(D) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "15:41-15:41"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "Who assists Fisher's three-pointer?",
+        "candidates": [
+            "(A) Kobe Bryant",
+            "(B) Paul Gasol",
+            "(C) James",
+            "(D) Ariza"
+        ],
+        "answer": "(A) Kobe Bryant",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:50-18:00"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What is the person closest to the picture wearing at 20:29?",
+        "candidates": [
+            "(A) Solid color shirt",
+            "(B) Other shirts",
+            "(C) Striped shirt",
+            "(D) Plaid shirt"
+        ],
+        "answer": "(C) Striped shirt",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "20:29-20:29"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "At 23:50, what color tie is the host wearing?",
+        "candidates": [
+            "(A) Purple",
+            "(B) Red",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(A) Purple",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "23:50-23:50"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "Which team is wearing the green jersey?",
+        "candidates": [
+            "(A) Milwaukee Bucks",
+            "(B) Boston Celtics",
+            "(C) Los Angeles Clippers",
+            "(D) Los Angeles Lakers"
+        ],
+        "answer": "(B) Boston Celtics",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "26:05-26:15"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What does Kobe in a black suit take out of his pants pocket?",
+        "candidates": [
+            "(A) Cup",
+            "(B) Picture",
+            "(C) Letter",
+            "(D) Medal"
+        ],
+        "answer": "(D) Medal",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "29:15-29:20"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What happens from 40:39-40:45?",
+        "candidates": [
+            "(A) Kobe cries to the audience",
+            "(B) Kobe waves to the crowd",
+            "(C) Kobe blows a kiss",
+            "(D) Kobe bows to the audience"
+        ],
+        "answer": "(C) Kobe blows a kiss",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "40:30-40:35"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "What happens from 39:10-39:17?",
+        "candidates": [
+            "(A) O'Neal assists Kobe for dunk",
+            "(B) James assists Kobe Bryant in mid-range shot",
+            "(C) O'Neal assists James for dunk",
+            "(D) O'Neal assists Kobe Bryant in mid-range shot"
+        ],
+        "answer": "(A) O'Neal assists Kobe for dunk",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "39:10-39:17"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "After Fisher scores , what does the white team No. 20 do?",
+        "candidates": [
+            "(A) He feels to the ground",
+            "(B) He waves his elbow",
+            "(C) He bows",
+            "(D) He waves"
+        ],
+        "answer": "(B) He waves his elbow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:50-18:00"
+    },
+    {
+        "video": "00000041",
+        "type": "tv",
+        "question": "How many times did Kobe Bryant appear and in what years was he invited to this show in the video?",
+        "candidates": [
+            "(A) 6 times, respectively in 2008, 2009, 2010, 2013, 2018, and 2019",
+            "(B) 5 times, respectively in 2008, 2009, 2010, 2013, and 2019",
+            "(C) 6 times, respectively in 2008, 2009, 2010, 2012, 2018, and 2019",
+            "(D) 5 times, respectively in 2008, 2009, 2010, 2012, and 2019"
+        ],
+        "answer": "(A) 6 times, respectively in 2008, 2009, 2010, 2013, 2018, and 2019",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-40:50"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What does the man do from 00:27-00:33?",
+        "candidates": [
+            "(A) He climbs the stairs",
+            "(B) He opens the window",
+            "(C) He walks down the stairs",
+            "(D) He opens the door"
+        ],
+        "answer": "(C) He walks down the stairs",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "00:27-00:33"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "In the next shot after James Corden's driving, what position does he speak in?",
+        "candidates": [
+            "(A) The host talks standing on the stage",
+            "(B) The host talks sitting on the sofa",
+            "(C) The host talks sitting next to the table",
+            "(D) The host reads a book sitting next to the table"
+        ],
+        "answer": "(C) The host talks sitting next to the table",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:20-10:05"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What does the men in suits do to the invitations when they talk to James Corden in pajamas?",
+        "candidates": [
+            "(A) They hand the invitation to James Corden",
+            "(B) They throw the invitation away",
+            "(C) They tear the invitation into pieces",
+            "(D) They burn the invitation with the fire"
+        ],
+        "answer": "(D) They burn the invitation with the fire",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "16:28-16:38"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What is the thing that happens from 12:37-16:52?",
+        "candidates": [
+            "(A) A real event",
+            "(B) A fantasy",
+            "(C) A nightmare",
+            "(D) A memory"
+        ],
+        "answer": "(C) A nightmare",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "12:37-16:52"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What does the man in khaki suit do in the next scene after the scene of a photo of five people end?",
+        "candidates": [
+            "(A) He shows his wounds",
+            "(B) He takes off his clothes",
+            "(C) He shows his tattoo",
+            "(D) He shows his muscle"
+        ],
+        "answer": "(C) He shows his tattoo",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:43-20:55"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What does the man in the rightmost do from 22:51-23:11?",
+        "candidates": [
+            "(A) He eats the bug trifle",
+            "(B) He eats the salmon juice",
+            "(C) He eats the apple juice",
+            "(D) He eats the bull penis"
+        ],
+        "answer": "(A) He eats the bug trifle",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "22:51-23:11"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "After the host let go of the hand of the man in the drab suit, what is the interaction with him and the man with the white beard?",
+        "candidates": [
+            "(A) They shake hands with each other",
+            "(B) They hug together",
+            "(C) They kiss each other",
+            "(D) They cry together"
+        ],
+        "answer": "(B) They hug together",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:33-27:37"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What color is the camera directs at the only woman on stage as James Corden speaks from 31:46 to 31:51?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Red",
+            "(C) Black",
+            "(D) White"
+        ],
+        "answer": "(D) White",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "31:46-31:51"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What does James Corden do when he finishes his monologue at his desk?",
+        "candidates": [
+            "(A) He sings and plays the guitar",
+            "(B) He sings and plays the piano",
+            "(C) He talks with the music",
+            "(D) He bows to the audience"
+        ],
+        "answer": "(B) He sings and plays the piano",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:29-35:49"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "What color is James Corden wearing in the next shot after he wakes up from his dream?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) White",
+            "(C) Grey",
+            "(D) Black"
+        ],
+        "answer": "(A) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:07-17:07"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "When James Corden is talking to another man through the door, what is the word in the red area on the door?",
+        "candidates": [
+            "(A) ST-1",
+            "(B) ST-7",
+            "(C) ST-5",
+            "(D) ST-2"
+        ],
+        "answer": "(D) ST-2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:48-04:12"
+    },
+    {
+        "video": "00000042",
+        "type": "tv",
+        "question": "When does Jams Corden appear on the stage?",
+        "candidates": [
+            "(A) 08:20",
+            "(B) 05:20",
+            "(C) 07:20",
+            "(D) 06:20"
+        ],
+        "answer": "(B) 05:20",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "04:46-05:25"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What color comb is this woman using to comb the pig?",
+        "candidates": [
+            "(A) Light yellow",
+            "(B) Black",
+            "(C) Dark blue",
+            "(D) Dark green"
+        ],
+        "answer": "(C) Dark blue",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "19:00-19:30"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What is the category of this video?",
+        "candidates": [
+            "(A) Vacation",
+            "(B) Wildness suvival",
+            "(C) History",
+            "(D) Travel"
+        ],
+        "answer": "(B) Wildness suvival",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-40:00"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What are the men doing at 00:26?",
+        "candidates": [
+            "(A) Hunting a crocodile",
+            "(B) Hunting a pig",
+            "(C) Hunting a dinosaur",
+            "(D) Hugging"
+        ],
+        "answer": "(A) Hunting a crocodile",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "00:11-00:29"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "At 12:26, how old is Abby?",
+        "candidates": [
+            "(A) 47",
+            "(B) 22",
+            "(C) 30",
+            "(D) 74"
+        ],
+        "answer": "(A) 47",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "09:40-15:51"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What color is the dotted line at 12:06 on the map?",
+        "candidates": [
+            "(A) Black",
+            "(B) Yellow",
+            "(C) Red",
+            "(D) Write"
+        ],
+        "answer": "(D) Write",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "11:55-12:21"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "Which two men get lost in the forest?",
+        "candidates": [
+            "(A) Sam and Fran",
+            "(B) Kyle and Sam",
+            "(C) Kyle and Will",
+            "(D) Will and Lauren"
+        ],
+        "answer": "(B) Kyle and Sam",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:05-13:22"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What's the name of the 36-year-old cameraman?",
+        "candidates": [
+            "(A) Paul",
+            "(B) Vig",
+            "(C) Will",
+            "(D) Sam"
+        ],
+        "answer": "(C) Will",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "26:00-28:00"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "How many years older is Paul than Beth?",
+        "candidates": [
+            "(A) 30",
+            "(B) 36",
+            "(C) 3",
+            "(D) 6"
+        ],
+        "answer": "(D) 6",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "28:30-31:00"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "Who falls and ruptures?",
+        "candidates": [
+            "(A) Beth",
+            "(B) Will",
+            "(C) Fran",
+            "(D) Paul"
+        ],
+        "answer": "(B) Will",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:18-11:28"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "After Andy's personal information and introduction, which person is next in the picture?",
+        "candidates": [
+            "(A) BETH",
+            "(B) ABBY",
+            "(C) PUAL",
+            "(D) VIC"
+        ],
+        "answer": "(D) VIC",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "21:00-24:30"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What are the two men doing at 35:40?",
+        "candidates": [
+            "(A) Quarraling",
+            "(B) Jumping",
+            "(C) Joking",
+            "(D) Swimming"
+        ],
+        "answer": "(A) Quarraling",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "35:34-36:00"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "Are there any changes in the man's emotion from 34:49-35:08?",
+        "candidates": [
+            "(A) No, no emotion all the time",
+            "(B) Yes, from laughing to disappointment",
+            "(C) Yes, from disappointment to laughing",
+            "(D) No, laughing all the time"
+        ],
+        "answer": "(B) Yes, from laughing to disappointment",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "34:49-35:08"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "How are two pigs treat after they show up on the island?",
+        "candidates": [
+            "(A) Women keep pigs as pets",
+            "(B) Two pigs are eat by men",
+            "(C) Men keep pigs as pets",
+            "(D) Two pigs are eat by women"
+        ],
+        "answer": "(A) Women keep pigs as pets",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:42-21:20"
+    },
+    {
+        "video": "00000043",
+        "type": "tv",
+        "question": "What happens before and after the men caught the fish in the video?",
+        "candidates": [
+            "(A) The man brings a blue bag to the sea to catch fish and then he successfully catches fishes, and then all the men cheer for him",
+            "(B) The man brings a blue bag to the sea to catch fish but he fails and starts a quarrel, later they successfully find other foods, and all the men cheer happily",
+            "(C) The man brings a blue bag to the sea to catch fish but fails at first, all the teammates cheer him up, later the man successfully catches fishes, and all the men cheer for him",
+            "(D) The man brings a blue bag to the sea to catch fish but fails at first and starts a quarrel, later the man successfully catches fishes, and all the men cheer for him"
+        ],
+        "answer": "(D) The man brings a blue bag to the sea to catch fish but fails at first and starts a quarrel, later the man successfully catches fishes, and all the men cheer for him",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-40:16"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "How many pairs of guests participated in the program in total?",
+        "candidates": [
+            "(A) 42",
+            "(B) 4",
+            "(C) 6",
+            "(D) 5"
+        ],
+        "answer": "(D) 5",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-40:21"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What happens right before Tawanna hugs Tyisha?",
+        "candidates": [
+            "(A) Cory scolds Tyisha",
+            "(B) Tawanna hugs Cory",
+            "(C) Tawanna kisses Tyisha",
+            "(D) Cory hugs Tyisha"
+        ],
+        "answer": "(D) Cory hugs Tyisha",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:17-None"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What is the host preparing to do at 01:25?",
+        "candidates": [
+            "(A) Get ready to reveal the results of the competition",
+            "(B) Prepare to introduce the female protagonist of this segment",
+            "(C) Get ready to announce the first challenge",
+            "(D) Discuss the technical aspects of the production"
+        ],
+        "answer": "(B) Prepare to introduce the female protagonist of this segment",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "01:25-03:01"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What is the woman doing at 02:16?",
+        "candidates": [
+            "(A) She is reaching out to the girl",
+            "(B) She is gently touching the girl's shoulder",
+            "(C) She is hugging the girl",
+            "(D) She is holding hands with the girl"
+        ],
+        "answer": "(C) She is hugging the girl",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "02:16-02:16"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What is the attitude of the audience at 04:11?",
+        "candidates": [
+            "(A) Mixed",
+            "(B) Negative",
+            "(C) Positive",
+            "(D) Disinterested"
+        ],
+        "answer": "(B) Negative",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "04:11-04:11"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "Why are the audience so happy at 04:19?",
+        "candidates": [
+            "(A) A joyful event unfolds on stage, eliciting cheers from the audience",
+            "(B) The male protagonist delivers an unexpected surprise to the audience",
+            "(C) The audience reacts positively to a heartwarming gesture made by one of the characters",
+            "(D) The wife next to the male protagonist on the screen and the female protagonist are engaged in a heated argument"
+        ],
+        "answer": "(D) The wife next to the male protagonist on the screen and the female protagonist are engaged in a heated argument",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "04:16-04:30"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) Dancing Competition",
+            "(B) Entertainment Talk Show",
+            "(C) Travel Documentary",
+            "(D) Romantic Comedy Series"
+        ],
+        "answer": "(B) Entertainment Talk Show",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:05-06:14"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What is the girl preparing to do to the boy at 08:47?",
+        "candidates": [
+            "(A) The girl is preparing to scold the boy",
+            "(B) The girl is preparing to hit the boy",
+            "(C) The girl is preparing to give something to the boy",
+            "(D) The girl is preparing to hug the boy"
+        ],
+        "answer": "(B) The girl is preparing to hit the boy",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "08:44-08:48"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "What is on the right side of the screen when the mother of the second female protagonist talks individually?",
+        "candidates": [
+            "(A) Books",
+            "(B) Flowers",
+            "(C) Cup",
+            "(D) Painting"
+        ],
+        "answer": "(B) Flowers",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:33-10:33"
+    },
+    {
+        "video": "00000044",
+        "type": "tv",
+        "question": "How old is Magan?",
+        "candidates": [
+            "(A) 27",
+            "(B) 16",
+            "(C) 17",
+            "(D) 18"
+        ],
+        "answer": "(C) 17",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "12:33-12:33"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What is the change in the number of camera images 03:19-03:21?",
+        "candidates": [
+            "(A) 1 to 3",
+            "(B) 2 to 1",
+            "(C) 1 to 2",
+            "(D) 1 to 3"
+        ],
+        "answer": "(B) 2 to 1",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "03:19-03:21"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What changes have occurred in the scene from the scene when a woman is interviewed with words of 'LEBANON, NJ 5:03PM' and just turn to 'LEBANON, NJ 5:04PM'?",
+        "candidates": [
+            "(A) Switch from indoor to the park",
+            "(B) Switch from the road to the park",
+            "(C) Transition from road to indoor",
+            "(D) Transition from indoor to road"
+        ],
+        "answer": "(C) Transition from road to indoor",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "03:58-04:01"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What is the change in the number of camera images when the scene of a woman, who is interviewed with words of 'LEBANON, NJ 5:06PM' switched?",
+        "candidates": [
+            "(A) 1 to another 1",
+            "(B) 1 to 3",
+            "(C) 1 to 2",
+            "(D) 1 to 2"
+        ],
+        "answer": "(D) 1 to 2",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "06:25-06:27"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What words appear on the screen after the blue scene with white word 'TAIWAN' shifted to picture?",
+        "candidates": [
+            "(A) RACE TO RESCUE",
+            "(B) TAIWAN TO RESCUE",
+            "(C) RACE RESOUE",
+            "(D) RACE TO RESCUE"
+        ],
+        "answer": "(D) RACE TO RESCUE",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:38-08:40"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What events did the host report on after the report of the first earthquake?",
+        "candidates": [
+            "(A) RESCUE TEAMS COMB THROUGH MOUNTAINSIN TAIWAN TO FIND TRAPPED QUAKE VICTIMS",
+            "(B) JUST IN: BODY FOUND AT THE SITEOF BALTIMORE BRIDGE COLLAPSE",
+            "(C) Magntude earthouake rumles parts of the northeast, prompting concerns of building safety",
+            "(D) PRESIDENT BIDEN TELLS BALTIMORE:THE NATION HAS YOUR BACK"
+        ],
+        "answer": "(A) RESCUE TEAMS COMB THROUGH MOUNTAINSIN TAIWAN TO FIND TRAPPED QUAKE VICTIMS",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:35-08:15"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What events did the host report on after the report with the keyword of BIDEN?",
+        "candidates": [
+            "(A) TOURISTS FLOCK TO LOCATIONS ALONGTHE SOLAR ECLIPSE PATH OF TOTALITY",
+            "(B) JUST IN: BODY FOUND AT THE SITEOF BALTIMORE BRIDGE COLLAPSE",
+            "(C) U.S. ADDS 303.000 JOBS IN MARCH, INSTRONGER-THAN-EXPECTED REPORT",
+            "(D) MOTHER OF HOSTAGE TAKEN BY HAMAS"
+        ],
+        "answer": "(D) MOTHER OF HOSTAGE TAKEN BY HAMAS",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "13:51-16:59"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What events did the host report on after the report with the keyword of ISRAEL?",
+        "candidates": [
+            "(A) IDF DISMISSES TWO SENIOR OFFICERS OVERKILLING OF SEVEN AID WORKERS IN GAZA",
+            "(B) PRESIDENT BIDEN TELLS BALTIMORE:THE NATION HAS YOUR BACK",
+            "(C) RESCUE TEAMS COMB THROUGH MOUNTAINSIN TAIWAN TO FIND TRAPPED QUAKE VICTIMS",
+            "(D) FIGHTS FOR HER SON'S RETURN HOME"
+        ],
+        "answer": "(D) FIGHTS FOR HER SON'S RETURN HOME",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:50-21:55"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What events did the host report on after the report with the keyword of MARKET?",
+        "candidates": [
+            "(A) U.S. ADDS 303.000 JOBS IN MARCH, INSTRONGER-THAN-EXPECTED REPORT",
+            "(B) Magntude earthouake rumles parts of the northeast, prompting concerns of building safety",
+            "(C) JUST IN: BODY FOUND AT THE SITEOF BALTIMORE BRIDGE COLLAPSE",
+            "(D) TOURISTS FLOCK TO LOCATIONS ALONGTHE SOLAR ECLIPSE PATH OF TOTALITY"
+        ],
+        "answer": "(D) TOURISTS FLOCK TO LOCATIONS ALONGTHE SOLAR ECLIPSE PATH OF TOTALITY",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "21:09-24:41"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What is the day and night situation in the scene when the journalist in Jerusalem is interviewed?",
+        "candidates": [
+            "(A) Sunset",
+            "(B) Sunrise",
+            "(C) During the day",
+            "(D) Late at night"
+        ],
+        "answer": "(D) Late at night",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:27-15:44"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What happens that cause global trade disrupted?",
+        "candidates": [
+            "(A) A truck blocks a bridge",
+            "(B) A truck blocks a highway",
+            "(C) A cargo ship crashes a bridge",
+            "(D) A cargo ship crashes a port"
+        ],
+        "answer": "(C) A cargo ship crashes a bridge",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "11:18-11:18"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What words appear on the screen when there is a basketball player and P&G logos appear at the same time?",
+        "candidates": [
+            "(A) The Five Things",
+            "(B) JUST IN",
+            "(C) Amazing news",
+            "(D) BREAKING NEWS"
+        ],
+        "answer": "(A) The Five Things",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "25:04-25:04"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "How many news events were told during this time 24:04-27:10?",
+        "candidates": [
+            "(A) 7",
+            "(B) 5",
+            "(C) 6",
+            "(D) 4"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "25:04-27:10"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What events does the reporter, who is wearing a yellow dress, report about in the restaurant?",
+        "candidates": [
+            "(A) NEW LAWSUIT ACCUSES DIDDY OF AIDING ANDABETTING HIS SON IN SEX ASSAULT ON A YACHT",
+            "(B) FIGHTS FOR HER SON'S RETURN HOME",
+            "(C) TOURISTS FLOCK TO LOCATIONS ALONGTHE SOLAR ECLIPSE PATH OF TOTALITY",
+            "(D) MOTHER OF HOSTAGE TAKEN BY HAMAS FIGHTS FOR HER SON'S RETURN HOME"
+        ],
+        "answer": "(A) NEW LAWSUIT ACCUSES DIDDY OF AIDING ANDABETTING HIS SON IN SEX ASSAULT ON A YACHT",
+        "question_type": [
+            "entity recognition",
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "24:10-38:04"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "How many people appear in the screen when NCAA WOMAN'S BASKETBALL VP is interviewed?",
+        "candidates": [
+            "(A) 3",
+            "(B) 2",
+            "(C) 4",
+            "(D) 1"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "40:48-40:48"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What is the change in the number of camera images 41:20-41:22?",
+        "candidates": [
+            "(A) 2 to 1",
+            "(B) 1 to 3",
+            "(C) 1 to 2",
+            "(D) 1 to 3"
+        ],
+        "answer": "(A) 2 to 1",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "41:20-41:22"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What are the white words on the screen that change to Economy?",
+        "candidates": [
+            "(A) ECONOMY",
+            "(B) COLLAPSE",
+            "(C) BASKETBALL",
+            "(D) EARTHQUAKE"
+        ],
+        "answer": "(D) EARTHQUAKE",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "43:10-43:10"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "What are the actions of people in the first picture in the The Five Thing #4?",
+        "candidates": [
+            "(A) Get the ball",
+            "(B) High fives",
+            "(C) Kick the ball",
+            "(D) Shooting"
+        ],
+        "answer": "(A) Get the ball",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "69:40-69:40"
+    },
+    {
+        "video": "00000045",
+        "type": "tv",
+        "question": "Though what means did the news of the earthquake in New York be reported?",
+        "candidates": [
+            "(A) Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, a chart that counts casualties, and a interview to citizens,",
+            "(B) Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, a chart that counts casualties, and a interview to the government",
+            "(C) Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, and a interview to the government",
+            "(D) Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, and a interview to citizens"
+        ],
+        "answer": "(D) Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, and a interview to citizens",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-84:37"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "What word is printed on each cup?",
+        "candidates": [
+            "(A) SODAR",
+            "(B) SONG",
+            "(C) SONIC",
+            "(D) SUGAR"
+        ],
+        "answer": "(C) SONIC",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "04:56-04:56"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "What interactions occurred between the girl and the doll during 08:14-08:33?",
+        "candidates": [
+            "(A) The doll spoke to the audience and the girl",
+            "(B) The girl and the doll argued",
+            "(C) The girl and the doll danced together",
+            "(D) The girl and the doll sang together"
+        ],
+        "answer": "(A) The doll spoke to the audience and the girl",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "08:14-08:33"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "What card did the male judge draw?",
+        "candidates": [
+            "(A) Spade 7",
+            "(B) Club 7",
+            "(C) Spade 9",
+            "(D) Club 9"
+        ],
+        "answer": "(B) Club 7",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "09:07-09:20"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "Why does Brynn Cummings' mother wipe away tears?",
+        "candidates": [
+            "(A) Although the girl fails, she completes her performance and receives applause from the audience, she is deeply moved",
+            "(B) The girl becomes the first place, so she is very happy",
+            "(C) The girl fails, so she is very sad",
+            "(D) The girl completes her performance and receives applause from the audience, she is nervous and excited"
+        ],
+        "answer": "(D) The girl completes her performance and receives applause from the audience, she is nervous and excited",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "07:07-12:07"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "Where does this scene at 14:45 take place?",
+        "candidates": [
+            "(A) In the audience seats",
+            "(B) In front of the television",
+            "(C) Backstage",
+            "(D) Outside the venue"
+        ],
+        "answer": "(A) In the audience seats",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "14:45-14:46"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "What does Mandy do after she stands in front of the judges' table?",
+        "candidates": [
+            "(A) She had four judges find pages and text in a book and accurately recited all the content of the corresponding page",
+            "(B) She had four judges draw cards in advance and then magically produced the same cards on stage",
+            "(C) She had four judges draw cards in advance and then randomly find pages and text in a book, accurately reciting all the words on stage",
+            "(D) She had four judges draw cards and then accurately found text in the book that matched the cards"
+        ],
+        "answer": "(C) She had four judges draw cards in advance and then randomly find pages and text in a book, accurately reciting all the words on stage",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "14:51-18:41"
+    },
+    {
+        "video": "00000095",
+        "type": "tv",
+        "question": "What actions are performed by the judge in this scene from 28:38-28:50?",
+        "candidates": [
+            "(A) She struck a match and made the female judge beside her blow it out",
+            "(B) She made the performer strike a match, and she herself blew it out",
+            "(C) She struck a match and blew it out",
+            "(D) She watched as the performer struck a match and blew it out"
+        ],
+        "answer": "(C) She struck a match and blew it out",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "28:38-28:50"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "How many people are there at the beginning of the video?",
+        "candidates": [
+            "(A) 2",
+            "(B) 5",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:01"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What does the man standing in the middle drink?",
+        "candidates": [
+            "(A) Fruit juice",
+            "(B) Coffee",
+            "(C) Milk",
+            "(D) Water"
+        ],
+        "answer": "(D) Water",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:35-00:52"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What is the first playing card that the man in the white shirt put on the table?",
+        "candidates": [
+            "(A) Hearts 5",
+            "(B) Clubs 5",
+            "(C) Clubs 10",
+            "(D) Hearts 10"
+        ],
+        "answer": "(D) Hearts 10",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:01-04:06"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "How many cards are in the playing cards when the man in the hat takes them out for the last time?",
+        "candidates": [
+            "(A) 20",
+            "(B) 5",
+            "(C) 10",
+            "(D) 13"
+        ],
+        "answer": "(A) 20",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "09:41-09:52"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What does the decoration on the man's chest with glasses replace?",
+        "candidates": [
+            "(A) A blue heart",
+            "(B) A silver heart",
+            "(C) A yellow heart",
+            "(D) An orange heart"
+        ],
+        "answer": "(B) A silver heart",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:04-12:20"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What card does the woman draw?",
+        "candidates": [
+            "(A) Spades Q",
+            "(B) Hearts 8",
+            "(C) Spades 8",
+            "(D) Spades J"
+        ],
+        "answer": "(D) Spades J",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:40-17:43"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What does David spit out from the mouth that is stitches with a needle?",
+        "candidates": [
+            "(A) Red Joker",
+            "(B) Hearts 8",
+            "(C) Black Joker",
+            "(D) Spade J"
+        ],
+        "answer": "(D) Spade J",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:32-19:50"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What are the letters in everyone's hands?",
+        "candidates": [
+            "(A) Do not poen",
+            "(B) Letter",
+            "(C) Damaged letter",
+            "(D) Please open"
+        ],
+        "answer": "(A) Do not poen",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "22:05-22:10"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What is the envelope when it is opened?",
+        "candidates": [
+            "(A) A handful of candy",
+            "(B) A deck of playing cards",
+            "(C) A damages dollar",
+            "(D) A letter full of words"
+        ],
+        "answer": "(B) A deck of playing cards",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "22:10-22:15"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "How many microphones are there on the table?",
+        "candidates": [
+            "(A) Three",
+            "(B) Two",
+            "(C) One",
+            "(D) Four"
+        ],
+        "answer": "(C) One",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "22:05-22:40"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "Where does the man put the drawn cards?",
+        "candidates": [
+            "(A) He gives it to David then",
+            "(B) It is in his clothes then",
+            "(C) He puts it on the ground then",
+            "(D) He puts it on the table then"
+        ],
+        "answer": "(B) It is in his clothes then",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:00-24:03"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What does the man put on the table for people to see?",
+        "candidates": [
+            "(A) An empty box",
+            "(B) A box of needles",
+            "(C) A box of sweets",
+            "(D) A box of cards"
+        ],
+        "answer": "(B) A box of needles",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "24:30-24:50"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "Which card does David pin on the table?",
+        "candidates": [
+            "(A) Hearts 8",
+            "(B) Red Joker",
+            "(C) Hearts 3",
+            "(D) Black Joker"
+        ],
+        "answer": "(D) Black Joker",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "25:25-25:41"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What happens when David put the man's hand on the card?",
+        "candidates": [
+            "(A) The card sticks to the man's hand",
+            "(B) The cards fell to the ground",
+            "(C) The man's hand is bleeding",
+            "(D) The needle pricks the man's hand"
+        ],
+        "answer": "(A) The card sticks to the man's hand",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:56-28:05"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "What happens when the audience takes out the cards in their pockets?",
+        "candidates": [
+            "(A) Their cards are torn up for no reason",
+            "(B) All their cards are gone",
+            "(C) Their cards are the same as those of the men on the stage",
+            "(D) All their cards are in David's hand"
+        ],
+        "answer": "(C) Their cards are the same as those of the men on the stage",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "28:25-28:35"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "How many magic tricks played with cards are performed on the stage?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-32:55"
+    },
+    {
+        "video": "00000096",
+        "type": "tv",
+        "question": "How many performance does frog been spat out by Jimmy in this video?",
+        "candidates": [
+            "(A) 3",
+            "(B) 5",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-32:55"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "The first song is sung by ____ people together.",
+        "candidates": [
+            "(A) 1",
+            "(B) 3",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:20-02:24"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color clothes is the third singer, appearing on the stage, wearing in the second song?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Yellow",
+            "(C) Green",
+            "(D) Golden"
+        ],
+        "answer": "(D) Golden",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "03:00-03:04"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "The person singing the third song is sitting on what?",
+        "candidates": [
+            "(A) Sitting on a red chair",
+            "(B) Sitting on a green chair",
+            "(C) Sitting on a yellow bench",
+            "(D) Sitting on a blue sofa"
+        ],
+        "answer": "(A) Sitting on a red chair",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:59-07:37"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What genders are the two people singing in the fourth song in the video?",
+        "candidates": [
+            "(A) Two individuals of the same gender",
+            "(B) One men and one women",
+            "(C) Two women",
+            "(D) Two men"
+        ],
+        "answer": "(D) Two men",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "10:00-10:35"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "Where are the first two singers sitting in the sixth song of the video?",
+        "candidates": [
+            "(A) They are sitting backstage",
+            "(B) They are sitting on the floor",
+            "(C) They are sitting on the stage",
+            "(D) They are sitting in the audience seats"
+        ],
+        "answer": "(D) They are sitting in the audience seats",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "12:50-13:20"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "How do the two actors walk down from their seats in the seventh song?",
+        "candidates": [
+            "(A) The two of them walked down from their seats with linked arms",
+            "(B) The two of them walked down from their seats hand in hand",
+            "(C) The two of them walked down from their seats holding hands",
+            "(D) The two of them walked down from their seats arm in arm"
+        ],
+        "answer": "(C) The two of them walked down from their seats holding hands",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:30-15:45"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "The eighth song is a chorus sung by ___ people.",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 3",
+            "(D) 5"
+        ],
+        "answer": "(C) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:00-18:00"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color is the hair of the Black man at 19:13 in the video?",
+        "candidates": [
+            "(A) Golden",
+            "(B) Pink",
+            "(C) Green",
+            "(D) Black"
+        ],
+        "answer": "(A) Golden",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "19:13-19:13"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "How many male singers are there in the tenth song of the video?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "22:04-23:04"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "How many Black individuals are there in the tenth song?",
+        "candidates": [
+            "(A) 2",
+            "(B) 4",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(C) 1",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "24:50-25:50"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color clothes is the person playing the piano wearing in the fourth song?",
+        "candidates": [
+            "(A) Black",
+            "(B) Red",
+            "(C) Blue",
+            "(D) Green"
+        ],
+        "answer": "(D) Green",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "32:30-33:15"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What instrument is the person who takes the stage first playing in the fifteenth song?",
+        "candidates": [
+            "(A) Drums",
+            "(B) Electric guitar",
+            "(C) Keyboard",
+            "(D) Violin"
+        ],
+        "answer": "(B) Electric guitar",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "34:07-34:07"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color is the hair of the first person playing the piano in the seventeenth song of the video?",
+        "candidates": [
+            "(A) Black",
+            "(B) White",
+            "(C) Yellow",
+            "(D) Red"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "39:50-40:30"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color light does the first singer walk out from at the beginning of the eighteenth song?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) White",
+            "(C) Red",
+            "(D) Black"
+        ],
+        "answer": "(A) Yellow",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "43:05-43:15"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What pattern is in the center of the video at 47:38?",
+        "candidates": [
+            "(A) A diamond",
+            "(B) A flower",
+            "(C) A heart",
+            "(D) A star"
+        ],
+        "answer": "(C) A heart",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "47:38-47:38"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What number is on the pink hat worn by the singer in the video?",
+        "candidates": [
+            "(A) 2",
+            "(B) 14",
+            "(C) 5",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "52:18-52:18"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "In the second-to-last song, how many singers are playing instruments?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "55:20-55:20"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "What color is the sky in the last song?",
+        "candidates": [
+            "(A) Black",
+            "(B) White",
+            "(C) Blue",
+            "(D) Red"
+        ],
+        "answer": "(A) Black",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "57:59-59:10"
+    },
+    {
+        "video": "00000097",
+        "type": "tv",
+        "question": "How many songs performed by how many singers in the first eleven minutes of this video?",
+        "candidates": [
+            "(A) 4 songs performed by 4 people in total",
+            "(B) 4 songs performed by 9 people in total",
+            "(C) 6 songs performed by 6 people in total",
+            "(D) 6 songs performed by 11 people in total"
+        ],
+        "answer": "(B) 4 songs performed by 9 people in total",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-60:20"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "Does this video primarily focus on sports, news, entertainment, or something else?",
+        "candidates": [
+            "(A) News",
+            "(B) Arts and Culture",
+            "(C) Lifestyle Shows",
+            "(D) Live Shows"
+        ],
+        "answer": "(D) Live Shows",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-11:41"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "From the attire of the scene, who is the man that the girls claimed to be the father of their children in this segment of the video?",
+        "candidates": [
+            "(A) The old man in the black shirt",
+            "(B) The man wearing a red striped black shirt",
+            "(C) The bald man with glasses",
+            "(D) The man in the black short-sleeved T-shirt"
+        ],
+        "answer": "(B) The man wearing a red striped black shirt",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-02:17"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "How old is Katherine, according to the subtitles?",
+        "candidates": [
+            "(A) 20",
+            "(B) 19",
+            "(C) 16",
+            "(D) 25"
+        ],
+        "answer": "(B) 19",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:35-02:35"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "How does the man in the blue shirt feel after all the results are revealed at 11:24?",
+        "candidates": [
+            "(A) Complex",
+            "(B) Sad",
+            "(C) Happy",
+            "(D) Angry"
+        ],
+        "answer": "(A) Complex",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "10:29-11:37"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "Can you determine the location or context of the video when the woman refusing the man?",
+        "candidates": [
+            "(A) Backstage",
+            "(B) Family counseling center",
+            "(C) On stage",
+            "(D) Courtroom"
+        ],
+        "answer": "(A) Backstage",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:06-18:21"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "Can you describe the facial expression shown by the girl at 18:55?",
+        "candidates": [
+            "(A) Pouting",
+            "(B) Opening her mouth",
+            "(C) Smiling",
+            "(D) Widening her eyes"
+        ],
+        "answer": "(A) Pouting",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "18:55-18:59"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "What actions are performed by the main girl of the story in this scene from 32:14-33:00?",
+        "candidates": [
+            "(A) She speaks softly and gently",
+            "(B) She analyzes calmly",
+            "(C) She accuses with tears in her eyes",
+            "(D) She describes the events using intense language"
+        ],
+        "answer": "(D) She describes the events using intense language",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "32:14-33:00"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "Did the two girls make up, judging from their behavior from 36:20 to 36:25?",
+        "candidates": [
+            "(A) Unable to conclude",
+            "(B) Yes, they shake hands and make peace",
+            "(C) No, their argument becomes more intense",
+            "(D) Yes, they hug and reconcile"
+        ],
+        "answer": "(D) Yes, they hug and reconcile",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "36:20-36:25"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "How do the two audience in the front row look at 39:29?",
+        "candidates": [
+            "(A) They appear skeptical",
+            "(B) They look very surprised",
+            "(C) They look very happy",
+            "(D) They are moved to tears"
+        ],
+        "answer": "(B) They look very surprised",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "39:29-39:29"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "How does the movement of the host change throughout the video?",
+        "candidates": [
+            "(A) The host mostly sits on the couch, but stands up and walks to the side corridor to welcome the guests",
+            "(B) The host always stands up to address the audience directly",
+            "(C) The host moves around the stage from time to time interacting with the guests and audience",
+            "(D) The host paces back and forth on the stage, expressing excitement and engagement with the guests"
+        ],
+        "answer": "(A) The host mostly sits on the couch, but stands up and walks to the side corridor to welcome the guests",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-48:13"
+    },
+    {
+        "video": "00000098",
+        "type": "tv",
+        "question": "How does the man in the blue shirt feel about the arrival of the man in the pink shirt at 42:56?",
+        "candidates": [
+            "(A) Angrily wanting to fight with him",
+            "(B) Excitedly wanting to hug him",
+            "(C) Indifferent",
+            "(D) Sadly crying"
+        ],
+        "answer": "(A) Angrily wanting to fight with him",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "42:56-43:25"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "Who is the person at 00:02?",
+        "candidates": [
+            "(A) Raymond",
+            "(B) Jason",
+            "(C) Mario",
+            "(D) Tacara"
+        ],
+        "answer": "(D) Tacara",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "00:02-01:18"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What's the relationship between Raymond and Jason?",
+        "candidates": [
+            "(A) Brothers",
+            "(B) Friends",
+            "(C) Cousins",
+            "(D) Father and son"
+        ],
+        "answer": "(C) Cousins",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-02:29"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What can we know about Brittany?",
+        "candidates": [
+            "(A) She has an Irresponsible husband",
+            "(B) She's Jason's girlfriend",
+            "(C) She's Tacara's sister",
+            "(D) She's close to her sister"
+        ],
+        "answer": "(C) She's Tacara's sister",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:36-02:52"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How many men are shown on the screen between Brittany and the male host?",
+        "candidates": [
+            "(A) 3",
+            "(B) 4",
+            "(C) 2",
+            "(D) 1"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:45-03:11"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "Who did not take a DNA test in the first segment?",
+        "candidates": [
+            "(A) Raymond",
+            "(B) Brittany",
+            "(C) Amaya",
+            "(D) Jason"
+        ],
+        "answer": "(B) Brittany",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-04:15"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What is Raymond doing after his name comes up for the first time?",
+        "candidates": [
+            "(A) He raises his hand to speak",
+            "(B) He adjusts his seat to pay closer attention",
+            "(C) He looks at the girl next to him",
+            "(D) He glances at his watch"
+        ],
+        "answer": "(C) He looks at the girl next to him",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:06-04:09"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "Who Raymond prefer to continue his relationship with?",
+        "candidates": [
+            "(A) Jason",
+            "(B) Amaya",
+            "(C) Brittany",
+            "(D) Tacara"
+        ],
+        "answer": "(C) Brittany",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:10-04:15"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What happens between 05:05-05:57?",
+        "candidates": [
+            "(A) Jason is told that he's the father",
+            "(B) Jason and Raymond are told that neither of them is the father of the child",
+            "(C) Raymond is told that he's the father",
+            "(D) Raymond is told that he's not the father"
+        ],
+        "answer": "(B) Jason and Raymond are told that neither of them is the father of the child",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "05:05-05:57"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How do we understand Keisha's angry expression?",
+        "candidates": [
+            "(A) She agitates to cover up her secret",
+            "(B) She feels humiliated",
+            "(C) Her husband is very irresponsible",
+            "(D) She is really misunderstood and is angry about it"
+        ],
+        "answer": "(A) She agitates to cover up her secret",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "06:30-09:00"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How many people could possibly be Travion's father?",
+        "candidates": [
+            "(A) 1",
+            "(B) 3",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:28-13:40"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What happens to Janice and Tom when they get to the stage?",
+        "candidates": [
+            "(A) They ignore each other",
+            "(B) They have a fierce quarrel",
+            "(C) They hug each other tightly",
+            "(D) They are concerned about each other"
+        ],
+        "answer": "(B) They have a fierce quarrel",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "25:12-29:02"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "Do Sean and Tara have a good relationship?",
+        "candidates": [
+            "(A) Their relationship is complicated",
+            "(B) Yes, they are very close",
+            "(C) They have a professional relationship",
+            "(D) No, they do not"
+        ],
+        "answer": "(C) They have a professional relationship",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "34:49-37:54"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How old is IEZESHA?",
+        "candidates": [
+            "(A) 18",
+            "(B) 20",
+            "(C) 17",
+            "(D) 16"
+        ],
+        "answer": "(A) 18",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "37:54-43:51"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What's the relationship between Brad and Lily?",
+        "candidates": [
+            "(A) Mother and son",
+            "(B) Sister and brother",
+            "(C) Couple",
+            "(D) Grandma and grandchind"
+        ],
+        "answer": "(A) Mother and son",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "43:52-46:10"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What does Yvette do in Mario and Sierra's relationship?",
+        "candidates": [
+            "(A) She persuades Mario to claim Sierra's child",
+            "(B) She prevents Mario from claiming Sierra's child",
+            "(C) She stops the fight between Mario and Sierra",
+            "(D) She and Sierra get along very well"
+        ],
+        "answer": "(B) She prevents Mario from claiming Sierra's child",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "48:43-54:52"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What is the audience's attitude towards Yvette and Mario?",
+        "candidates": [
+            "(A) Calm",
+            "(B) Welcome",
+            "(C) Angry",
+            "(D) Disgust"
+        ],
+        "answer": "(D) Disgust",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "48:43-54:52"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How many cases are there on the show where the biological fathers were not found?",
+        "candidates": [
+            "(A) 5",
+            "(B) 10",
+            "(C) 6",
+            "(D) 7"
+        ],
+        "answer": "(B) 10",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-54:52"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "How many children appeared in this show?",
+        "candidates": [
+            "(A) 8",
+            "(B) 7",
+            "(C) 10",
+            "(D) 9"
+        ],
+        "answer": "(C) 10",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-54:52"
+    },
+    {
+        "video": "00000099",
+        "type": "tv",
+        "question": "What happened after the program start and before the first break?",
+        "candidates": [
+            "(A) First, Tacara's sister Brittney was interviewed on the spot, and then Jayson and Raymond were interviewed on the spot in turn. And then a paper result was handed to the stage stating that neither Jayson nor Raymond was the father of the child. In the end, Tacara ran away from the scene",
+            "(B) First, Tacara's sister Brittney was interviewed on the spot, and then Jayson and Raymond were interviewed on the spot in turn. And then a paper result was handed to the stage stating that Jayson was the father of the child. In the end, Tacara ran away from the scene",
+            "(C) First, Tacara's sister Brittney was interviewed on the spot, and then Jayson and Raymond were interviewed via video in turn. Then Jayson and Raymond were invited to the stage. And then a paper result was handed to the stage stating that neither Jayson nor Raymond was the father of the child. In the end, Tacara ran away from the scene",
+            "(D) First, Tacara's sister Brittney was interviewed on the spot, and then Jayson and Raymond were interviewed via video in turn. Then Jayson and Raymond were invited to the stage. And then a paper result was handed to the stage stating that Jayson was the father of the child. In the end, Tacara ran away from the scene"
+        ],
+        "answer": "(C) First, Tacara's sister Brittney was interviewed on the spot, and then Jayson and Raymond were interviewed via video in turn. Then Jayson and Raymond were invited to the stage. And then a paper result was handed to the stage stating that neither Jayson nor Raymond was the father of the child. In the end, Tacara ran away from the scene",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-54:52"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) Sporting events",
+            "(B) TV show",
+            "(C) Documentary",
+            "(D) News report"
+        ],
+        "answer": "(B) TV show",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-73:08"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What is everyone's reaction after lighting the red box?",
+        "candidates": [
+            "(A) They are surprised",
+            "(B) They are calm",
+            "(C) They are very happy",
+            "(D) They are very excited"
+        ],
+        "answer": "(A) They are surprised",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "06:30-07:00"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What does the third contestant do after he shows up in front of the judges?",
+        "candidates": [
+            "(A) He licks the drill",
+            "(B) He licks the table",
+            "(C) He knocks on the table",
+            "(D) He licks the knife"
+        ],
+        "answer": "(A) He licks the drill",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:00-10:05"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What is the third dangerous thing the second contestant do with the drill?",
+        "candidates": [
+            "(A) He stabs his own mouth with an electric drill",
+            "(B) He stabs his nose with an electric drill",
+            "(C) He stabs his ears with an electric drill",
+            "(D) He stabs his own eyes with an electric drill"
+        ],
+        "answer": "(B) He stabs his nose with an electric drill",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "10:05-10:20"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What color bag does the medical care technician carry in the backstage during Andrew Stanton's performance?",
+        "candidates": [
+            "(A) Red",
+            "(B) Blue",
+            "(C) Black",
+            "(D) Orange"
+        ],
+        "answer": "(D) Orange",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "20:10-20:10"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What does the contestant, wearing only black leggings, with a skeleton painted on his top and a skull face painted on his face, perform?",
+        "candidates": [
+            "(A) He performs a dance",
+            "(B) He performs a rap",
+            "(C) He performs bone dislocation",
+            "(D) He performs singing"
+        ],
+        "answer": "(C) He performs bone dislocation",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "29:00-29:30"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What text is shown before the scene of a dark brown leather sofa turns around?",
+        "candidates": [
+            "(A) VANNA",
+            "(B) THE PHAANTOM",
+            "(C) THE APPLE",
+            "(D) THE SOFA"
+        ],
+        "answer": "(B) THE PHAANTOM",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "31:46-31:46"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What is written on the blackboard with chalk itself, but no one is around?",
+        "candidates": [
+            "(A) Apple",
+            "(B) Sofa",
+            "(C) Keys",
+            "(D) Note"
+        ],
+        "answer": "(C) Keys",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "35:35-35:35"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "Who does the dancer group wearing suits pay tribute to?",
+        "candidates": [
+            "(A) Joker and Harley",
+            "(B) James Bond",
+            "(C) Sherlock Holmes",
+            "(D) Don Draper"
+        ],
+        "answer": "(A) Joker and Harley",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "38:00-38:30"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What color neckties do clowns wear?",
+        "candidates": [
+            "(A) Green",
+            "(B) Purple",
+            "(C) Black",
+            "(D) Red"
+        ],
+        "answer": "(A) Green",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "38:00-38:30"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What does one of the group members do after the show for the performance that involves thundering storms in the background?",
+        "candidates": [
+            "(A) He waves",
+            "(B) He wipes his tears",
+            "(C) He lies down",
+            "(D) He kneels down"
+        ],
+        "answer": "(B) He wipes his tears",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "56:10-56:15"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What organ does the Baron of the Universe use to pull heavy objects?",
+        "candidates": [
+            "(A) Eye socket",
+            "(B) Nose",
+            "(C) Eyebrow",
+            "(D) Ear"
+        ],
+        "answer": "(B) Nose",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "62:00-62:10"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What is the talent show format of this show?",
+        "candidates": [
+            "(A) The contestants perform on the stage or in a distant place as long as the show is live, and they can advance if their performance impresses the judges and the audience",
+            "(B) The contestants perform on the stage or in a distant place as long as the show is live, and they can advance if their performance impresses the judges",
+            "(C) Contestants perform on stage and can advance if their performance impresses the judges",
+            "(D) Contestants perform on stage and can advance if their performance impresses the judges and the audience"
+        ],
+        "answer": "(C) Contestants perform on stage and can advance if their performance impresses the judges",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-73:08"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "Why the age for Baba Yega is 21-33?",
+        "candidates": [
+            "(A) Baba Yega fills the form wrong when asking for the age",
+            "(B) It is a display error",
+            "(C) Baba Yega is a group",
+            "(D) Baba Yega wants to keeps mystery"
+        ],
+        "answer": "(B) It is a display error",
+        "question_type": [
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "71:29-71:29"
+    },
+    {
+        "video": "00000100",
+        "type": "tv",
+        "question": "What was the performance of the second performer?",
+        "candidates": [
+            "(A) He pointed at the four judges at first, then took out a piece of paper with three BLAH written on it and burned it with a match. Then he walked up to the four judges, took Simon's hand and invited him to come on stage and sit on a chair. Then he directly put a black cloth over Simon's head, poured something on the black cloth, covered it with a wooden box, and set the wooden box on fire. Finally, it was discovered that Simon was fine",
+            "(B) He pointed at the four judges at first, then took out a piece of paper with three BLAH written on it and burned it with a match. Then he walked up to the four judges, took Simon's hand and invited him to stand the on stage. Then he directly put a black cloth over Simon's head, poured something on the black cloth, covered it with a wooden box, and set the wooden box on fire. Finally, it was discovered that Simon was fine",
+            "(C) He pointed at the Simon at first, then took out a piece of paper with three BLAH written on it and burned it with a match. Then he walked up to the four judges, took Simon's hand and invited him to come on stage and sit on a chair. Then he directly covered Simon's head with a wooden box, and set the wooden box on fire. Finally, it was discovered that Simon was fine",
+            "(D) He pointed at the four judges at first, then took out a piece of paper with three BLAH written on it and burned it with a match. Then he walked up to the four judges, took Simon's hand and invited him to come on stage and sit on a chair. Then he directly put a black cloth over Simon's head, poured something on the black cloth, covered it with a wooden box and then a large metal box, and set the box on fire. Finally, it was discovered that Simon was fine"
+        ],
+        "answer": "(A) He pointed at the four judges at first, then took out a piece of paper with three BLAH written on it and burned it with a match. Then he walked up to the four judges, took Simon's hand and invited him to come on stage and sit on a chair. Then he directly put a black cloth over Simon's head, poured something on the black cloth, covered it with a wooden box, and set the wooden box on fire. Finally, it was discovered that Simon was fine",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-73:08"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What words appear to the right of \"Jerry Springer\" when the background is a girl with pink curly hair?",
+        "candidates": [
+            "(A) You're Cheating With My Co-Worker",
+            "(B) I Stole Your Dog And Your Man",
+            "(C) Real Girlfriend Vs. Online Girlfriend",
+            "(D) Watch Your Mouth And Your Man"
+        ],
+        "answer": "(D) Watch Your Mouth And Your Man",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "00:08-00:08"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Which animal's picture does Sierra show to the audience?",
+        "candidates": [
+            "(A) The dog's pictures",
+            "(B) The cat's picture",
+            "(C) The pig's pictures",
+            "(D) The sheep's picture"
+        ],
+        "answer": "(A) The dog's pictures",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "01:25-01:30"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What is the first interview's name?",
+        "candidates": [
+            "(A) Mia",
+            "(B) Alexis",
+            "(C) Sierra",
+            "(D) Kindall"
+        ],
+        "answer": "(C) Sierra",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "00:29-01:36"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does Sierra do after her former roommate comes to the stage?",
+        "candidates": [
+            "(A) She takes off her cloths",
+            "(B) She takes off her scarf",
+            "(C) She takes off her hats",
+            "(D) She takes off her shoes"
+        ],
+        "answer": "(D) She takes off her shoes",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:08-02:11"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What happens after Kindall comes to the stage?",
+        "candidates": [
+            "(A) Sierra fights the host, and Kindall joins her",
+            "(B) They talk for a long time and eventually get back together",
+            "(C) Sierra quarrels and fights with her",
+            "(D) Sierra quarrels with her, but in the end they fights with Tony"
+        ],
+        "answer": "(C) Sierra quarrels and fights with her",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "02:15-04:32"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does Sierra do after the first male guest show up on the stage?",
+        "candidates": [
+            "(A) She hugs the man",
+            "(B) She talks  with the man",
+            "(C) She slaps the man",
+            "(D) She kisses the man"
+        ],
+        "answer": "(C) She slaps the man",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "05:28-05:59"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who cheats on Sierra with Kindall?",
+        "candidates": [
+            "(A) Tony",
+            "(B) Adrian",
+            "(C) Brian",
+            "(D) David"
+        ],
+        "answer": "(D) David",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "05:24-06:04"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What is the name of Sierra's former roommate?",
+        "candidates": [
+            "(A) Mia",
+            "(B) Kindall",
+            "(C) Alexis",
+            "(D) Roxana"
+        ],
+        "answer": "(B) Kindall",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:15-04:32"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who is in an online relationship with another woman's man?",
+        "candidates": [
+            "(A) A girl with a pink top with roses on it",
+            "(B) A man with a checkered shirt",
+            "(C) A girl with green dress and glasses",
+            "(D) A girl with pink hair"
+        ],
+        "answer": "(A) A girl with a pink top with roses on it",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "08:25-08:49"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does Dominique do after the man with red shirt and black and red pants comes to the stage?",
+        "candidates": [
+            "(A) Dominique slaps the man",
+            "(B) Dominique hugs the man",
+            "(C) Dominique quarrels with the man",
+            "(D) Dominique dances with the man"
+        ],
+        "answer": "(B) Dominique hugs the man",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "11:46-11:55"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What is the name of Dominique's crush?",
+        "candidates": [
+            "(A) Brian",
+            "(B) Adrian",
+            "(C) Tony",
+            "(D) David"
+        ],
+        "answer": "(A) Brian",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:25-12:35"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who is the last one appear during the second interview?",
+        "candidates": [
+            "(A) Alexis",
+            "(B) Mia",
+            "(C) Kindall",
+            "(D) Dominique"
+        ],
+        "answer": "(A) Alexis",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "13:50-13:50"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What color of cloths does Alexis wear?",
+        "candidates": [
+            "(A) Green",
+            "(B) Black",
+            "(C) Grey",
+            "(D) White"
+        ],
+        "answer": "(A) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:50-16:20"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does the green dress woman claim?",
+        "candidates": [
+            "(A) Mia says she's Brain's first love",
+            "(B) Alexis says she's Brain's first love",
+            "(C) Mia says she's Tony's first love",
+            "(D) Alexis says she's David's first love"
+        ],
+        "answer": "(B) Alexis says she's Brain's first love",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "14:25-14:25"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What happens to the green dress woman after Brian dumps his girlfriend?",
+        "candidates": [
+            "(A) She laughs",
+            "(B) She cries",
+            "(C) She applauds",
+            "(D) She screams"
+        ],
+        "answer": "(B) She cries",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "17:32-17:57"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does the man wearing blue T-shirt and jeans do?",
+        "candidates": [
+            "(A) He dumps his girlfriend for the online crush",
+            "(B) He sleeps with his girlfriend's co-worker",
+            "(C) He sleeps with his girlfriend's roommate",
+            "(D) He dumps his girlfriend for a stripper"
+        ],
+        "answer": "(B) He sleeps with his girlfriend's co-worker",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:09-24:25"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What happens during the third interview?",
+        "candidates": [
+            "(A) Serinah fights with another woman",
+            "(B) Sierra fights with her former roommate",
+            "(C) Mia fights with Aoxana",
+            "(D) Dominique fights with Alexis"
+        ],
+        "answer": "(A) Serinah fights with another woman",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "24:41-25:26"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What is the theme of the forth interview?",
+        "candidates": [
+            "(A) I Stole Your Dog And Your Man",
+            "(B) Barbershop Smackdown",
+            "(C) Watch Your Mouth And Your Man",
+            "(D) Real Girlfriend Vs. Online Girlfriend"
+        ],
+        "answer": "(B) Barbershop Smackdown",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "26:59-26:59"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What is the name of the stripper?",
+        "candidates": [
+            "(A) Alexis",
+            "(B) Roxana",
+            "(C) Kindall",
+            "(D) Mia"
+        ],
+        "answer": "(D) Mia",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "27:04-29:49"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who is Austin's girlfriend?",
+        "candidates": [
+            "(A) A girl wearing a black sweetheart top and red shorts",
+            "(B) A girl wearing a red dress",
+            "(C) A girl wearing a pink top with roses on it",
+            "(D) A girl wearing a mint floral dress"
+        ],
+        "answer": "(D) A girl wearing a mint floral dress",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "28:34-31:40"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who does Austin choose?",
+        "candidates": [
+            "(A) Roxana",
+            "(B) Mia",
+            "(C) No one",
+            "(D) Both of them"
+        ],
+        "answer": "(B) Mia",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:15-33:45"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "Who is the man in the blue shirt with white button?",
+        "candidates": [
+            "(A) Adrian",
+            "(B) Brian",
+            "(C) David",
+            "(D) Tony"
+        ],
+        "answer": "(D) Tony",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "37:56-38:08"
+    },
+    {
+        "video": "00000101",
+        "type": "tv",
+        "question": "What does the woman wearing a red shirt with #1 fan on it do?",
+        "candidates": [
+            "(A) She hooks up Larissa's boyfriend",
+            "(B) She sleeps with Alexis's boyfriend",
+            "(C) She hooks up Mia's boyfriend",
+            "(D) She sleeps with Kindall's boyfriend"
+        ],
+        "answer": "(A) She hooks up Larissa's boyfriend",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "36:20-36:56"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Who is the producer of the video?",
+        "candidates": [
+            "(A) The Channels Television",
+            "(B) BBC News",
+            "(C) Voice of America",
+            "(D) The Times"
+        ],
+        "answer": "(A) The Channels Television",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "00:01-00:38"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "What happens from 01:05-02:45?",
+        "candidates": [
+            "(A) Detailed news report",
+            "(B) Conversation with an expoert",
+            "(C) Analysis of an incident",
+            "(D) Daily news briefing"
+        ],
+        "answer": "(D) Daily news briefing",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "01:05-02:45"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Where does the fire disaster happen?",
+        "candidates": [
+            "(A) Dosumu",
+            "(B) Lagos Nigeria",
+            "(C) Emohua",
+            "(D) Abuja"
+        ],
+        "answer": "(A) Dosumu",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:56-06:28"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Who declares him as the State's political leader in the news related to River Politics?",
+        "candidates": [
+            "(A) Sam Onos",
+            "(B) Abiola Oladapo",
+            "(C) Peter Odili",
+            "(D) Jimh Ibrahim"
+        ],
+        "answer": "(D) Jimh Ibrahim",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "06:34-12:32"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "In which topic does a man wearing a beige cowboy hat, standing in front of a green podium appear while talking to a red microphone?",
+        "candidates": [
+            "(A) River Politics",
+            "(B) Electricity Tarrif Hike",
+            "(C) Lagos Market Fire Aftermath",
+            "(D) Drug Trafficking"
+        ],
+        "answer": "(A) River Politics",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "06:34-12:32"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "In which topic does a woman wearing a blue hat with the letter Aseyori Lekan Si appear?",
+        "candidates": [
+            "(A) Another Twist in Rivers Politics",
+            "(B) APC Primary Election",
+            "(C) Emohua Residents Restate Support For Wike",
+            "(D) Drug Trafficking"
+        ],
+        "answer": "(C) Emohua Residents Restate Support For Wike",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "09:50-13:04"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Who is the man wearing a black hat with \"2024\" on it during the APC Primary Election?",
+        "candidates": [
+            "(A) Abiola Oladapo",
+            "(B) Sanwo-Olu",
+            "(C) Jimh Ibrahim",
+            "(D) Peter Odili"
+        ],
+        "answer": "(A) Abiola Oladapo",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "14:38-14:38"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "What is displayed on the screen in the new alive room right before an advertisement featuring Cardi B?",
+        "candidates": [
+            "(A) I AM SORRY, VIETNAMESES",
+            "(B) I AM SORRY, MALAYSIANS",
+            "(C) I AM SORRY, NIGERIANS",
+            "(D) I AM SORRY, INDONESIANS"
+        ],
+        "answer": "(C) I AM SORRY, NIGERIANS",
+        "question_type": [
+            "entity recognition",
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "15:38-15:38"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "What happens from 15:47-19:10?",
+        "candidates": [
+            "(A) The conversation between people",
+            "(B) The weather forecast",
+            "(C) The advertisement inside the video",
+            "(D) The connecting with experts"
+        ],
+        "answer": "(C) The advertisement inside the video",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "15:47-19:10"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "How many parcels of Cannabis do men arrest with in Kogi State?",
+        "candidates": [
+            "(A) 520",
+            "(B) 600",
+            "(C) 500",
+            "(D) 620"
+        ],
+        "answer": "(D) 620",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:42-20:42"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Which topic shows an old, black Volkswagen car?",
+        "candidates": [
+            "(A) APC Primary Election",
+            "(B) APC Primary Election",
+            "(C) Another Twist in River Politics",
+            "(D) Drug trafficking in Kogi State"
+        ],
+        "answer": "(D) Drug trafficking in Kogi State",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "20:43-21:05"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Who apologises to Nigerians?",
+        "candidates": [
+            "(A) Former Governor of the Riverse State",
+            "(B) The mlitary leader of Riverse State",
+            "(C) Minster of Power",
+            "(D) The State's Political Leader"
+        ],
+        "answer": "(C) Minster of Power",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "21:17-21:17"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Which topic is right before the discussion of oil production?",
+        "candidates": [
+            "(A) Ogbonnaya Onu dies at 72",
+            "(B) APC Primary Election",
+            "(C) Plateau IDPS",
+            "(D) Lagos Market Fire Aftermath"
+        ],
+        "answer": "(A) Ogbonnaya Onu dies at 72",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "31:22-32:31"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "What topic has a scene that includes three Toyota SUV police cars?",
+        "candidates": [
+            "(A) More buildings go down Lagos Island",
+            "(B) Plateau IDPS",
+            "(C) Lagos Market Fire Aftermath",
+            "(D) Ogbonnaya Onu dies at 72"
+        ],
+        "answer": "(B) Plateau IDPS",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "35:15-35:31"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "What color suit is the female anchor who also has a chest bracelet and gold bracelet?",
+        "candidates": [
+            "(A) Grey",
+            "(B) Pink",
+            "(C) Purple",
+            "(D) Black"
+        ],
+        "answer": "(C) Purple",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "34:38-34:55"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "Who talks in front of a white building with green plants outside it, wearing an exotic hat?",
+        "candidates": [
+            "(A) Abiola Oladapo",
+            "(B) Mele Kyari",
+            "(C) Jimh Ibrahim",
+            "(D) Peter Odili"
+        ],
+        "answer": "(B) Mele Kyari",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "46:58-46:58"
+    },
+    {
+        "video": "00000102",
+        "type": "tv",
+        "question": "How was news of the 'Dosumu fire disaster' be reported in the video?",
+        "candidates": [
+            "(A) First, the news was introduced by the host in the studio with a video of the news in the background and then the video was enlarged with tittle at the bottom. Then the scene played the video of the news with people interviewed in the studio",
+            "(B) First, the news was introduced by the host in the studio with a picture of the news in the background and then the picture was enlarged with tittle at the bottom. Then the scene played the video of the news with people interviewed in the studio",
+            "(C) First, the news was introduced by the host in the studio with a picture of the news in the background and then the picture was enlarged with tittle at the bottom. Then the scene played the video of the news with people interviewed in the video",
+            "(D) First, the news was introduced by the host in the studio with a video of the news in the background and then the video was enlarged with tittle at the bottom. Then the scene played the video of the news with people interviewed in the video"
+        ],
+        "answer": "(C) First, the news was introduced by the host in the studio with a picture of the news in the background and then the picture was enlarged with tittle at the bottom. Then the scene played the video of the news with people interviewed in the video",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-60:01"
+    }
+]

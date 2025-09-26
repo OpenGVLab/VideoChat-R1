@@ -1,0 +1,3913 @@
+[
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "Which player is responsible for the first throw-in?",
+        "candidates": [
+            "(A) Player 7",
+            "(B) Player 4",
+            "(C) Player 5",
+            "(D) Player 8"
+        ],
+        "answer": "(B) Player 4",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "01:47-01:47"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "How is the situation in the first half of the match?",
+        "candidates": [
+            "(A) In the first half, both Arsenal and Liverpool had opportunities to score but failed to capitalize. Arsenal created several chances, including one shot that narrowly missed the goal frame, but were unable to convert. Liverpool, on the other hand, managed to score twice. Despite Arsenal's efforts to find the back of the net, Liverpool's goalkeeper made some impressive saves to maintain their lead. At halftime, the score stood at 2-0 in favor of Liverpool",
+            "(B) In the first half, both Arsenal and Liverpool had opportunities to score but failed to capitalize. Arsenal created several chances, including one shot that narrowly missed the goal frame, but were unable to convert. Liverpool also had a few opportunities, but Arsenal's goalkeeper made some impressive saves to keep them out. Despite both teams' efforts to score, the first half ended with the score still 0-0",
+            "(C) In the first half, both Arsenal and Liverpool had opportunities to score and both managed to find the back of the net once. Arsenal created several chances, including one shot that narrowly missed the goal frame, but they eventually scored. Similarly, Liverpool also capitalized on their chances and scored one goal. Despite both teams' efforts to add to their tally, the score remained 1-1 at halftime",
+            "(D) In the first half, both Arsenal and Liverpool had opportunities to score but failed to capitalize. Arsenal created several chances, including one shot Liverpool also had a few opportunities, but Arsenal's goalkeeper made some impressive saves to keep them out. The first half ended with the score still 1-0"
+        ],
+        "answer": "(B) In the first half, both Arsenal and Liverpool had opportunities to score but failed to capitalize. Arsenal created several chances, including one shot that narrowly missed the goal frame, but were unable to convert. Liverpool also had a few opportunities, but Arsenal's goalkeeper made some impressive saves to keep them out. Despite both teams' efforts to score, the first half ended with the score still 0-0",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "01:19-48:53"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "What happens in the second half of the game?",
+        "candidates": [
+            "(A) After switching sides, Liverpool capitalized on a defensive lapse by Arsenal. A midfielder intercepted the ball and played a through pass into the penalty area, where a forward calmly slotted the ball into the net, putting the Reds ahead. Trailing behind, Arsenal intensified their offensive efforts and successfully equalized. As the match entered its closing stages, Liverpool scored again. After a combination play on the right flank, a player found himself one-on-one with the goalkeeper. From a tight angle, his shot struck the inside of the far post and nestled into the back of the net, sealing the score at 2-1.",
+            "(B) Shortly after the game resumed, Liverpool's midfield launched a swift attack. After a series of exquisite passes, the team's top striker headed the ball into the net inside the penalty area, establishing a valuable 1-0 lead for the team. As the game progressed, Arsenal intensified their offensive efforts, but Liverpool's defensive line remained solid. Towards the end of the match, Liverpool capitalized on another opportunity. A cross from the flank found another forward, who poked the ball into the goal from close range inside the six-yard box, securing a 2-0 victory.",
+            "(C) In the second half, Liverpool displayed a more aggressive attacking stance, particularly showcasing greater organization and creativity in midfield. As the game progressed towards its final stages, Liverpool's offensive pressure gradually intensified, resulting in threats near the penalty area. One particular instance saw a free kick from Liverpool leading to an own goal by an Arsenal player in the penalty area. This goal laid the foundation for Liverpool's victory. Later in the game's dying moments, Liverpool once again scored another goal, resulting in a 2-0 victory.",
+            "(D) In the second half, Arsenal displayed a more proactive and aggressive attacking approach, particularly in the midfield, where they demonstrated stronger organization and creativity, leading to the opening goal. However, as the match neared its final stages, Liverpool's attacking pressure steadily increased, resulting in threats around the penalty area. In one such instance, a Liverpool free kick led to an own goal by an Arsenal player inside the box, ultimately ending the game in a 1-1 draw."
+        ],
+        "answer": "(C) In the second half, Liverpool displayed a more aggressive attacking stance, particularly showcasing greater organization and creativity in midfield. As the game progressed towards its final stages, Liverpool's offensive pressure gradually intensified, resulting in threats near the penalty area. One particular instance saw a free kick from Liverpool leading to an own goal by an Arsenal player in the penalty area. This goal laid the foundation for Liverpool's victory. Later in the game's dying moments, Liverpool once again scored another goal, resulting in a 2-0 victory.",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "49:23-99:46"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "Which team scores the first goal of the match?",
+        "candidates": [
+            "(A) It is an goal scored by an Livepool's player",
+            "(B) It is an own goal scored by an Livepool's player",
+            "(C) It is an own goal scored by an Arsenal player",
+            "(D) It is an goal scored by an Barcelona's player"
+        ],
+        "answer": "(C) It is an own goal scored by an Arsenal player",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "84:06-85:08"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "How long does the entire match last?",
+        "candidates": [
+            "(A) 90:10",
+            "(B) 94:34",
+            "(C) 95:28",
+            "(D) 97:30"
+        ],
+        "answer": "(C) 95:28",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "99:53-99:53"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "Who does the player pass the ball to when the top left corners indicates it is 18:30 into the game?",
+        "candidates": [
+            "(A) The player passes the ball to the opposing goalkeeper",
+            "(B) The player passes the ball to their own goalkeeper",
+            "(C) The player passes the ball to the referee",
+            "(D) The player passes the ball to the defender"
+        ],
+        "answer": "(B) The player passes the ball to their own goalkeeper",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "19:48-19:50"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "What part of the body is used to score the second goal?",
+        "candidates": [
+            "(A) The chest",
+            "(B) The back",
+            "(C) The head",
+            "(D) Right foot"
+        ],
+        "answer": "(D) Right foot",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "98:30-98:30"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "Which team is controlling the ball at 27:18 in the video?",
+        "candidates": [
+            "(A) Manchester City",
+            "(B) Real Madrid",
+            "(C) Arsenal",
+            "(D) Liverpool"
+        ],
+        "answer": "(C) Arsenal",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "27:18-27:18"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "How does the goalkeeper prevent Liverpool's shot from scoring at 81:38 in the video?",
+        "candidates": [
+            "(A) He uses his right hand to deflect the ball out of bounds",
+            "(B) He kicks the ball away",
+            "(C) He blocks the ball with his head",
+            "(D) He catches the ball and throws it"
+        ],
+        "answer": "(A) He uses his right hand to deflect the ball out of bounds",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "81:38-81:38"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "What color is the football in the video?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) Green",
+            "(C) Blue",
+            "(D) White"
+        ],
+        "answer": "(A) Yellow",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:19-99:48"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "After the opposing team scored an own goal, how does the Liverpool players celebrate?",
+        "candidates": [
+            "(A) They high-five the referee",
+            "(B) They hug each other",
+            "(C) They wave to the crowd",
+            "(D) They do a victory dance"
+        ],
+        "answer": "(B) They hug each other",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "85:24-85:24"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "Why did Player number 4 in white push down Player number 17 in purple during the match?",
+        "candidates": [
+            "(A) Player number 4 in white was attempting to maneuver past Player number 17 in purple during an offensive play.",
+            "(B) Player number 4 in white was retaliating for an earlier foul by Player number 17 in purple.",
+            "(C) Player number 4 in white was making a defensive play to prevent Player number 17 in purple from successfully dribbling past him.",
+            "(D) It was an accidental collision as both players were competing for the ball."
+        ],
+        "answer": "(C) Player number 4 in white was making a defensive play to prevent Player number 17 in purple from successfully dribbling past him.",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "34:04-34:24"
+    },
+    {
+        "video": "00000032",
+        "type": "sport",
+        "question": "How many substitutions does Liverpool make?",
+        "candidates": [
+            "(A) Liverpool makes ten substitutions during the match",
+            "(B) Liverpool makes two substitutions during the match",
+            "(C) Liverpool makes four substitutions during the match",
+            "(D) Liverpool makes three substitutions during the match"
+        ],
+        "answer": "(B) Liverpool makes two substitutions during the match",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:19-99:30"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the category of this video?",
+        "candidates": [
+            "(A) Sports",
+            "(B) Cartoon",
+            "(C) Movie",
+            "(D) Vlog"
+        ],
+        "answer": "(A) Sports",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-100:28"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the score of Liverpool in the FA Cup at Anfield?",
+        "candidates": [
+            "(A) 6:1",
+            "(B) 4:1",
+            "(C) 3:1",
+            "(D) 5:1"
+        ],
+        "answer": "(A) 6:1",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:12-00:22"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "At 06:06, considering the player's facial expressions, whose belief and confidence is a little bit down?",
+        "candidates": [
+            "(A) Thiago",
+            "(B) Gomez",
+            "(C) Alisson",
+            "(D) Salah"
+        ],
+        "answer": "(D) Salah",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "06:06-06:13"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who is hit by Thiago and therefore, Thiago gets a warn?",
+        "candidates": [
+            "(A) Gross",
+            "(B) Dunk",
+            "(C) Steele",
+            "(D) Webster"
+        ],
+        "answer": "(A) Gross",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "10:03-10:24"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Where does Keita hurt?",
+        "candidates": [
+            "(A) His head",
+            "(B) His knee",
+            "(C) His leg",
+            "(D) His muscle"
+        ],
+        "answer": "(A) His head",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:09-18:37"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who nearly gets the score at 21:09?",
+        "candidates": [
+            "(A) Dunk",
+            "(B) March",
+            "(C) Ferguson",
+            "(D) Mitoma"
+        ],
+        "answer": "(D) Mitoma",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "21:09-21:39"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who scores the first goal?",
+        "candidates": [
+            "(A) Salah",
+            "(B) Gomez",
+            "(C) Elliott",
+            "(D) Thiago"
+        ],
+        "answer": "(C) Elliott",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "30:04-31:20"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who has the most attempts in Brighton?",
+        "candidates": [
+            "(A) March",
+            "(B) Ferguson",
+            "(C) Mitoma",
+            "(D) Dunk"
+        ],
+        "answer": "(C) Mitoma",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-64:28"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who gets the second score?",
+        "candidates": [
+            "(A) Lamptey",
+            "(B) Dunk",
+            "(C) Mitoma",
+            "(D) Ferguson"
+        ],
+        "answer": "(A) Lamptey",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "39:06-40:14"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Why does Elliott fall at 42:37?",
+        "candidates": [
+            "(A) His leg hurts",
+            "(B) His bowl hurts",
+            "(C) His head hurts",
+            "(D) His knee hurts"
+        ],
+        "answer": "(C) His head hurts",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "42:37-43:20"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the stoppage time for the first half?",
+        "candidates": [
+            "(A) 1 minute",
+            "(B) 0 minute",
+            "(C) 2 minute",
+            "(D) 3 minute"
+        ],
+        "answer": "(B) 0 minute",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "47:10-47:15"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the score for the first half of the game?",
+        "candidates": [
+            "(A) 3:1",
+            "(B) 2:1",
+            "(C) 1:1",
+            "(D) 1:2"
+        ],
+        "answer": "(C) 1:1",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-47:39"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who wants to cheat the referee at 51:24?",
+        "candidates": [
+            "(A) Ferguson",
+            "(B) Allister",
+            "(C) Dunk",
+            "(D) Mitoma"
+        ],
+        "answer": "(B) Allister",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "51:24-51:52"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What does the commentator say during 58:39-58:48",
+        "candidates": [
+            "(A) Liverpool does a good job in the second part of the game before",
+            "(B) Liverpool performs badly in the second part of the game before",
+            "(C) Liverpool attacks many times in the second part of the game before",
+            "(D) Liverpool doesn't attack in the second part of the game before"
+        ],
+        "answer": "(D) Liverpool doesn't attack in the second part of the game before",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "58:39-58:48"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who substitutes Arnold?",
+        "candidates": [
+            "(A) Henderson",
+            "(B) Jones",
+            "(C) N\u00fa\u00f1ez",
+            "(D) Milner"
+        ],
+        "answer": "(C) N\u00fa\u00f1ez",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "60:49-61:54"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who falls in the restricted area at 65:42?",
+        "candidates": [
+            "(A) Salah",
+            "(B) Keita",
+            "(C) Thiago",
+            "(D) Konat\u00e9"
+        ],
+        "answer": "(D) Konat\u00e9",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "65:42-66:09"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Who gets the ball and saves Brighton at 78:07?",
+        "candidates": [
+            "(A) Robertson",
+            "(B) Salah",
+            "(C) Allison",
+            "(D) Nunez"
+        ],
+        "answer": "(A) Robertson",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "78:07-78:20"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the best perform of Jones till now?",
+        "candidates": [
+            "(A) Win the game",
+            "(B) Fight for Liverpool",
+            "(C) Fight for Brighton",
+            "(D) Get a score"
+        ],
+        "answer": "(B) Fight for Liverpool",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "81:13-81:20"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "Given all the performance, we can predict that ____ is the best player?",
+        "candidates": [
+            "(A) Mitoma",
+            "(B) Ferguson",
+            "(C) Salah",
+            "(D) Thiago"
+        ],
+        "answer": "(A) Mitoma",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "94:59-95:25"
+    },
+    {
+        "video": "00000033",
+        "type": "sport",
+        "question": "What is the final score of the game?",
+        "candidates": [
+            "(A) 2:1",
+            "(B) 1:3",
+            "(C) 2:2",
+            "(D) 2:3"
+        ],
+        "answer": "(A) 2:1",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-100:28"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who comes to the sports field?",
+        "candidates": [
+            "(A) Margaret Smith Court",
+            "(B) Stefanos Tsitsipas",
+            "(C) Goran Ivanisevic",
+            "(D) Novak Djokovic"
+        ],
+        "answer": "(B) Stefanos Tsitsipas",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:03-00:44"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Where might the conversation take place?",
+        "candidates": [
+            "(A) Park",
+            "(B) Conference",
+            "(C) Playground",
+            "(D) Tennis court"
+        ],
+        "answer": "(D) Tennis court",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-47:25"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "How many titles did Tsitsipas got?",
+        "candidates": [
+            "(A) 98",
+            "(B) 12",
+            "(C) 3",
+            "(D) 10"
+        ],
+        "answer": "(D) 10",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "07:37-08:20"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "What can we know about Djokovbic and Tsitsipas?",
+        "candidates": [
+            "(A) They were champion players in different competitions",
+            "(B) They have no ATP ranking",
+            "(C) They had a peak match together",
+            "(D) Their match was an exhibition match with no winner or loser"
+        ],
+        "answer": "(A) They were champion players in different competitions",
+        "question_type": [
+            "reasoning",
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "00:00-47:25"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "How long did it take to transition from the warmup to the start of the match?",
+        "candidates": [
+            "(A) 2 min",
+            "(B) 3 min",
+            "(C) 10 min",
+            "(D) 4 min"
+        ],
+        "answer": "(D) 4 min",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "06:44-10:55"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who served first in this game?",
+        "candidates": [
+            "(A) Novak Djokovic",
+            "(B) The referee",
+            "(C) Stefanos Tsitsipas",
+            "(D) Nobody"
+        ],
+        "answer": "(C) Stefanos Tsitsipas",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "10:58-11:16"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who scored the first score?",
+        "candidates": [
+            "(A) No one scored",
+            "(B) Novak Djokovic",
+            "(C) Stefanos Tsitsipas",
+            "(D) It was a draw, no one scored"
+        ],
+        "answer": "(B) Novak Djokovic",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "10:58-11:16"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Why was the start of this game considered awful?",
+        "candidates": [
+            "(A) Because Djokovic was distracted when he plays",
+            "(B) Because Tsitsipas lost the first point due to a service error",
+            "(C) Because the level of the two athletes were very poor",
+            "(D) Because their skills were too high to be enjoyable to watch"
+        ],
+        "answer": "(B) Because Tsitsipas lost the first point due to a service error",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "10:58-11:16"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who won the first round?",
+        "candidates": [
+            "(A) Novak Djokovic",
+            "(B) Nobody",
+            "(C) Not mentioned in the video",
+            "(D) Stefanos Tsitsipas"
+        ],
+        "answer": "(A) Novak Djokovic",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:18-13:05"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who is the first person being interviewed who is not a tennis athlete?",
+        "candidates": [
+            "(A) Peter Bol",
+            "(B) Stefanos Tsitsipas",
+            "(C) Steve Smith",
+            "(D) Novak Djokovic"
+        ],
+        "answer": "(C) Steve Smith",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "33:28-34:51"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "Who is the second person being interviewed who is not a tennis athlete?",
+        "candidates": [
+            "(A) Novak Djokovic",
+            "(B) Steve Smith",
+            "(C) Stefanos Tsitsipas",
+            "(D) Peter Bol"
+        ],
+        "answer": "(D) Peter Bol",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "35:07-35:43"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "When does one of the break time end?",
+        "candidates": [
+            "(A) 07:34",
+            "(B) 36:25",
+            "(C) 10:58",
+            "(D) 06:44"
+        ],
+        "answer": "(B) 36:25",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "33:44-36:30"
+    },
+    {
+        "video": "00000034",
+        "type": "sport",
+        "question": "What was the final score of the game?",
+        "candidates": [
+            "(A) 6:3",
+            "(B) 4:2",
+            "(C) 5:3",
+            "(D) 2:1"
+        ],
+        "answer": "(A) 6:3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-47:25"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What happens at the beginning of the video?",
+        "candidates": [
+            "(A) The players are warming up now",
+            "(B) Serena to serve",
+            "(C) A player is practicing racquet",
+            "(D) The players are waiting"
+        ],
+        "answer": "(C) A player is practicing racquet",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-00:24"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What is the process and result of the first official ball of the first game?",
+        "candidates": [
+            "(A) Serena blocks Venus's big serve, and a wide backhand makes it 0-15",
+            "(B) Serena pushes Venus around the court for the opening point, and a wide backspin makes it 0-15",
+            "(C) Venus pushes Serena around the court for the opening point, and a wide backhand makes it 0-15",
+            "(D) Serena pushes Venus around the court for the opening point, and a wide backhand makes it 0-15"
+        ],
+        "answer": "(D) Serena pushes Venus around the court for the opening point, and a wide backhand makes it 0-15",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:33-00:49"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "Why is the score 0-30 after the second ball?",
+        "candidates": [
+            "(A) Serena's nother backhand error takes it to 0-30",
+            "(B) Serena's chip and charge",
+            "(C) Venus's nother backhand error takes it to 0-30",
+            "(D) Venus's chip and charge"
+        ],
+        "answer": "(C) Venus's nother backhand error takes it to 0-30",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:03-01:11"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What is the highlight of the first inning in the video?",
+        "candidates": [
+            "(A) With a powerful serve, Serena scores, but Venus responds strongly with skillful shots, securing a break point and ultimately taking a 1-0 lead in the match",
+            "(B) With a powerful serve, Serena scores, securing a break point and ultimately taking a 1-0 lead in the match",
+            "(C) With a powerful serve, Venus scores, but Serena responds strongly with skillful shots, securing a break point and ultimately taking a 1-0 lead in the match",
+            "(D) With a powerful serve, Serena scores, but Venus responds strongly with skillful shots"
+        ],
+        "answer": "(C) With a powerful serve, Venus scores, but Serena responds strongly with skillful shots, securing a break point and ultimately taking a 1-0 lead in the match",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "01:11-02:37"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "How does the point tie occur when the game score is 0-1 and the point score is 30-30?",
+        "candidates": [
+            "(A) After Venus hits back with a powerful crosscourt forehand winner for 30-30",
+            "(B) After Serena hits back with a powerful crosscourt forehand winner for 30-30",
+            "(C) After Venus slips over at one point, she recovers to win the point",
+            "(D) After Serena misses a forehand"
+        ],
+        "answer": "(D) After Serena misses a forehand",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:12-05:12"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What happens after Serena's first stumble?",
+        "candidates": [
+            "(A) Her tennis racket breaks",
+            "(B) She fells to the ground",
+            "(C) She is helps up by her coach",
+            "(D) She continues playing without stopping"
+        ],
+        "answer": "(A) Her tennis racket breaks",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "11:17-12:30"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What is Venus's expression when waiting for Serena to serve, when the game score is 1-2, point score is 30-40?",
+        "candidates": [
+            "(A) Venus looks very relaxed here",
+            "(B) Venus looks very pumped up and nervous here",
+            "(C) Venus looks very tired and has no more energy here",
+            "(D) Venus looks like being in a state of confusion"
+        ],
+        "answer": "(B) Venus looks very pumped up and nervous here",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "17:33-17:38"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What does the man in the green hat and coat do when the background shows 126km/h?",
+        "candidates": [
+            "(A) Cleaning the court",
+            "(B) Delivering tennis balls to the players",
+            "(C) Checking the net in the middle",
+            "(D) Helping pick up balls"
+        ],
+        "answer": "(D) Helping pick up balls",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:42-19:42"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "___ is best fitted commentary for the main events that take place between 19:30-20:08.",
+        "candidates": [
+            "(A) Venus unloads on a forehand return to force an error from Serena, and then drills a backhand right to the line for 30-30. But a netted return makes it 40-30 to Serena",
+            "(B) That is a poor second serve from Serena, and Venus forces another error and another break point. AND A THIRD DOUBLE! That's a fourth straight break of serve, and it's 2-2",
+            "(C) This ball is staying hit out there - the combined power of Venus and Serena is quite awesome. Serena forces an error from her opponent for 15-0, then follows it with an ace for 30-0",
+            "(D) Serena double faults for deuce, and now another double to give Venus a break point again! Now an ace to save her serve"
+        ],
+        "answer": "(B) That is a poor second serve from Serena, and Venus forces another error and another break point. AND A THIRD DOUBLE! That's a fourth straight break of serve, and it's 2-2",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "19:48-20:18"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "After IBM is 155 and the tennis ball is out of bounds, what do the two people in green shirts at the top of the screen do?",
+        "candidates": [
+            "(A) They both raise the same arm",
+            "(B) They run to pick up the ball",
+            "(C) They do not move",
+            "(D) Each of them raises one arm"
+        ],
+        "answer": "(D) Each of them raises one arm",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:49-20:51"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What is Venus's mood at IBM 163 when she hit the ball out of bounds to make it 30-40?",
+        "candidates": [
+            "(A) Venus feels under pressure, but she gets the return back",
+            "(B) Venus feels bad that she made a bad error to give her sister game point",
+            "(C) Venus maintains her composure, quickly refocusing for the next point with a determined expression",
+            "(D) Venus shows frustration as she clenches her fist and shakes her head in disappointment"
+        ],
+        "answer": "(B) Venus feels bad that she made a bad error to give her sister game point",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "31:57-31:59"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "After the game score is 3-5 and the point score is 30-30, what speed does the ball's display on the screen indicate for Venus's shot?",
+        "candidates": [
+            "(A) 138 km/h",
+            "(B) 140 km/h",
+            "(C) 130 km/h",
+            "(D) 183 km/h"
+        ],
+        "answer": "(D) 183 km/h",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "34:38-34:39"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "When does the game start?",
+        "candidates": [
+            "(A) Noon",
+            "(B) Night",
+            "(C) Dusk",
+            "(D) It's cloudy so we can't tell"
+        ],
+        "answer": "(C) Dusk",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:19-35:19"
+    },
+    {
+        "video": "00000035",
+        "type": "sport",
+        "question": "What happens between the scores of 4-5 and 4-6 in the game?",
+        "candidates": [
+            "(A) Another strong serve, and Serena hits it long. Venus holds",
+            "(B) A better serve puts Venus under pressure, but she gets the return back and Serena flays one well wide for 0-30. An error from Venus brings it back to 15-30, and then an ace out wide levels it at 30-30",
+            "(C) Serena pushes Venus into the corner and drills the winner into the open court. But Venus gets a cross-court backhand winner, and then forces Serena to block a return of serve into the net",
+            "(D) Two unforced errors from Venus to start the 10th game. Serena closes in on the set. And another ace brings three set points. And Serena hits an ace"
+        ],
+        "answer": "(D) Two unforced errors from Venus to start the 10th game. Serena closes in on the set. And another ace brings three set points. And Serena hits an ace",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "32:56-35:16"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "Who is the person in the video wearing red clothes and then taking them off to reveal the blue clothes underneath?",
+        "candidates": [
+            "(A) Fan Zhendong",
+            "(B) Wang hao",
+            "(C) Ma Long",
+            "(D) Zhang Jike"
+        ],
+        "answer": "(A) Fan Zhendong",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:00-03:00"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "How was the point won at 15:04 and had a slow motion replay from 15:10-15:14?",
+        "candidates": [
+            "(A) A chop shot",
+            "(B) A backhand topspin",
+            "(C) A forehand smash",
+            "(D) A lob shot"
+        ],
+        "answer": "(B) A backhand topspin",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "15:04-15:04"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "From 28:50-28:57 in the video, what happens to the ball after Ma Long's final forehand stroke?",
+        "candidates": [
+            "(A) It lands out of bounds",
+            "(B) It hits the table edge",
+            "(C) It is hit back by the opponent",
+            "(D) It goes into the net"
+        ],
+        "answer": "(D) It goes into the net",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "28:44-28:44"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "Is the staff wiping the table tennis table with their left hand or right hand?",
+        "candidates": [
+            "(A) No staff wiping the table",
+            "(B) Left hand",
+            "(C) Right hand",
+            "(D) Both used"
+        ],
+        "answer": "(C) Right hand",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "38:45-39:00"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "How many points does Fan Zhendong score in the fourth game?",
+        "candidates": [
+            "(A) 7",
+            "(B) 2",
+            "(C) 9",
+            "(D) 4"
+        ],
+        "answer": "(C) 9",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "41:50-50:50"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "In what order do the three athletes, from front to back, walk to the podium?",
+        "candidates": [
+            "(A) Fan Zhendong, Ma Long, Dimitrij Ovtcharov",
+            "(B) Ma Long, Dimitrij Ovtcharov, Fan Zhendong",
+            "(C) Ma Long, Dimitrij Ovtcharov, Wang Hao",
+            "(D) Dimitrij Ovtcharov, Fan Zhendong, Ma Long"
+        ],
+        "answer": "(A) Fan Zhendong, Ma Long, Dimitrij Ovtcharov",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "71:17-71:17"
+    },
+    {
+        "video": "00000036",
+        "type": "sport",
+        "question": "Who is wearing the black mask and orange shirt in the video?",
+        "candidates": [
+            "(A) The referee",
+            "(B) The player",
+            "(C) The audience",
+            "(D) The coach"
+        ],
+        "answer": "(A) The referee",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:33-04:44"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "What is the content of the entire video about?",
+        "candidates": [
+            "(A) This video narrates the entire process of the 2016 men's volleyball final, in which the Brazilian team defeated China 3-0 to win the championship",
+            "(B) This video narrates the entire process of the 2016 men's volleyball final, in which the Brazilian team defeated Italy 3-2 to win the championship",
+            "(C) This video narrates the entire process of the 2020 men's volleyball final, in which the Brazilian team defeated Italy 3-0 to win the championship",
+            "(D) This video narrates the entire process of the 2016 men's volleyball final, in which the Brazilian team defeated Italy 3-0 to win the championship"
+        ],
+        "answer": "(D) This video narrates the entire process of the 2016 men's volleyball final, in which the Brazilian team defeated Italy 3-0 to win the championship",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-118:28"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "Which country's flag is being waved at the beginning of the video?",
+        "candidates": [
+            "(A) Italy",
+            "(B) China",
+            "(C) Brazil",
+            "(D) Japan"
+        ],
+        "answer": "(A) Italy",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:01-00:03"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "Which player scored the tenth point for Italy in the first set of the video?",
+        "candidates": [
+            "(A) 13",
+            "(B) 20",
+            "(C) 5",
+            "(D) 15"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:13-11:20"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "The ball was in during the video replay of the first set, so who scored this point?",
+        "candidates": [
+            "(A) China",
+            "(B) Brazil",
+            "(C) Japan",
+            "(D) Italy"
+        ],
+        "answer": "(B) Brazil",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:40-17:50"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "What is the name of the player wearing number 16 for Brazil in the video?",
+        "candidates": [
+            "(A) Ken",
+            "(B) Dante",
+            "(C) Lucas",
+            "(D) James"
+        ],
+        "answer": "(C) Lucas",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-37:25"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "Which team was leading before the eighteenth point in the second set?",
+        "candidates": [
+            "(A) Japan",
+            "(B) China",
+            "(C) Italy",
+            "(D) Brazil"
+        ],
+        "answer": "(C) Italy",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "32:20-41:20"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "Which team scored the first point of the third set?",
+        "candidates": [
+            "(A) China",
+            "(B) Italy",
+            "(C) Brazil",
+            "(D) Japan"
+        ],
+        "answer": "(C) Brazil",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "68:00-68:08"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "What is the number of the player being substituted when the game score is 0-2, point score is 14-15?",
+        "candidates": [
+            "(A) 19",
+            "(B) 45",
+            "(C) 2",
+            "(D) 18"
+        ],
+        "answer": "(D) 18",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "83:13-83:13"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "What did number seven do after being substituted in?",
+        "candidates": [
+            "(A) He cried",
+            "(B) He injuried",
+            "(C) He danced",
+            "(D) He served"
+        ],
+        "answer": "(D) He served",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:02-92:11"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "A famous football star comes to watch the game, who is he?",
+        "candidates": [
+            "(A) Aguero",
+            "(B) Neymar",
+            "(C) Ronaldo",
+            "(D) Messi"
+        ],
+        "answer": "(B) Neymar",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "98:18-98:18"
+    },
+    {
+        "video": "00000037",
+        "type": "sport",
+        "question": "Which national team was the first to receive medals on the podium after the match?",
+        "candidates": [
+            "(A) Italy",
+            "(B) The USA",
+            "(C) Brazil",
+            "(D) China"
+        ],
+        "answer": "(B) The USA",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "101:20-102:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "When do the two teams first kick off?",
+        "candidates": [
+            "(A) 00:52 video time",
+            "(B) 27:12 video time",
+            "(C) 01:58 video time",
+            "(D) 02:00 video time"
+        ],
+        "answer": "(C) 01:58 video time",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "00:30-02:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "In 05:06 video time, who gets the ball from Pedro?",
+        "candidates": [
+            "(A) Khedira",
+            "(B) Iniesta",
+            "(C) Friedrich",
+            "(D) Puyol"
+        ],
+        "answer": "(A) Khedira",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "05:00-05:12"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Where is the football game held?",
+        "candidates": [
+            "(A) I don't know",
+            "(B) German",
+            "(C) Spain",
+            "(D) Durban"
+        ],
+        "answer": "(D) Durban",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-00:30"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Who takes the first corner kick of the game?",
+        "candidates": [
+            "(A) Villa",
+            "(B) Xavi",
+            "(C) Neuer",
+            "(D) Boateng"
+        ],
+        "answer": "(B) Xavi",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-15:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Why is Puyol so sad at 15:06?",
+        "candidates": [
+            "(A) His team is goaled in by German",
+            "(B) His header doesn't result in a goal",
+            "(C) He is fouled by others",
+            "(D) He fouls"
+        ],
+        "answer": "(B) His header doesn't result in a goal",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "15:00-15:30"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Why doesn't German's first corner kick go in?",
+        "candidates": [
+            "(A) A finger-tip save from the goalkeeper",
+            "(B) Spain fouls",
+            "(C) No information",
+            "(D) Blocked by Spain"
+        ],
+        "answer": "(A) A finger-tip save from the goalkeeper",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "16:30-17:41"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "What is the number of shots by Germany and Italy at the 30:00 mark of the game?",
+        "candidates": [
+            "(A) 4:0",
+            "(B) 8:4",
+            "(C) 0:4",
+            "(D) 4:8"
+        ],
+        "answer": "(C) 0:4",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "31:55-32:05"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Which German player attempts the first shot?",
+        "candidates": [
+            "(A) Trochowski",
+            "(B) Pedro",
+            "(C) Ramos",
+            "(D) Kroos"
+        ],
+        "answer": "(A) Trochowski",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "33:00-34:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Why does Spain get a free kick for the first time?",
+        "candidates": [
+            "(A) Boateng squares into the shoulder of Puyol",
+            "(B) Boateng squares into the shoulder of Iniesta",
+            "(C) Iniesta squares into the shoulder of Friedrich",
+            "(D) Iniesta squares into the shoulder of Boateng"
+        ],
+        "answer": "(B) Boateng squares into the shoulder of Iniesta",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "43:00-44:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "What happens at 47:56 mark of the game?",
+        "candidates": [
+            "(A) Pedro is trying to shot but fails",
+            "(B) Pedro commits a foul",
+            "(C) Alonso is trying to shot but fails",
+            "(D) Alonso commits a foul"
+        ],
+        "answer": "(C) Alonso is trying to shot but fails",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "51:30-52:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "What is the number of the player who substitutes Boateng?",
+        "candidates": [
+            "(A) 12",
+            "(B) 18",
+            "(C) 2",
+            "(D) 9"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "55:00-56:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Which team is more likely to reach the final in the future?",
+        "candidates": [
+            "(A) I don't know",
+            "(B) German",
+            "(C) Spain",
+            "(D) None of them"
+        ],
+        "answer": "(C) Spain",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-98:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "What happens at 65:13?",
+        "candidates": [
+            "(A) Kroos substitutes Trochowski",
+            "(B) Trochowski substitutes Kroos",
+            "(C) Trochowski substitutes Boateng",
+            "(D) Kroos substitutes Boateng"
+        ],
+        "answer": "(A) Kroos substitutes Trochowski",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "65:00-66:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "Who scores the first goal?",
+        "candidates": [
+            "(A) Pedro",
+            "(B) Puyol",
+            "(C) Kroos",
+            "(D) Alonso"
+        ],
+        "answer": "(B) Puyol",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "76:00-78:00"
+    },
+    {
+        "video": "00000084",
+        "type": "sport",
+        "question": "In the entire match, how is the first goal scored?",
+        "candidates": [
+            "(A) Gate-crashing",
+            "(B) Header",
+            "(C) Close range",
+            "(D) Long shot"
+        ],
+        "answer": "(B) Header",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "76:00-78:00"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Who serves first?",
+        "candidates": [
+            "(A) Victor Axelsen",
+            "(B) Lin Dan",
+            "(C) Lee Chong Wei",
+            "(D) Chen Long"
+        ],
+        "answer": "(C) Lee Chong Wei",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:30-08:35"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "What is the primary reason for Lee Chong Wei's point loss in the first half of the match?",
+        "candidates": [
+            "(A) Net fault",
+            "(B) Double hit",
+            "(C) Out of bounds",
+            "(D) Failure to return the shuttlecock"
+        ],
+        "answer": "(C) Out of bounds",
+        "question_type": [
+            "event understanding",
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "08:33-32:27"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "What do the two players do after they warm up?",
+        "candidates": [
+            "(A) They communicate with the referee",
+            "(B) They start the official game directly",
+            "(C) They talk to the coach",
+            "(D) They drink water and wipe sweat"
+        ],
+        "answer": "(D) They drink water and wipe sweat",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:19-19:57"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Why does Lin Dan look so frustrated at 27:10?",
+        "candidates": [
+            "(A) He fails to beat the shuttlecock cross the net",
+            "(B) He beats the shuttlecock out of the bounds",
+            "(C) He  fails to return the shuttlecock before it lands",
+            "(D) He fails to catch the shuttlecock"
+        ],
+        "answer": "(B) He beats the shuttlecock out of the bounds",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "None-None"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Which country do the two players come from?",
+        "candidates": [
+            "(A) Malaysia and China",
+            "(B) China and Denmark",
+            "(C) Malaysia and Indonesia",
+            "(D) Japan and China"
+        ],
+        "answer": "(A) Malaysia and China",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:51-06:18"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Why does Lee Chong Wei lose the the most points for the first game?",
+        "candidates": [
+            "(A) Fail to return the shuttlecock",
+            "(B) Beat the shuttlecock out of bounds",
+            "(C) Fail to catch the shuttlecock",
+            "(D) Fail to beat the shuttlecock cross the net"
+        ],
+        "answer": "(B) Beat the shuttlecock out of bounds",
+        "question_type": [
+            "reasoning",
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "08:33-32:27"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Who leads the score for the first game?",
+        "candidates": [
+            "(A) Lee Chong Wei",
+            "(B) Wang Zhengming",
+            "(C) Lin Dan",
+            "(D) Lee Zii Jia"
+        ],
+        "answer": "(C) Lin Dan",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:33-32:27"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "When does Lin Dan get his first point for the second game?",
+        "candidates": [
+            "(A) 35:20 of the video time",
+            "(B) 37:20 of the video time",
+            "(C) 36:40 of the video time",
+            "(D) 38:40 of the video time"
+        ],
+        "answer": "(D) 38:40 of the video time",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "34:35-38:40"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Who get the first point for the second game?",
+        "candidates": [
+            "(A) Lee Chong Wei",
+            "(B) Lin Dan",
+            "(C) Soong Joo Ven",
+            "(D) Chen Long"
+        ],
+        "answer": "(A) Lee Chong Wei",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "34:35-35:05"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Which year does this match take place?",
+        "candidates": [
+            "(A) 2017",
+            "(B) 2015",
+            "(C) 2016",
+            "(D) 2014"
+        ],
+        "answer": "(C) 2016",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "46:00-46:00"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "How to describe the feeling of Lee Chong Wei at 48:16?",
+        "candidates": [
+            "(A) He feels frustrated because he does not catch the shuttlecock from the opponent",
+            "(B) He feels excited because he gets one point",
+            "(C) He feels frustrated because he beats the buttlecock out of bounds",
+            "(D) He feels frustrated because he does not beat the shuttlecock cross the net"
+        ],
+        "answer": "(A) He feels frustrated because he does not catch the shuttlecock from the opponent",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "48:00-48:17"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Summarize the changes of the score for the second game",
+        "candidates": [
+            "(A) Lee Chong Wei takes the lead at the beginning but later is overtaken by Lin Dan",
+            "(B) Lee Chong Wei is always in the lead and never be tied or surpassed",
+            "(C) The race situation is tense, Lee Chong Wei and Lin Dan are neck and neck",
+            "(D) Lin Dan is always in the lead and never be tied or surpassed"
+        ],
+        "answer": "(B) Lee Chong Wei is always in the lead and never be tied or surpassed",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "34:35-54:00"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "How to evaluate Lin Dan's performance for the second game?",
+        "candidates": [
+            "(A) In the beginning, his status is bad. The bad status lasts for the 10 minutes. At the rest time of the second game, his performance is very good",
+            "(B) Lin Dan sometimes leads and sometimes lags behind",
+            "(C) The status is not so good. Lee Chong Wei is always far ahead",
+            "(D) The status is very good. Lin Dan is always far ahead"
+        ],
+        "answer": "(C) The status is not so good. Lee Chong Wei is always far ahead",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "34:23-00:54"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Who's that guy in orange and always coughing?",
+        "candidates": [
+            "(A) Lin Dan's coach",
+            "(B) Lee Chong Wei's coach",
+            "(C) The audience",
+            "(D) The referee"
+        ],
+        "answer": "(B) Lee Chong Wei's coach",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "57:55-57:55"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "How does Lian Dan feel at 58:07?",
+        "candidates": [
+            "(A) He feels very happy, because the opponent fells down",
+            "(B) He feels very unhappy, because he fells down suddenly",
+            "(C) He feels very happy, because the opponent beats the shuttlecock out of bounds, and he gets one points",
+            "(D) He feels very happy, because the opponent does not catch the shuttlecock"
+        ],
+        "answer": "(C) He feels very happy, because the opponent beats the shuttlecock out of bounds, and he gets one points",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "58:07-58:07"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "What is the second sport that appears in the opening promotional video?",
+        "candidates": [
+            "(A) Track and field",
+            "(B) Gymnastics",
+            "(C) Diving",
+            "(D) High jump"
+        ],
+        "answer": "(D) High jump",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "55:31-63:50"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "When do the scores of Lin Dan and Li Chong Wei get 20 for the third game?",
+        "candidates": [
+            "(A) 88:06 of the video time",
+            "(B) 72:43 of the video time",
+            "(C) Never",
+            "(D) 80:06 of the video time"
+        ],
+        "answer": "(A) 88:06 of the video time",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "55:31-88:06"
+    },
+    {
+        "video": "00000085",
+        "type": "sport",
+        "question": "Who is the final winner?",
+        "candidates": [
+            "(A) Chen Long",
+            "(B) Lin Dan",
+            "(C) Tan Boon Heong",
+            "(D) Lee Chong Wei"
+        ],
+        "answer": "(D) Lee Chong Wei",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "90:13-90:40"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Summarize the scoring in the first game of the first set?",
+        "candidates": [
+            "(A) The Swiss team scores the first 3 points at first, but in the end the American team won the game with five consecutive points",
+            "(B) The American team scores the first 3 points at first, but in the end the  Swiss team won the game with five consecutive points",
+            "(C) The Swiss team scores the first point first, then the American team scores two points, but in the end the Swiss team won the game with three consecutive points",
+            "(D) The American team scores the first point first, then the Swiss team scores two points, but in the end the American team won the game with three consecutive points"
+        ],
+        "answer": "(D) The American team scores the first point first, then the Swiss team scores two points, but in the end the American team won the game with three consecutive points",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-03:30"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Why does Team USA lose the first point of the second game of the first set?",
+        "candidates": [
+            "(A) They are spiked",
+            "(B) They fail to hit the ball over the net",
+            "(C) They hit the ball out of bounds",
+            "(D) They fail to catch the ball"
+        ],
+        "answer": "(C) They hit the ball out of bounds",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:40-04:04"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Summarize the scoring in the second game of the first set?",
+        "candidates": [
+            "(A) The American team scores one point first, and the Swiss team then tie it, but then the American team score consecutively to win the game",
+            "(B) The Swiss team score consecutively to win the game with American get no point",
+            "(C) The American team score consecutively to win the game with Swiss get no point",
+            "(D) The Swiss team scores one point first, and the American team then tie it, but then the Swiss team score consecutively to win the game"
+        ],
+        "answer": "(D) The Swiss team scores one point first, and the American team then tie it, but then the Swiss team score consecutively to win the game",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "03:40-05:30"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What is Federer's average forehand topspin speed when the game score is 1-1, and point score is 30-0? ",
+        "candidates": [
+            "(A) 108 KM/H",
+            "(B) 109 KM/H",
+            "(C) 118 KM/H",
+            "(D) 119 KM/H"
+        ],
+        "answer": "(D) 119 KM/H",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "06:45-06:50"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Why is Tiafoe so happy when the game score is 1-1, point score is 40-0?",
+        "candidates": [
+            "(A) They score consecutively without losing a point",
+            "(B) They win that game without losing a point",
+            "(C) They win that set without losing a point",
+            "(D) He serves a nice ball"
+        ],
+        "answer": "(A) They score consecutively without losing a point",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "07:15-07:25"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Summarize the scoring in the third game of the first set?",
+        "candidates": [
+            "(A) After losing a point, the U.S. team scored four points in a row to win the game",
+            "(B) After losing a point, the Swiss team scored four points in a row to win the game",
+            "(C) The Swiss team scored four points in a row to win the game",
+            "(D) The U.S. team scored four points in a row to win the game"
+        ],
+        "answer": "(D) The U.S. team scored four points in a row to win the game",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "05:30-08:30"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "How many times do the two teams hit the ball after the game score is 2-1, point score is 0-30?",
+        "candidates": [
+            "(A) 10",
+            "(B) 9",
+            "(C) 8",
+            "(D) 7"
+        ],
+        "answer": "(B) 9",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "09:30-10:00"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What is the 1st serve percent of the two teams before the game score becomes 2-2?",
+        "candidates": [
+            "(A) 70% for the American team and 60% for the Swiss team",
+            "(B) 67% for the American team and 76% for the Swiss team",
+            "(C) 76% for the American team and 67% for the Swiss team",
+            "(D) 60% for the American team and 70% for the Swiss team"
+        ],
+        "answer": "(A) 70% for the American team and 60% for the Swiss team",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "11:10-11:15"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What happens in the sixth game of the first set?",
+        "candidates": [
+            "(A) The Swiss team score 4 points in a row to win this game without losing one point",
+            "(B) After losing one point, the American team score 4 points in a row to win this game",
+            "(C) After losing one point, the Swiss team score 4 points in a row to win this game",
+            "(D) The American team score 4 points in a row to win this game without losing one point"
+        ],
+        "answer": "(A) The Swiss team score 4 points in a row to win this game without losing one point",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "14:30-16:11"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Why does Tiafoe fall during the first score when the set score is 0-1, game score is 1-0?",
+        "candidates": [
+            "(A) He is hit by the ball",
+            "(B) He tries hard to hit the ball",
+            "(C) He steps on his shoelace",
+            "(D) The ground is slippery"
+        ],
+        "answer": "(A) He is hit by the ball",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "01:25-22:00"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Why does the lens focus on a number when the set score is 0-1, game score is 1-1, point score is 15-15?",
+        "candidates": [
+            "(A) The serve speed is really high",
+            "(B) The serve speed is really low",
+            "(C) The ball hit this number",
+            "(D) Someone is shouting around the number"
+        ],
+        "answer": "(A) The serve speed is really high",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "25:13-25:13"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What happens in the third game of the second set?",
+        "candidates": [
+            "(A) The U.S. team take the lead to score one point, then the Swiss team score two points in a row, and finally the U.S. team score three points in a row to win the game",
+            "(B) The Swiss team take the lead to score one point, then the U.S. team score two points in a row, and finally the Swiss team score three points in a row to win the game",
+            "(C) The U.S. team take the lead to score two points, then the Swiss team score two points in a row, and finally the U.S. team score two points in a row to win the game",
+            "(D) The Swiss team take the lead to score two points, then the U.S. team score two points in a row, and finally the Swiss team score two points in a row to win the game"
+        ],
+        "answer": "(A) The U.S. team take the lead to score one point, then the Swiss team score two points in a row, and finally the U.S. team score three points in a row to win the game",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "23:58-28:00"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Why do Tiafoe and Federer tap each other in the fourth game of the second set?",
+        "candidates": [
+            "(A) Tiafoe shows his apology for hit the ball on Federer's abdomen",
+            "(B) Tiafoe encourges Federer after winning the game",
+            "(C) Tiafoe shows his apology for hit the ball on Federer's head",
+            "(D) Tiafoe shows his apology for hit the ball on Federer's leg"
+        ],
+        "answer": "(C) Tiafoe shows his apology for hit the ball on Federer's head",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "28:15-28:42"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What happens in the fourth game of the second set?",
+        "candidates": [
+            "(A) The American team scores 4 points first and then the Swiss team ties to deuce, and the American team finally win the game",
+            "(B) The two teams take turns to score to deuce, and the American team finally win the game",
+            "(C) The Swiss team scores 4 points first and then the American team ties to deuce, and the Swiss team finally win the game",
+            "(D) The two teams take turns to score to deuce, and the Swiss team finally win the game"
+        ],
+        "answer": "(D) The two teams take turns to score to deuce, and the Swiss team finally win the game",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "28:00-32:00"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What happens in the first set?",
+        "candidates": [
+            "(A) The American team wins 3 games first and then the Swiss team ties to tiebreak, and the American team finally win the game",
+            "(B) The two teams take turns to score to tiebreak, and the Swiss team finally win the game",
+            "(C) The Swiss team wins 3 games first and then the American team ties to tiebreak, and the Swiss team finally win the game",
+            "(D) The two teams take turns to score to tiebreak, and the American team finally win the game"
+        ],
+        "answer": "(B) The two teams take turns to score to tiebreak, and the Swiss team finally win the game",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "16:50-42:25"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "Who is interviewed after the game?",
+        "candidates": [
+            "(A) Tiafoe and willians",
+            "(B) Federer and Tiafoe",
+            "(C) Willians and Federer",
+            "(D) Bencic and Federer"
+        ],
+        "answer": "(C) Willians and Federer",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "42:25-45:00"
+    },
+    {
+        "video": "00000086",
+        "type": "sport",
+        "question": "What are the players doing after interview?",
+        "candidates": [
+            "(A) Willians takes photos with Federer",
+            "(B) Willians takes photos with Tiafoe",
+            "(C) Bencic takes photos with Federer",
+            "(D) Bencic takes photos with Tiafoe"
+        ],
+        "answer": "(A) Willians takes photos with Federer",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "45:00-46:31"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "The shirtless person on the stage in the video is who?",
+        "candidates": [
+            "(A) Royce Gracie",
+            "(B) Kobe",
+            "(C) James",
+            "(D) Ken Shamrock"
+        ],
+        "answer": "(D) Ken Shamrock",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:34-45:00"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "How long does the match last?",
+        "candidates": [
+            "(A) 1 hour",
+            "(B) 1 second",
+            "(C) 36 minutes",
+            "(D) 10 minutes"
+        ],
+        "answer": "(C) 36 minutes",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "06:02-42:49"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "What color gloves does the referee wear?",
+        "candidates": [
+            "(A) Green",
+            "(B) White",
+            "(C) Black",
+            "(D) Blue"
+        ],
+        "answer": "(B) White",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:09-06:09"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "Why is the referee clapping at 37:39 in the video?",
+        "candidates": [
+            "(A) Signaling the start of the match",
+            "(B) Applauding cheerfully",
+            "(C) For nothing",
+            "(D) Encouraging the players"
+        ],
+        "answer": "(A) Signaling the start of the match",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "37:39-37:39"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "At 42:40, why does the referee separate the two?",
+        "candidates": [
+            "(A) Because the referee gets the time wrong",
+            "(B) The referee wants to call it a day",
+            "(C) Because someone faints",
+            "(D) The fighter forfeits"
+        ],
+        "answer": "(C) Because someone faints",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "42:40-42:40"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "At 32:20 in the video, what method is the man in white starting to use to strike the opponent?",
+        "candidates": [
+            "(A) He starts using head to strike the opponent's head",
+            "(B) He starts using his right hand to strike the opponent's head",
+            "(C) He starts using legs to strike the opponent's head",
+            "(D) He starts using both hands to strike the opponent's head"
+        ],
+        "answer": "(D) He starts using both hands to strike the opponent's head",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "32:20-32:50"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "Who is still celebrating after the game?",
+        "candidates": [
+            "(A) Ken Shamrock",
+            "(B) Ken's father and son",
+            "(C) Royce brother",
+            "(D) Royce"
+        ],
+        "answer": "(A) Ken Shamrock",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "42:26-42:26"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "Between 09:45-15:00, what demography predominates among the spectators on the sidelines?",
+        "candidates": [
+            "(A) Old people",
+            "(B) Child",
+            "(C) Male",
+            "(D) Female"
+        ],
+        "answer": "(C) Male",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "09:45-14:37"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "How old is Royce Gracie now?",
+        "candidates": [
+            "(A) 29",
+            "(B) 58",
+            "(C) 31",
+            "(D) 21"
+        ],
+        "answer": "(A) 29",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "03:20-03:29"
+    },
+    {
+        "video": "00000087",
+        "type": "sport",
+        "question": "What is the blue box appearing periodically in the bottom right corner of the video?",
+        "candidates": [
+            "(A) Sponsorship interface",
+            "(B) To capture the reactions of the audience and friends on the sidelines",
+            "(C) Technical glitch",
+            "(D) Ad interface"
+        ],
+        "answer": "(B) To capture the reactions of the audience and friends on the sidelines",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "08:53-42:19"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "Who's going to go first?",
+        "candidates": [
+            "(A) Fire Hulk",
+            "(B) Acid Skeleton",
+            "(C) Old Bruce Lee",
+            "(D) At the same time"
+        ],
+        "answer": "(A) Fire Hulk",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:16-01:03"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "What is the hair color of Old Bruce Lee?",
+        "candidates": [
+            "(A) Brown",
+            "(B) All white",
+            "(C) White with some black",
+            "(D) All black"
+        ],
+        "answer": "(B) All white",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "03:29-03:59"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "Who initiates ground moves in the first round?",
+        "candidates": [
+            "(A) No one initiates ground moves",
+            "(B) Fire Hulk",
+            "(C) Old Bruce Lee",
+            "(D) Curry"
+        ],
+        "answer": "(A) No one initiates ground moves",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:11-09:12"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "At 11:14 in the video, how does Old Bruce Lee strike the opponent's head?",
+        "candidates": [
+            "(A) A front kick",
+            "(B) A left hook",
+            "(C) An uppercut punch",
+            "(D) A left elbow strike"
+        ],
+        "answer": "(C) An uppercut punch",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "11:14-11:15"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "How many people can be clearly seen on stage in the video at 12:42?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "12:43-12:43"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "Who is on the right side of the screen after the ground move in the third round?",
+        "candidates": [
+            "(A) The audience",
+            "(B) Fire hulk",
+            "(C) The referee",
+            "(D) Old Bruce Lee"
+        ],
+        "answer": "(D) Old Bruce Lee",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:00-16:56"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "Who is frequently being knocked down in the video?",
+        "candidates": [
+            "(A) Fire hulk",
+            "(B) The referee",
+            "(C) The audience",
+            "(D) Old Bruce Lee"
+        ],
+        "answer": "(A) Fire hulk",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-31:00"
+    },
+    {
+        "video": "00000088",
+        "type": "sport",
+        "question": "Who maintains the advantage throughout the entire match?",
+        "candidates": [
+            "(A) Curry",
+            "(B) Old Bruce Lee",
+            "(C) Kyrie",
+            "(D) Fire hulk"
+        ],
+        "answer": "(B) Old Bruce Lee",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "02:09-31:11"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What type of video is this?",
+        "candidates": [
+            "(A) Self-media",
+            "(B) Documentary",
+            "(C) Sports competition",
+            "(D) TV show"
+        ],
+        "answer": "(C) Sports competition",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-33:16"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What year is this game?",
+        "candidates": [
+            "(A) 2012",
+            "(B) 2016",
+            "(C) 2020",
+            "(D) 2008"
+        ],
+        "answer": "(A) 2012",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-33:16"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What kind of competition is this?",
+        "candidates": [
+            "(A) Men's Uneven Bars",
+            "(B) Men's gymnastics",
+            "(C) Women's Uneven Bars",
+            "(D) Women's gymnastics"
+        ],
+        "answer": "(C) Women's Uneven Bars",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-33:16"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What is the main color of the venue?",
+        "candidates": [
+            "(A) Black",
+            "(B) Red",
+            "(C) Pink",
+            "(D) Blue"
+        ],
+        "answer": "(C) Pink",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:22-00:22"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "Who starts the game first?",
+        "candidates": [
+            "(A) ELISABETH SEITZ",
+            "(B) YAO JINNAN",
+            "(C) HE KEXIN",
+            "(D) VICTORIA KOMOVA"
+        ],
+        "answer": "(C) HE KEXIN",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:16-01:16"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What action did she take?",
+        "candidates": [
+            "(A) She lies down",
+            "(B) She sticks out her tongue",
+            "(C) She squats down",
+            "(D) She sits down"
+        ],
+        "answer": "(B) She sticks out her tongue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:20-07:25"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What does the first thing the second athlete do when she comes to playing field?",
+        "candidates": [
+            "(A) She bows to the audience",
+            "(B) She puts on magnesium powder",
+            "(C) She sprays disinfectant on the parallel bars",
+            "(D) She talks to the coach"
+        ],
+        "answer": "(C) She sprays disinfectant on the parallel bars",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "07:25-07:40"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What is the second athlete's number?",
+        "candidates": [
+            "(A) 403",
+            "(B) 205",
+            "(C) 120",
+            "(D) 304"
+        ],
+        "answer": "(A) 403",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:36-08:36"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "How does Athlete No. 403 feel after completing her movements?",
+        "candidates": [
+            "(A) She is very excited",
+            "(B) She's a little upset",
+            "(C) She is angry",
+            "(D) She is very satisfied"
+        ],
+        "answer": "(B) She's a little upset",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:35-09:00"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "Which country does Athlete No. 365 come from?",
+        "candidates": [
+            "(A) China",
+            "(B) Russia",
+            "(C) Germany",
+            "(D) US"
+        ],
+        "answer": "(C) Germany",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "13:22-13:22"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What is this athlete's number?",
+        "candidates": [
+            "(A) 332",
+            "(B) 365",
+            "(C) 23",
+            "(D) 335"
+        ],
+        "answer": "(D) 335",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "13:38-13:38"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What color-based gymnastics clothes do the athletes with number 354 wear?",
+        "candidates": [
+            "(A) Baby blue",
+            "(B) Light red",
+            "(C) Yellow",
+            "(D) Bark blue"
+        ],
+        "answer": "(D) Bark blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "18:08-18:08"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What color gloves does athlete 404 have on his hand?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) Black",
+            "(C) Write",
+            "(D) Red"
+        ],
+        "answer": "(C) Write",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:30-20:35"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "How many countries send two athletes?",
+        "candidates": [
+            "(A) 2",
+            "(B) 1",
+            "(C) 4",
+            "(D) 3"
+        ],
+        "answer": "(A) 2",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "21:56-21:56"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What is the hairstyle of athlete 385?",
+        "candidates": [
+            "(A) Tie up a braid",
+            "(B) Tie up two braids",
+            "(C) Black short hair",
+            "(D) Crew cut"
+        ],
+        "answer": "(A) Tie up a braid",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "23:22-23:22"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What does the man in red do after high-fiving athlete No.385 after her performance?",
+        "candidates": [
+            "(A) He hugs the athlete",
+            "(B) He shakes hands with the athletes",
+            "(C) He pats the athlete on the back",
+            "(D) He quarrels with the athlete"
+        ],
+        "answer": "(C) He pats the athlete on the back",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "23:20-23:25"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What happened to the British athlete when she landed?",
+        "candidates": [
+            "(A) There are some mistakes in her landing",
+            "(B) She falls down when she lands",
+            "(C) When she lands, she takes a step forward",
+            "(D) Her landing moves are perfect"
+        ],
+        "answer": "(A) There are some mistakes in her landing",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:29-24:29"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What color is athlete 411 wearing?",
+        "candidates": [
+            "(A) Silver",
+            "(B) Red",
+            "(C) White",
+            "(D) Black"
+        ],
+        "answer": "(A) Silver",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "24:57-24:57"
+    },
+    {
+        "video": "00000089",
+        "type": "sport",
+        "question": "What does the last athlete on the field do after she comes off the field?",
+        "candidates": [
+            "(A) She communicates with the coach",
+            "(B) She waves to the people around her",
+            "(C) She wears clothes",
+            "(D) She hugs the people around her"
+        ],
+        "answer": "(C) She wears clothes",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:37-32:30"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "What is LeBron James' free throw shooting percentage on the panel below the video?",
+        "candidates": [
+            "(A) 83.3",
+            "(B) 11.6",
+            "(C) 61.0",
+            "(D) 6"
+        ],
+        "answer": "(A) 83.3",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "19:25-19:25"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "What is the scoring method for the first goal of the white team number 7?",
+        "candidates": [
+            "(A) Alley-oop",
+            "(B) Penalty shot",
+            "(C) Lay up",
+            "(D) Three-pointer"
+        ],
+        "answer": "(B) Penalty shot",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:00-27:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Who makes the last shot for Team USA in the first quarter?",
+        "candidates": [
+            "(A) Kevin Durant",
+            "(B) Player number 5",
+            "(C) Westbrook",
+            "(D) LeBron James"
+        ],
+        "answer": "(C) Westbrook",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:00-36:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Why does White Team No. 8 stand at the free throw line for the first time?",
+        "candidates": [
+            "(A) An Australian player fouls him dribbling",
+            "(B) An Australian player fouls him for passing the ball",
+            "(C) An Australian player fouls him on a three-pointer",
+            "(D) An Australian player fouls him on a layup"
+        ],
+        "answer": "(C) An Australian player fouls him on a three-pointer",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "39:30-42:30"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Who wins the game?",
+        "candidates": [
+            "(A) Australian National Team",
+            "(B) Canada National Team",
+            "(C) United States National Team",
+            "(D) China National Team"
+        ],
+        "answer": "(A) Australian National Team",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "115:00-118:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Why are the fans in the audience so excited from 45:14-50:00?",
+        "candidates": [
+            "(A) Because they are genuinely happy",
+            "(B) Because both teams performed very well",
+            "(C) Because Australian National Team performed very well",
+            "(D) Because United States National Team performed very well"
+        ],
+        "answer": "(B) Because both teams performed very well",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "45:14-50:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Who grabs the rebound when White Team No. 13 misses a three-pointer?",
+        "candidates": [
+            "(A) LeBron James",
+            "(B) Deron Williams",
+            "(C) Tyson Chandler",
+            "(D) Kevin Durant"
+        ],
+        "answer": "(B) Deron Williams",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "49:00-51:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "What is the halftime score for Team USA vs Team Australia?",
+        "candidates": [
+            "(A) 28:21",
+            "(B) 42:56",
+            "(C) 21:28",
+            "(D) 56:42"
+        ],
+        "answer": "(D) 56:42",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "58:00-59:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "How to sum up the second game?",
+        "candidates": [
+            "(A) In the second quarter, Curry comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "(B) In the second quarter, Durant comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "(C) In the second quarter, James comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Durant's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "(D) In the second quarter, Curry comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia"
+        ],
+        "answer": "(B) In the second quarter, Durant comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "36:00-60:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "What's the summary of Game 4?",
+        "candidates": [
+            "(A) In the fourth quarter, Paul hits a layup at the beginning, Anderson scores inside, and Barlow scores a three-pointer. Australia does not give up, 87-75. Deron hits another three-pointer, and Love adds the icing on the cake, 92-75, denying his opponent any hope of a comeback. Mills responds with a three-pointer, and Love hits the inside to make a free throw. Then comes the \"Kobe moment.\" He makes 3 of 3 three-pointers, 105-80. With less than 5 minutes left in the game, Love makes a fast break dunk, 107-80. The U.S. team completely defeats its opponent. In the end, the U.S. team wins a 119-86 victory",
+            "(B) In the fourth quarter, Paul hits a three-pointer at the beginning, Anderson scores inside, and Barlow scores a three-pointer. Australia does not give up, 75-87. Deron hits another three-pointer, and Love adds the icing on the cake, 92-75, denying his opponent any hope of a comeback. Mills responds with a three-pointer, and Love hits the inside to make a free throw. Then comes the \"Kobe moment.\" He makes 3 of 3 three-pointers, 105-80. With less than 5 minutes left in the game, Love makes a fast break dunk, 107-80. The U.S. team completely defeats its opponent. In the end, the U.S. team wins a 119-86 victory",
+            "(C) In the fourth quarter, James hits a three-pointer at the beginning, Anderson scores inside, and Barlow scores a three-pointer. Australia does not give up, 75-87. Deron hits another three-pointer, and Love adds the icing on the cake, 92-75, denying his opponent any hope of a comeback. Mills responds with a three-pointer, and Love hits the inside to make a free throw. Then comes the \"Kobe moment\". He makes 3 of 3 three-pointers, 105-80. With less than 5 minutes left in the game, Love makes a fast break dunk, 107-80. The U.S. team completely defeats its opponent. In the end, the U.S. team wins a 119-86 victory",
+            "(D) In the fourth quarter, Durant hits a three-pointer at the beginning, Anderson scores inside, and Barlow scores a three-pointer. The USA does not give up, 75-87. Deron hits another three-pointer, and Love adds the icing on the cake, 92-75, denying the opponent any hope of a comeback. Mills responds with a three-pointer, and Love hits the inside to make a free throw. Then comes the \"Kobe moment.\" He makes 3 of 3 three-pointers, 105-80. With less than 5 minutes left in the game, Love makes a fast break dunk, 107-80. The U.S. team completely defeats its opponent. In the end, the U.S. team wins a 119-86 victory"
+        ],
+        "answer": "(B) In the fourth quarter, Paul hits a three-pointer at the beginning, Anderson scores inside, and Barlow scores a three-pointer. Australia does not give up, 75-87. Deron hits another three-pointer, and Love adds the icing on the cake, 92-75, denying his opponent any hope of a comeback. Mills responds with a three-pointer, and Love hits the inside to make a free throw. Then comes the \"Kobe moment.\" He makes 3 of 3 three-pointers, 105-80. With less than 5 minutes left in the game, Love makes a fast break dunk, 107-80. The U.S. team completely defeats its opponent. In the end, the U.S. team wins a 119-86 victory",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "99:00-118:34"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Why are the audience cheering when the score is 61-56?",
+        "candidates": [
+            "(A) Australia No. 14 scores a three-pointer",
+            "(B) The Australian team successfully defends the US team's attack",
+            "(C) Australia No. 6 scores a three-pointer",
+            "(D) Australia No. 5 scores a three-pointer"
+        ],
+        "answer": "(C) Australia No. 6 scores a three-pointer",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "79:00-79:20"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Why does James take free throws?",
+        "candidates": [
+            "(A) Australia No. 9 fouled James",
+            "(B) Australia No. 14 fouled James",
+            "(C) Australia No. 7 fouled James",
+            "(D) Because the Australian team had a technical foul"
+        ],
+        "answer": "(C) Australia No. 7 fouled James",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "82:00-83:00"
+    },
+    {
+        "video": "00000090",
+        "type": "sport",
+        "question": "Who makes the penalty shot when the score is 81-68?",
+        "candidates": [
+            "(A) CURRY",
+            "(B) DURANT",
+            "(C) JAMES",
+            "(D) WILLIAMS"
+        ],
+        "answer": "(D) WILLIAMS",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "94:56-94:56"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "What category does this video belong to?",
+        "candidates": [
+            "(A) Olympic games",
+            "(B) The BBC News",
+            "(C) The NBA",
+            "(D) The country life vlog"
+        ],
+        "answer": "(A) Olympic games",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:01-25:00"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "How many meters is the race about men in the video?",
+        "candidates": [
+            "(A) 1500",
+            "(B) 3000",
+            "(C) 100",
+            "(D) 50"
+        ],
+        "answer": "(C) 100",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:30-01:05"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "How many athletes in Men's 100M Start-List-Round 1 Heat 1?",
+        "candidates": [
+            "(A) 9",
+            "(B) 7",
+            "(C) 8",
+            "(D) 10"
+        ],
+        "answer": "(C) 8",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:39-01:41"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "What's the number on the back of Tyson Gay?",
+        "candidates": [
+            "(A) 3218",
+            "(B) 3712",
+            "(C) 3718",
+            "(D) 3217"
+        ],
+        "answer": "(D) 3217",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:18-02:36"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "When does the first heat of the men's 100m startstart of a race?",
+        "candidates": [
+            "(A) The video time of 02:56",
+            "(B) The video time of 03:46",
+            "(C) The video time of 03:56",
+            "(D) The video time of 02:46"
+        ],
+        "answer": "(C) The video time of 03:56",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "03:36-03:36"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "Who is the winner for Men's 100M Round 1 Heat 1?",
+        "candidates": [
+            "(A) Tyson Gay",
+            "(B) Rondel Sorrillo",
+            "(C) Asafa Powell",
+            "(D) Jaysuma Saidy Naure"
+        ],
+        "answer": "(A) Tyson Gay",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "03:46-04:25"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "How to describe the video play speed from 04:42-05:09?",
+        "candidates": [
+            "(A) One and a half speed",
+            "(B) Normal speed",
+            "(C) Slow speed",
+            "(D) One and a quarter speed"
+        ],
+        "answer": "(C) Slow speed",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "04:42-05:09"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "Which statement is true for Men's 100M Round 1 Heat 1?",
+        "candidates": [
+            "(A) The athlete who wears a green running shoes is on Track 7",
+            "(B) Two athletes have the same natiaonlity",
+            "(C) No athlete is on Track 1",
+            "(D) The athlete from USA is on track 9"
+        ],
+        "answer": "(C) No athlete is on Track 1",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "01:30-05:16"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "Which Olympic Games do the games belong to?",
+        "candidates": [
+            "(A) 2012 London Olympics",
+            "(B) 2010 Vancouver Olympics",
+            "(C) 2021 Tokyo Olympics",
+            "(D) 2016 Rio de Janeiro Olympics"
+        ],
+        "answer": "(A) 2012 London Olympics",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:01-05:16"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "Who runs on track 5 in round 1 heat 2?",
+        "candidates": [
+            "(A) Asafa Powell",
+            "(B) Rondel Sorrillo",
+            "(C) Tyson Gay",
+            "(D) Jaysuma Saidy Naure"
+        ],
+        "answer": "(B) Rondel Sorrillo",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "06:06-06:06"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "How long does Justin Gatlin use in Men's 100M Round 1 Heat 2?",
+        "candidates": [
+            "(A) 9.83s",
+            "(B) 9.95s",
+            "(C) 10.22s",
+            "(D) 9.97s"
+        ],
+        "answer": "(D) 9.97s",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "07:49-07:49"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "How many seconds is the difference between the first and the second in Men's 100M Round 1 Heat 2?",
+        "candidates": [
+            "(A) 0.22s",
+            "(B) 0.25s",
+            "(C) 0.23s",
+            "(D) 0.24s"
+        ],
+        "answer": "(B) 0.25s",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "07:49-08:30"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "After Men 100M round 1 heat 2, who is the first athletes that shows up?",
+        "candidates": [
+            "(A) Usain Bolt",
+            "(B) Jaysuma Saidy Naure",
+            "(C) Anna Rogowska",
+            "(D) Asafa Powellfell"
+        ],
+        "answer": "(C) Anna Rogowska",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "09:24-09:27"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "When does Men's 100M Round 1 Heat 4 start preparing?",
+        "candidates": [
+            "(A) At the video time of 19:38",
+            "(B) At the video time of 20:38",
+            "(C) At the video time of 19:28",
+            "(D) At the video time of 20:28"
+        ],
+        "answer": "(D) At the video time of 20:28",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "20:38-20:38"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "What is the best record for Men's 100M Round 1 Heat 4?",
+        "candidates": [
+            "(A) 10.23",
+            "(B) 9.58",
+            "(C) 9.69",
+            "(D) 10.09"
+        ],
+        "answer": "(D) 10.09",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "20:38-24:12"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "Who is the first in Men's 100M Roound 1 Heat 5?",
+        "candidates": [
+            "(A) Su BingTian",
+            "(B) Usain Bolt",
+            "(C) Asafa Powell",
+            "(D) Tyson Gay"
+        ],
+        "answer": "(C) Asafa Powell",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:07-27:11"
+    },
+    {
+        "video": "00000091",
+        "type": "sport",
+        "question": "What place is Su Bingtian in for Men's 100M Round 1 Heat 6?",
+        "candidates": [
+            "(A) Fourth",
+            "(B) Third",
+            "(C) First",
+            "(D) Second"
+        ],
+        "answer": "(B) Third",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "31:19-31:40"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "The video begins with a person walking forward while holding a sign. What does the sign say?",
+        "candidates": [
+            "(A) Floor",
+            "(B) Flyer",
+            "(C) Flood",
+            "(D) Fool"
+        ],
+        "answer": "(A) Floor",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-00:12"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "Where's the second-to-last contestant from in the opening introductions?",
+        "candidates": [
+            "(A) Japan",
+            "(B) Russia",
+            "(C) The USA",
+            "(D) China"
+        ],
+        "answer": "(B) Russia",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:12-02:20"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "How many somersaults do the first contestant finish the show?",
+        "candidates": [
+            "(A) 1",
+            "(B) 3",
+            "(C) 8",
+            "(D) 6"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "04:40-04:52"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "What are the differences in attire between the second and third contestants?",
+        "candidates": [
+            "(A) There are no differences because they are from the same national team",
+            "(B) The styles are completely different, but the color distribution is consistent",
+            "(C) The color schemes are completely different, but the styles are similar",
+            "(D) The attire of the third contestant is the mirror image of the second contestant's"
+        ],
+        "answer": "(A) There are no differences because they are from the same national team",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "05:10-10:54"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "What mood is the fifth contestant in after the competition?",
+        "candidates": [
+            "(A) She is sad",
+            "(B) She is very disappointed",
+            "(C) She has a blank expression",
+            "(D) She is happy"
+        ],
+        "answer": "(D) She is happy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:03-20:08"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "What is the number of the athlete who enters the field after athlete number 404?",
+        "candidates": [
+            "(A) 399",
+            "(B) 394",
+            "(C) 340",
+            "(D) 359"
+        ],
+        "answer": "(B) 394",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "28:34-37:47"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "After the competition, three athletes follow behind the staff. Among them, where is the champion positioned among the three?",
+        "candidates": [
+            "(A) The champion is not among these three people",
+            "(B) Middle",
+            "(C) At the very front",
+            "(D) At the very back"
+        ],
+        "answer": "(B) Middle",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "36:25-36:50"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "After athlete number 404 finished their performance, what does she do for the audience?",
+        "candidates": [
+            "(A) She blows kisses to the audience",
+            "(B) She punches toward the audience",
+            "(C) She waves to the audience",
+            "(D) She whistles to the audience"
+        ],
+        "answer": "(C) She waves to the audience",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "28:20-28:25"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "Who does the champion start celebrating with after the last athlete finishes their performance?",
+        "candidates": [
+            "(A) She starts celebrating with her team mate",
+            "(B) She starts celebrating with herself",
+            "(C) She starts celebrating with her son",
+            "(D) She starts celebrating with her coach"
+        ],
+        "answer": "(D) She starts celebrating with her coach",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "32:24-34:50"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "Which country has the same number of players as Australia?",
+        "candidates": [
+            "(A) Britain",
+            "(B) Italy",
+            "(C) Russia",
+            "(D) America"
+        ],
+        "answer": "(B) Italy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:06-37:47"
+    },
+    {
+        "video": "00000092",
+        "type": "sport",
+        "question": "What is Mustafina doing when she is waiting for her score?",
+        "candidates": [
+            "(A) She's untangling the tape",
+            "(B) She is tying her shoelaces",
+            "(C) She is adjusting her socks",
+            "(D) She is stretching her legs"
+        ],
+        "answer": "(A) She's untangling the tape",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "29:35-29:35"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What is this video about?",
+        "candidates": [
+            "(A) Tessa Virtue and Scott Moir in action at the 2022 Olympics",
+            "(B) Tessa Virtue and Scott Moir every performance at the olympic games",
+            "(C) Tessa Virtue and Scott Moir in action at the 2018 Olympics",
+            "(D) Tessa Virtue and Scott Moir in action at the 2014 Olympics"
+        ],
+        "answer": "(B) Tessa Virtue and Scott Moir every performance at the olympic games",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:06-00:09"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "Which country's athletes are the two protagonists in the video?",
+        "candidates": [
+            "(A) Britain",
+            "(B) France",
+            "(C) Canada",
+            "(D) Russia"
+        ],
+        "answer": "(C) Canada",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "03:28-03:41"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "In Vancouver 2010, what was performed while wearing a white dress?",
+        "candidates": [
+            "(A) Original dance",
+            "(B) Single skating",
+            "(C) Compulsory dance",
+            "(D) Free dance"
+        ],
+        "answer": "(D) Free dance",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:35-09:00"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What did the man do after kissing the woman's hands during the 2010 Free Dance performance in Vancouver?",
+        "candidates": [
+            "(A) He pulled the woman in circles",
+            "(B) He got down on one knee",
+            "(C) He fell to his knees",
+            "(D) He picked up the woman"
+        ],
+        "answer": "(B) He got down on one knee",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "09:04-09:13"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "How many times do two contestants circle together between 10:20-10:34?",
+        "candidates": [
+            "(A) 20",
+            "(B) 8",
+            "(C) 18",
+            "(D) 13"
+        ],
+        "answer": "(D) 13",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "10:20-10:34"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "How many games at the Vancouver 2010 Olympic Games are shown in the video?",
+        "candidates": [
+            "(A) 4",
+            "(B) 5",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:14-18:47"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What is the opening move of the gala performance at Sochi 2014?",
+        "candidates": [
+            "(A) Going in circles",
+            "(B) Bowing to the audience",
+            "(C) Kneeling on one knee",
+            "(D) Lying on the ice"
+        ],
+        "answer": "(D) Lying on the ice",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "41:15-41:16"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What is the theme color of the Pyeongchang Winter Olympics?",
+        "candidates": [
+            "(A) Blue series",
+            "(B) Orange series",
+            "(C) Purple series",
+            "(D) Red series"
+        ],
+        "answer": "(C) Purple series",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "45:22-45:55"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "At the start of the gala performance at the Vancouver Winter Olympics, what colour were the stage lights?",
+        "candidates": [
+            "(A) Bright red",
+            "(B) Aubergine",
+            "(C) White",
+            "(D) Sky blue"
+        ],
+        "answer": "(B) Aubergine",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:58-15:10"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What did the men do when the short program began in Sochi?",
+        "candidates": [
+            "(A) He clapped his hands",
+            "(B) He winked his eyes",
+            "(C) He hugged his partner",
+            "(D) He bowed to the audience"
+        ],
+        "answer": "(B) He winked his eyes",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "29:26-29:28"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What are the positions of the two men after the free dance at the Sochi Winter Olympics?",
+        "candidates": [
+            "(A) A man holds a woman in his arms",
+            "(B) Both of them are lying on the ice",
+            "(C) A woman is sitting on the ice and the man is lying on the ice",
+            "(D) Women are lying on the ice and men are sitting on the ice"
+        ],
+        "answer": "(D) Women are lying on the ice and men are sitting on the ice",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "44:12-44:28"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "In this video, the Pyeongchang Winter Olympics clip how many outfits did the two people change?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "45:12-72:28"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "How many times did that woman wear the red dress in Vancouver?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:18-18:00"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "What pants did the men wear in the gala performance segment of the Vancouver Winter Olympics?",
+        "candidates": [
+            "(A) Short pants",
+            "(B) Suit pant",
+            "(C) Jeans",
+            "(D) Beach pants"
+        ],
+        "answer": "(C) Jeans",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "15:07-15:25"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "How many people are in the waiting room with the two contestants for the short program team competition at Sochi 2014?",
+        "candidates": [
+            "(A) 8",
+            "(B) 10",
+            "(C) 2",
+            "(D) 12"
+        ],
+        "answer": "(B) 10",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "23:37-23:37"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "In the footage from Sochi, how many games did the womon wear their hair up?",
+        "candidates": [
+            "(A) 4",
+            "(B) 5",
+            "(C) 6",
+            "(D) 3"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:48-45:08"
+    },
+    {
+        "video": "00000093",
+        "type": "sport",
+        "question": "How many Olympic Games are featured in the video?",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 2",
+            "(D) 1"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-73:01"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Where is the scene shown in the video?",
+        "candidates": [
+            "(A) Swimming Pool",
+            "(B) Basketball court",
+            "(C) Sports Field",
+            "(D) Tennis Court"
+        ],
+        "answer": "(C) Sports Field",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-01:25"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "What competetion is going on based on the text in the video?",
+        "candidates": [
+            "(A) Men's 100000M",
+            "(B) Men's 1000M",
+            "(C) Men's 100M",
+            "(D) Men's 10000M"
+        ],
+        "answer": "(D) Men's 10000M",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-01:20"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Which match could this probably be?",
+        "candidates": [
+            "(A) Tokyo 2020 Olympics",
+            "(B) 2023 World Athletics Championships",
+            "(C) London 2012 Olympics",
+            "(D) 2017 World Championships in Athletics"
+        ],
+        "answer": "(C) London 2012 Olympics",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-01:32"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "How many people participated in the final of Men's 10000M?",
+        "candidates": [
+            "(A) 10",
+            "(B) 39",
+            "(C) 9",
+            "(D) 3"
+        ],
+        "answer": "(B) 39",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:38-01:10"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "What happens between 01:23-04:50?",
+        "candidates": [
+            "(A) Static image",
+            "(B) Athletes sit in the auditorium waiting to enter",
+            "(C) Athletes com to the marking line to warm up and prepare to compete",
+            "(D) Athletes warm up outside the field to prepare for competition"
+        ],
+        "answer": "(C) Athletes com to the marking line to warm up and prepare to compete",
+        "question_type": [
+            "temporal grounding",
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "01:23-04:50"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "When does the first game start?",
+        "candidates": [
+            "(A) 01:23",
+            "(B) 05:15",
+            "(C) 04:56",
+            "(D) 00:38"
+        ],
+        "answer": "(B) 05:15",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "05:14-05:16"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "How many laps does a game take?",
+        "candidates": [
+            "(A) 25",
+            "(B) 1",
+            "(C) 24",
+            "(D) 10"
+        ],
+        "answer": "(A) 25",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "05:42-06:28"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who is the man on the field?",
+        "candidates": [
+            "(A) Will Claye",
+            "(B) Greg Rutherford",
+            "(C) Mitchell Watt",
+            "(D) Michel Torneus"
+        ],
+        "answer": "(C) Mitchell Watt",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:28-06:36"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who takes the lead when there is 19 laps to go?",
+        "candidates": [
+            "(A) Zersenay Tadese",
+            "(B) Wilson Kiprop",
+            "(C) Mo Farah",
+            "(D) Daniele Meucci"
+        ],
+        "answer": "(B) Wilson Kiprop",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "12:16-14:02"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who falls and loses a shoe?",
+        "candidates": [
+            "(A) Zersenay Tadese",
+            "(B) Daniele Meucci",
+            "(C) Moses Kipsiro",
+            "(D) Mo Farah"
+        ],
+        "answer": "(C) Moses Kipsiro",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "12:30-13:36"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "What event happens after most of the athletes run 3200m?",
+        "candidates": [
+            "(A) Mofara takes the lead",
+            "(B) Mofara drops his shoe again",
+            "(C) Ali Hasan Mahboob stops running and gives up the game",
+            "(D) Zersenay Tadese loses his lead"
+        ],
+        "answer": "(C) Ali Hasan Mahboob stops running and gives up the game",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "14:37-15:06"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who leaves the runway shortly after there are 9 more laps to go?",
+        "candidates": [
+            "(A) Wilson Kiprop",
+            "(B) Kenenisa Bekele",
+            "(C) Galen Rupp",
+            "(D) Mo Ahmed"
+        ],
+        "answer": "(A) Wilson Kiprop",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "23:20-23:28"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "How long did the entire game take in total?",
+        "candidates": [
+            "(A) 29:32.120",
+            "(B) 26:17.53",
+            "(C) 32:12.320",
+            "(D) 28:49.850"
+        ],
+        "answer": "(A) 29:32.120",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-33:56"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who is the little girl that comes to the sports field?",
+        "candidates": [
+            "(A) Mo Farah's daughter",
+            "(B) Mo Fara's sister",
+            "(C) Not Mentiened",
+            "(D) Mo Fara's nephew"
+        ],
+        "answer": "(A) Mo Farah's daughter",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "35:34-35:53"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "Who is the women that comes to the sports field?",
+        "candidates": [
+            "(A) Mo Fara's",
+            "(B) Not Mentiened",
+            "(C) Mo Fara's aunt",
+            "(D) Mo Fara's wife"
+        ],
+        "answer": "(D) Mo Fara's wife",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "36:05-36:40"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "How many people do not complete the game in total?",
+        "candidates": [
+            "(A) 3",
+            "(B) 0",
+            "(C) 1",
+            "(D) 2"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-39:56"
+    },
+    {
+        "video": "00000094",
+        "type": "sport",
+        "question": "What is the score of the champion?",
+        "candidates": [
+            "(A) 27:30.42",
+            "(B) 27:30.90",
+            "(C) 29:32.12",
+            "(D) 27:01.17"
+        ],
+        "answer": "(A) 27:30.42",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-39:56"
+    }
+]

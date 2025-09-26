@@ -1,0 +1,5223 @@
+[
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What is she doing on the stairs at 08:00?",
+        "candidates": [
+            "(A) She is finding something interestiong on the stairs",
+            "(B) She is so drunk to wander downstairs",
+            "(C) She is jumping downstairs",
+            "(D) She is dancing clown dance"
+        ],
+        "answer": "(D) She is dancing clown dance",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "07:55-08:10"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "After the vlogger sees a dog with an advertisement from the company named Smitten, camera changes to the scene with ___.",
+        "candidates": [
+            "(A) Sea, rocks and mountain",
+            "(B) Sea, beach and mountain",
+            "(C) Sea, beach and trees",
+            "(D) Sea, rocks and trees"
+        ],
+        "answer": "(A) Sea, rocks and mountain",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "08:40-08:40"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What posture does the vlogger use to take the photo in 12:53?",
+        "candidates": [
+            "(A) Hands on hips",
+            "(B) Lean on the bridge",
+            "(C) Scissorhands",
+            "(D) Open arms"
+        ],
+        "answer": "(D) Open arms",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "12:20-13:00"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What are the words on the warning sign the vlogger first notices?",
+        "candidates": [
+            "(A) Attention Hotspring",
+            "(B) Attention Volcano",
+            "(C) Danger Volcano",
+            "(D) Danger Hotspring"
+        ],
+        "answer": "(D) Danger Hotspring",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "14:00-14:15"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "Which objects appears at 16:46?",
+        "candidates": [
+            "(A) A barbecue grill",
+            "(B) A table",
+            "(C) A book",
+            "(D) A keyboard"
+        ],
+        "answer": "(D) A keyboard",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "16:45-17:00"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after swimming in a hot spring?",
+        "candidates": [
+            "(A) She digs into the water",
+            "(B) She finds a sauna with nobody in it",
+            "(C) She finds a new spring with nobody in it",
+            "(D) She finds a cave with nobody in it"
+        ],
+        "answer": "(D) She finds a cave with nobody in it",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:00-20:00"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What is the first warn on the warning sign in the volcano skali?",
+        "candidates": [
+            "(A) Do not walk on the lava",
+            "(B) Attention",
+            "(C) Do not throw anything at the lava",
+            "(D) Do not make carvings on the lava"
+        ],
+        "answer": "(A) Do not walk on the lava",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "21:15-21:30"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "Why can't the vlogger close her mouth at 28:00?",
+        "candidates": [
+            "(A) Because the food is so delicious",
+            "(B) Because the food tastes weird",
+            "(C) Because the food is so hard",
+            "(D) Because her jaw is dislocated"
+        ],
+        "answer": "(B) Because the food tastes weird",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "27:30-28:12"
+    },
+    {
+        "video": "00000021",
+        "type": "selfmedia",
+        "question": "What does the vlogger do on the third day?",
+        "candidates": [
+            "(A) She watches bread being made in a restaurant, visits a waterfall, eats at a restaurant, and then sees the aurora",
+            "(B) She eats at a restaurant, watches bread being made, visits a river, and then sees the aurora",
+            "(C) She watches bread being made by the sea, visits a waterfall, eats at a restaurant, and then sees the aurora",
+            "(D) She enjoys the sea, visits a waterfall, eats at a restaurant, and then sees the aurora"
+        ],
+        "answer": "(C) She watches bread being made by the sea, visits a waterfall, eats at a restaurant, and then sees the aurora",
+        "question_type": [
+            "summarization",
+            "key information retrieval"
+        ],
+        "time_reference": "23:26-28:50"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What is this video introducing?",
+        "candidates": [
+            "(A) My First Time in New Delhi",
+            "(B) My First Time in Jakarta",
+            "(C) My First Time in Tokyo",
+            "(D) My First Time in Singapore"
+        ],
+        "answer": "(B) My First Time in Jakarta",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "00:00-57:25"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "Where is the first destination the vlogger goes to?",
+        "candidates": [
+            "(A) Subway Station",
+            "(B) Shopping mall",
+            "(C) Airport",
+            "(D) Dining room"
+        ],
+        "answer": "(A) Subway Station",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:00-02:30"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What does the guy in green who rides a motorcycle with the plate number B 5237 FLM do to the vlogger?",
+        "candidates": [
+            "(A) Make a yeah gesture to the author",
+            "(B) Kiss the author on the check",
+            "(C) Make a discriminatory gesture towards the author",
+            "(D) Give a high five to the author"
+        ],
+        "answer": "(A) Make a yeah gesture to the author",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "14:16-14:18"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What color hat is the person communicating with the vlogger wearing before entering the national monument?",
+        "candidates": [
+            "(A) Red",
+            "(B) Black",
+            "(C) Dark blue",
+            "(D) White"
+        ],
+        "answer": "(C) Dark blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "18:00-18:10"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What color is the door of the national monument in the video?",
+        "candidates": [
+            "(A) Dark blue",
+            "(B) Red",
+            "(C) Green",
+            "(D) Black"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "19:40-19:55"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What might be the most likely reason the vlogger doesn't enter the national monument on the first day?",
+        "candidates": [
+            "(A) Because it's closed on Monday",
+            "(B) Because foreigners are not allowed to enter",
+            "(C) Because the author does not have enough money to buy a ticket",
+            "(D) Because the author has other things to do"
+        ],
+        "answer": "(A) Because it's closed on Monday",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "19:00-20:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What happens to the vlogger between 21:50-22:30?",
+        "candidates": [
+            "(A) The vlogger asks a staff member",
+            "(B) The vlogger buys a drink",
+            "(C) The vlogger buys a food coupon",
+            "(D) The vlogger buys a ticket"
+        ],
+        "answer": "(D) The vlogger buys a ticket",
+        "question_type": [
+            "event understanding",
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "21:50-22:30"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What is the temperature like when the vlogger entered the national monument?",
+        "candidates": [
+            "(A) Mild",
+            "(B) Cool",
+            "(C) Cold",
+            "(D) Intense heat"
+        ],
+        "answer": "(D) Intense heat",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "23:00-24:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What is the color of the vlogger's sunglasses frame?",
+        "candidates": [
+            "(A) Orange",
+            "(B) Red",
+            "(C) Black",
+            "(D) Blue"
+        ],
+        "answer": "(A) Orange",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:15-28:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after crossing the street that has a no parking sign?",
+        "candidates": [
+            "(A) Church",
+            "(B) Hotel",
+            "(C) Mall",
+            "(D) Subway station"
+        ],
+        "answer": "(A) Church",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "35:00-36:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "How is the weather after the vlogger walking out of the church?",
+        "candidates": [
+            "(A) Windy",
+            "(B) Rainy",
+            "(C) Cloudy",
+            "(D) Sunny"
+        ],
+        "answer": "(C) Cloudy",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "37:00-38:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after leaving the church?",
+        "candidates": [
+            "(A) Mall",
+            "(B) Hotel",
+            "(C) Subway Station",
+            "(D) Airport"
+        ],
+        "answer": "(B) Hotel",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "37:00-43:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What kind of transportation does the vlogger use to get back to the hotel?",
+        "candidates": [
+            "(A) Bus",
+            "(B) Bike",
+            "(C) Motorcycle",
+            "(D) Taxi"
+        ],
+        "answer": "(C) Motorcycle",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "37:00-43:00"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "What is the most possible relationship between the woman in white robe and the vlogger?",
+        "candidates": [
+            "(A) Teacher-student relationship",
+            "(B) Friendship",
+            "(C) Brother-sister relationship",
+            "(D) Boyfriend and girlfriend"
+        ],
+        "answer": "(D) Boyfriend and girlfriend",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "43:00-43:30"
+    },
+    {
+        "video": "00000022",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go to after having a very American style meal?",
+        "candidates": [
+            "(A) Bedroom",
+            "(B) Dining room",
+            "(C) Swimming Pool",
+            "(D) Bathroom"
+        ],
+        "answer": "(C) Swimming Pool",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "54:30-56:00"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Where does the vlogger travel to?",
+        "candidates": [
+            "(A) Bhutan",
+            "(B) Indonesia",
+            "(C) China",
+            "(D) India"
+        ],
+        "answer": "(A) Bhutan",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "00:04-00:06"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What happens between the vlogger's arrive and exit the airport?",
+        "candidates": [
+            "(A) Picks up the luggage, buys a simcard, checks the currency, go pass the boarder protection",
+            "(B) Picks up the luggage, buys a simcard",
+            "(C) Picks up the luggage, buys a simcard, checks the currency",
+            "(D) Picks up the luggage, checks the currency"
+        ],
+        "answer": "(B) Picks up the luggage, buys a simcard",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "01:37-02:49"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Why does the vlogger wear a white accessory?",
+        "candidates": [
+            "(A) It is culture cloth to give to the guests",
+            "(B) It is a gift from his girlfriend",
+            "(C) It is a fashion piece for newest trend",
+            "(D) It is a tool for sun protection"
+        ],
+        "answer": "(A) It is culture cloth to give to the guests",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "03:10-03:14"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go first after landing in the city?",
+        "candidates": [
+            "(A) A cultural center",
+            "(B) A local market",
+            "(C) A grocery and gift store",
+            "(D) An iconic landmark"
+        ],
+        "answer": "(C) A grocery and gift store",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "03:49-03:49"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "How many percentage of the land is covered in forest mentioned in the video?",
+        "candidates": [
+            "(A) 60",
+            "(B) 70",
+            "(C) 40",
+            "(D) 50"
+        ],
+        "answer": "(B) 70",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "05:37-05:37"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What happens between the vlogger's leave from the clothing shop and before the Bhutan promotional video?",
+        "candidates": [
+            "(A) He goes pass a bridge that is above a river, takes picture in front of a temple, goes to his hotel, checks the hotel and eats lunch",
+            "(B) He goes pass a bridge that is above a river, takes picture in front of a temple, drives the car back to his hotel by himself, checks the hotel and eats lunch",
+            "(C) He takes picture in front of a temple, goes pass a bridge that is above a river, goes to his hotel, checks the hotel and eats lunch",
+            "(D) He takes picture in front of a temple, goes pass a bridge that is above a river, drives the car back to his hotel by himself, checks the hotel and eats lunch"
+        ],
+        "answer": "(C) He takes picture in front of a temple, goes pass a bridge that is above a river, goes to his hotel, checks the hotel and eats lunch",
+        "question_type": [
+            "summarization",
+            "event understanding"
+        ],
+        "time_reference": "03:44-09:41"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Why is the vlogger happy to see two Bhutanese who wear brown clothes and fake leaves hats?",
+        "candidates": [
+            "(A) They are dancing and giving traditional gifts to the vlogger",
+            "(B) They are giving traditional gifts to the vlogger and are genuinely happy",
+            "(C) They are dancing and are genuinely happy",
+            "(D) They are dancing, giving traditional gifts to the vlogger and are genuinely happy"
+        ],
+        "answer": "(C) They are dancing and are genuinely happy",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "11:53-12:18"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What is the video time interval that the vlogger visit the cultural center?",
+        "candidates": [
+            "(A) 11:35-16:15",
+            "(B) 11:35-14:15",
+            "(C) 10:35-14:15",
+            "(D) 10:35-16:15"
+        ],
+        "answer": "(C) 10:35-14:15",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "10:35-14:15"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after he tries a traditional hat and before he visits the white and red building?",
+        "candidates": [
+            "(A) He visits the zoo, walks in the forest, talks to a boy in green shirt in the forest and visits a local market",
+            "(B) He visits the zoo, walks in the forest, visits a local market and talks to a boy in green shirt in the market",
+            "(C) He walks in the forest, visits a local market, visits the zoo, and talks to a boy in green shirt in the zoo",
+            "(D) He walks in the forest, visits the zoo, visits a local market and talks to a boy in green shirt in the market"
+        ],
+        "answer": "(B) He visits the zoo, walks in the forest, visits a local market and talks to a boy in green shirt in the market",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "25:29-35:56"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What is the best word that describes the local market?",
+        "candidates": [
+            "(A) Historic",
+            "(B) Simple",
+            "(C) Chaotic",
+            "(D) Fancy"
+        ],
+        "answer": "(B) Simple",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "30:56-35:45"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Why does the vlogger's team park the car on the side of the road?",
+        "candidates": [
+            "(A) They want to eat some fresh corn",
+            "(B) They want to make some friends",
+            "(C) They want to drink some water",
+            "(D) The car has something wrong"
+        ],
+        "answer": "(A) They want to eat some fresh corn",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "49:20-49:36"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What might be the most common type of grain in this city?",
+        "candidates": [
+            "(A) Wheat",
+            "(B) Quinoa",
+            "(C) Rice",
+            "(D) Bread"
+        ],
+        "answer": "(C) Rice",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "56:10-56:10"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "What color of the jacket does Sophia wear when she sees the crane status?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Black",
+            "(C) White",
+            "(D) Blue"
+        ],
+        "answer": "(A) Pink",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "91:05-91:07"
+    },
+    {
+        "video": "00000023",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go at 104:44?",
+        "candidates": [
+            "(A) A school",
+            "(B) An office",
+            "(C) A zoo",
+            "(D) A park"
+        ],
+        "answer": "(A) A school",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "104:44-104:44"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Who is the owner of Gourment Conch Salad?",
+        "candidates": [
+            "(A) Dino",
+            "(B) Jonny",
+            "(C) Conny",
+            "(D) Sonny"
+        ],
+        "answer": "(A) Dino",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "21:58-22:02"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Which animal appears at 00:07?",
+        "candidates": [
+            "(A) Manatee",
+            "(B) Sea turtle",
+            "(C) Lobster",
+            "(D) Clownfish"
+        ],
+        "answer": "(C) Lobster",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "00:07-00:07"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Which animal does the vlogger hold on a boat?",
+        "candidates": [
+            "(A) Starfish",
+            "(B) Jellyfish",
+            "(C) Lobster",
+            "(D) Conch"
+        ],
+        "answer": "(D) Conch",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "17:35-17:35"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Miko goes from sea to ___.",
+        "candidates": [
+            "(A) The land",
+            "(B) The sea",
+            "(C) The seabeach",
+            "(D) The boat"
+        ],
+        "answer": "(D) The boat",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "16:46-16:50"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What is the name of the vlogger?",
+        "candidates": [
+            "(A) Sonny",
+            "(B) Alan Brown",
+            "(C) Jonny",
+            "(D) Conny"
+        ],
+        "answer": "(A) Sonny",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "01:50-01:55"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What happens from 02:45-04:00?",
+        "candidates": [
+            "(A) There is a continuous clips. The basic information about The Bahama",
+            "(B) There are lots of short clips. The basic information about the Montagu Beach Fish Market",
+            "(C) There is a continuous clips. The basic information about the Montagu Beach Fish Market",
+            "(D) There are lots of short clips. The basic information about The Bahama"
+        ],
+        "answer": "(D) There are lots of short clips. The basic information about The Bahama",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "02:45-04:00"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What happens from 04:19-04:45?",
+        "candidates": [
+            "(A) Sonny tastes Lobster Quesadilla",
+            "(B) The chef cooks Bohemain Lobster",
+            "(C) The chef cooks Lobster Quesadilla",
+            "(D) Sonny tastes Bohemain Lobster"
+        ],
+        "answer": "(C) The chef cooks Lobster Quesadilla",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "04:19-04:45"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What happens from 04:50-05:20?",
+        "candidates": [
+            "(A) Sonny tastes Bohemain Lobster",
+            "(B) The chef cooks Lobster Quesadilla",
+            "(C) The chef cooks Bohemain Lobster",
+            "(D) Sonny tastes  Lobster Quesadilla"
+        ],
+        "answer": "(D) Sonny tastes  Lobster Quesadilla",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "04:50-05:20"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "How does Maxine Smith prepare the lobster?",
+        "candidates": [
+            "(A) She splits the lobster in half and stir fries it",
+            "(B) She chops the lobster and grills it",
+            "(C) She chops the lobster and stir fries it",
+            "(D) She splits the lobster in half and grills it"
+        ],
+        "answer": "(D) She splits the lobster in half and grills it",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "06:51-06:55"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "How does the vlogger eat the grilled lobster?",
+        "candidates": [
+            "(A) Fork",
+            "(B) Hand and fork",
+            "(C) Hand, fork and knife",
+            "(D) Hand"
+        ],
+        "answer": "(B) Hand and fork",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:33-07:20"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Why does Sonny look so expected at 07:27?",
+        "candidates": [
+            "(A) He wants to eat the Lobster Quesadilla",
+            "(B) He wants to eat the Bohemian Lobster",
+            "(C) He wants to start the maritime navigation",
+            "(D) He enjoys the juicy cheese"
+        ],
+        "answer": "(B) He wants to eat the Bohemian Lobster",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "07:27-07:27"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What does the vlogger wear?",
+        "candidates": [
+            "(A) An earring",
+            "(B) A scarf",
+            "(C) A ring",
+            "(D) A headband"
+        ],
+        "answer": "(D) A headband",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-90:18"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What does Sonny look so happy at 08:23?",
+        "candidates": [
+            "(A) He eats the delicious lobster guts",
+            "(B) He eats the delicious cheese",
+            "(C) He eats the delicious lobster tail",
+            "(D) He eats the delicious chunks of the lobster"
+        ],
+        "answer": "(D) He eats the delicious chunks of the lobster",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "08:23-08:23"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Where does the vlogger and crab catcher catch a carb?",
+        "candidates": [
+            "(A) Cave",
+            "(B) Sea",
+            "(C) Land",
+            "(D) Beach"
+        ],
+        "answer": "(C) Land",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "53:30-57:07"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Why does the vlogger take the whole tail of a lobster out?",
+        "candidates": [
+            "(A) To split more easily",
+            "(B) To ask the price",
+            "(C) To eat more easily",
+            "(D) To show the size"
+        ],
+        "answer": "(D) To show the size",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "09:05-09:15"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What happens from 24:46-25:12?",
+        "candidates": [
+            "(A) Sonny tastes  Lobster Quesadilla",
+            "(B) Sonny tastes Bohemian Lobster",
+            "(C) Sonny tastes Kung Fruit Salad",
+            "(D) The chef cooks Lobster Quesadilla"
+        ],
+        "answer": "(C) Sonny tastes Kung Fruit Salad",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "24:46-25:12"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "Who is Shay?",
+        "candidates": [
+            "(A) The chef of the Captain's table",
+            "(B) The founder of Mongu Beach Fish Market",
+            "(C) The food expert who makes the video",
+            "(D) The chef of the Frankie Gone Bananas"
+        ],
+        "answer": "(A) The chef of the Captain's table",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "25:50-25:54"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What does the man do from 28:43-29:14?",
+        "candidates": [
+            "(A) The man cooks a conch",
+            "(B) The man tastes a conch",
+            "(C) The man cooks a lobster",
+            "(D) The man tastes a lobster"
+        ],
+        "answer": "(A) The man cooks a conch",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "28:43-29:14"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What is the name of MT. Pleasant Fishing Lodge's chef?",
+        "candidates": [
+            "(A) Amber",
+            "(B) Alan Brown",
+            "(C) Jupy",
+            "(D) Emerson"
+        ],
+        "answer": "(D) Emerson",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "50:45-50:51"
+    },
+    {
+        "video": "00000024",
+        "type": "selfmedia",
+        "question": "What does Kishley cook for the vlogger?",
+        "candidates": [
+            "(A) Johnny Cakes",
+            "(B) Amputated Crabs",
+            "(C) Boar Soup",
+            "(D) Peppa Pig Pepper"
+        ],
+        "answer": "(A) Johnny Cakes",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "59:40-60:10"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "Which city does the vlogger first go to?",
+        "candidates": [
+            "(A) Incheon",
+            "(B) Busan",
+            "(C) Yesan",
+            "(D) Seoul"
+        ],
+        "answer": "(A) Incheon",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "00:00-01:54"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "What is the first food the vlogger eat?",
+        "candidates": [
+            "(A) Budae-jjigae",
+            "(B) Hangover stew",
+            "(C) Oriental roast chicken",
+            "(D) Casseroles"
+        ],
+        "answer": "(B) Hangover stew",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:46-05:10"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "How does the vlogger get to Hannam?",
+        "candidates": [
+            "(A) By plane",
+            "(B) By subway",
+            "(C) By train",
+            "(D) By car"
+        ],
+        "answer": "(B) By subway",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:00-09:00"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "What is the vlogger's first meal in Hannam?",
+        "candidates": [
+            "(A) Beggar's chicken",
+            "(B) Hangover stew",
+            "(C) Kiln-roasted chicken",
+            "(D) Oriental roast chicken"
+        ],
+        "answer": "(D) Oriental roast chicken",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:00-12:18"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "How many pictures of food are on the menu at 17:49?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 11",
+            "(D) 10"
+        ],
+        "answer": "(C) 11",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "17:45-17:55"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "How many meals does the vlogger eat in Seoul?",
+        "candidates": [
+            "(A) 8",
+            "(B) 6",
+            "(C) 7",
+            "(D) 5"
+        ],
+        "answer": "(A) 8",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-101:00"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "Where is the vlogger when it comes to day 6?",
+        "candidates": [
+            "(A) Masan",
+            "(B) Seoul",
+            "(C) Muan",
+            "(D) Busan"
+        ],
+        "answer": "(D) Busan",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "53:00-54:20"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "Where is the vlogger at when there is gondola above him?",
+        "candidates": [
+            "(A) On a beach",
+            "(B) By the sea",
+            "(C) In a mountain",
+            "(D) At an amusement park"
+        ],
+        "answer": "(B) By the sea",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "63:29-63:29"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "At 65:20, what is put on the scallop?",
+        "candidates": [
+            "(A) Peanut",
+            "(B) Cheese",
+            "(C) Lard",
+            "(D) Seasoning"
+        ],
+        "answer": "(B) Cheese",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "65:20-65:20"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "Why does the vlogger do push-ups in hotel?",
+        "candidates": [
+            "(A) He is in a push-up competition",
+            "(B) Hotel asks all guests to do so",
+            "(C) He eats too much food these days",
+            "(D) He is engaged in a workout"
+        ],
+        "answer": "(C) He eats too much food these days",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "79:40-80:00"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "How many time has the vlogger been to Seoul in this video?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 3",
+            "(D) 1"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-101:00"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "Where does the vlogger have his last meal in Korea?",
+        "candidates": [
+            "(A) Incheon",
+            "(B) Busan",
+            "(C) Sokcho",
+            "(D) Seoul"
+        ],
+        "answer": "(A) Incheon",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "116:50-108:00"
+    },
+    {
+        "video": "00000025",
+        "type": "selfmedia",
+        "question": "What is the category of this video?",
+        "candidates": [
+            "(A) A vlog of all kinds of food around Korea",
+            "(B) A vlog of travel around Korea",
+            "(C) A vlog of all kinds of food around Seoul",
+            "(D) A vlog of travel around Seoul"
+        ],
+        "answer": "(A) A vlog of all kinds of food around Korea",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-108:53"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "Why does the vlogger not take the Narita express?",
+        "candidates": [
+            "(A) Because the vlogger is a foreigner",
+            "(B) Because the vlogger comes too late and misses the train time",
+            "(C) Because the train is suspended",
+            "(D) Because the vlogger does not make a reservation"
+        ],
+        "answer": "(D) Because the vlogger does not make a reservation",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:00-03:00"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What is the time when the vlogger gets out of the Shinjuku Station?",
+        "candidates": [
+            "(A) Afternoon",
+            "(B) Midnight",
+            "(C) Morning",
+            "(D) Evening"
+        ],
+        "answer": "(D) Evening",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "07:40-08:00"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What is the best word that describes Tokyo's night view?",
+        "candidates": [
+            "(A) Dark",
+            "(B) Colorful",
+            "(C) Bright white",
+            "(D) Sparkling"
+        ],
+        "answer": "(B) Colorful",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "09:40-10:00"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after settling in the hotel?",
+        "candidates": [
+            "(A) Eating with friends",
+            "(B) Planning for the next day",
+            "(C) Taking a shower and resting",
+            "(D) Strolling the street and finding a place to eat"
+        ],
+        "answer": "(D) Strolling the street and finding a place to eat",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "13:00-17:30"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What does the vlogger order in the restaurant?",
+        "candidates": [
+            "(A) Sushi",
+            "(B) Hitsumabushi",
+            "(C) Yakiniku",
+            "(D) Spicy ramen"
+        ],
+        "answer": "(D) Spicy ramen",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "16:20-17:25"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What does the vlogger do first after finishing dinner at the restaurant?",
+        "candidates": [
+            "(A) Go to the vending machine to buy beer",
+            "(B) Go to the 82 Ale House to buy beer",
+            "(C) Go to the vending machine to buy water",
+            "(D) Go to the 82 Ale House to buy water"
+        ],
+        "answer": "(B) Go to the 82 Ale House to buy beer",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "17:25-17:40"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "The vlogger spend ___  yen to buy water from the vending machine for the first time.",
+        "candidates": [
+            "(A) 150",
+            "(B) 120",
+            "(C) 75",
+            "(D) 100"
+        ],
+        "answer": "(D) 100",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "17:40-18:50"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What is the most likely way the vlogger hold the phone?",
+        "candidates": [
+            "(A) By another friend",
+            "(B) By a tripod",
+            "(C) By a selfie stick",
+            "(D) By hand"
+        ],
+        "answer": "(C) By a selfie stick",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "19:00-19:30"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What does vlogger do in the second half of the video?",
+        "candidates": [
+            "(A) The vlogger strolls on the street, trys to catch a doll from the claw machine, browses merchandise, buys a drink from the vending machine, and trys slot machine",
+            "(B) The vlogger strolls on the street, trys to catch a doll from the claw machine, goes to a Bookoff, browses merchandise, buys a drink from the vending machine, and trys slot machine",
+            "(C) The vlogger strolls on the street, goes to a Bookoff, browses merchandise, buys a drink from the vending machine, and trys slot machine",
+            "(D) The vlogger strolls on the street, trys to catch a doll from the claw machine, goes to a Bookoff, browses merchandise, and trys slot machine"
+        ],
+        "answer": "(C) The vlogger strolls on the street, goes to a Bookoff, browses merchandise, buys a drink from the vending machine, and trys slot machine",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "21:50-44:27"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What are the items sold in the bookoff that the vlogger went to?",
+        "candidates": [
+            "(A) Book, Handmade, switch, DVDs, MP3",
+            "(B) Book, phone, switch, trinkets, cards, TV, MP3",
+            "(C) Book, phone, switch, DVDs",
+            "(D) Book, phone, switch, trinkets, cards"
+        ],
+        "answer": "(D) Book, phone, switch, trinkets, cards",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "33:35-35:40"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What does the vlogger buy after coming out of the bookstore?",
+        "candidates": [
+            "(A) Beer",
+            "(B) Coke",
+            "(C) Juice",
+            "(D) Sparkling water"
+        ],
+        "answer": "(D) Sparkling water",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "36:00-36:30"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What vehicle passes on the right side of the vlogger when there is a SUBNADE sign above?",
+        "candidates": [
+            "(A) Bike",
+            "(B) Train",
+            "(C) Motobike",
+            "(D) Car"
+        ],
+        "answer": "(A) Bike",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "42:19-42:25"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "Which floor is the bookoff on?",
+        "candidates": [
+            "(A) 4",
+            "(B) 5",
+            "(C) 3",
+            "(D) 6"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "33:37-33:38"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "The vlogger spend ___  yen to buy water from the vending machine for the second time.",
+        "candidates": [
+            "(A) 150",
+            "(B) 130",
+            "(C) 110",
+            "(D) 100"
+        ],
+        "answer": "(C) 110",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "38:05-38:07"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "What is the overall expression of the vlogger on the train?",
+        "candidates": [
+            "(A) Shocked",
+            "(B) Happy",
+            "(C) Tired",
+            "(D) Upset"
+        ],
+        "answer": "(C) Tired",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "03:38-03:43"
+    },
+    {
+        "video": "00000026",
+        "type": "selfmedia",
+        "question": "Which of the following event occurs after the bookoff visit?",
+        "candidates": [
+            "(A) Buy a beer",
+            "(B) Find a coin-locker",
+            "(C) Eat a spicy ramen",
+            "(D) Explore the Golden Guy bars"
+        ],
+        "answer": "(B) Find a coin-locker",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "16:00-36:40"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "What is the highest percentage of the country's respondents who experienced anger on the day previous to the survey?",
+        "candidates": [
+            "(A) 48%",
+            "(B) 51%",
+            "(C) 53%",
+            "(D) 49%"
+        ],
+        "answer": "(D) 49%",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:09-00:12"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Which country do the travelers choose?",
+        "candidates": [
+            "(A) Isreal",
+            "(B) Afghanistan",
+            "(C) Palestine",
+            "(D) Lebanon"
+        ],
+        "answer": "(D) Lebanon",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "01:18-01:21"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "What is the discount on the vlogger's merchandise?",
+        "candidates": [
+            "(A) 50% off",
+            "(B) 30% off",
+            "(C) 20% off",
+            "(D) 40% off"
+        ],
+        "answer": "(B) 30% off",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:14-02:18"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Among the three vloggers, ___ has the most normal night.",
+        "candidates": [
+            "(A) Thomas",
+            "(B) No one",
+            "(C) Staffan",
+            "(D) Ammar"
+        ],
+        "answer": "(C) Staffan",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-34:34"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "How many vloggers find a place to live before sunset?",
+        "candidates": [
+            "(A) 0",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(A) 0",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "06:35-06:39"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "What is the attitudes of people living in Lebanon towards life?",
+        "candidates": [
+            "(A) They think their life are meaningless",
+            "(B) They are happy about their life",
+            "(C) They are hopeless about their life",
+            "(D) They are angry about their life"
+        ],
+        "answer": "(B) They are happy about their life",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "08:37-08:50"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Does the car driver accept the request at 09:00?",
+        "candidates": [
+            "(A) Yes",
+            "(B) He didn't say anything",
+            "(C) No",
+            "(D) I don't know"
+        ],
+        "answer": "(C) No",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "09:00-09:37"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Who goes to a party at night?",
+        "candidates": [
+            "(A) Ammar",
+            "(B) Staffan",
+            "(C) Ammar, Thomas, Staffan",
+            "(D) Thomas"
+        ],
+        "answer": "(D) Thomas",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "09:38-09:47"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Thomas sleeps at ___ house.",
+        "candidates": [
+            "(A) A stranger's",
+            "(B) His",
+            "(C) A friend's",
+            "(D) A stranger's friend's"
+        ],
+        "answer": "(D) A stranger's friend's",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "16:03-16:07"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "Who is Staffan's roommate?",
+        "candidates": [
+            "(A) Christ",
+            "(B) Danny",
+            "(C) Ammar",
+            "(D) No roommate"
+        ],
+        "answer": "(B) Danny",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:05-20:26"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "What does Staffen choose when his host offers him some food?",
+        "candidates": [
+            "(A) Some popcorn",
+            "(B) Some nuts",
+            "(C) An ice cream",
+            "(D) Nothing"
+        ],
+        "answer": "(C) An ice cream",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "25:49-25:56"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "What does Thomas do before sleeping?",
+        "candidates": [
+            "(A) He has a bath",
+            "(B) He watches a film",
+            "(C) He goes to a party",
+            "(D) He chats with his roommates"
+        ],
+        "answer": "(C) He goes to a party",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "26:58-27:13"
+    },
+    {
+        "video": "00000027",
+        "type": "selfmedia",
+        "question": "How many vloggers find a place to live at night?",
+        "candidates": [
+            "(A) 1",
+            "(B) 0",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(D) 3",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-34:34"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What is the first exercise the substitute daycare teacher does with these infants?",
+        "candidates": [
+            "(A) Sit-ups",
+            "(B) Push-ups",
+            "(C) Hands-up",
+            "(D) Jumping jacks"
+        ],
+        "answer": "(D) Jumping jacks",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:50-00:57"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What do these kids think of the substitute daycare teacher?",
+        "candidates": [
+            "(A) They hate her",
+            "(B) They like her",
+            "(C) They adore her",
+            "(D) They don't care about her"
+        ],
+        "answer": "(A) They hate her",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "01:32-01:37"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "How do the kids feel when the substitute  daycare teacher falls into the pool?",
+        "candidates": [
+            "(A) Happy",
+            "(B) Scared",
+            "(C) Worried",
+            "(D) Sad"
+        ],
+        "answer": "(A) Happy",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "02:46-02:55"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Why does Boss Baby sneak JJ's birthday cake?",
+        "candidates": [
+            "(A) Because he was hungry",
+            "(B) Because he doesn't like JJ",
+            "(C) Because he likes to eat sweets",
+            "(D) Because he wanted to play a trick"
+        ],
+        "answer": "(A) Because he was hungry",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "09:58-10:58"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Why does JJ look terrified after Boss Baby says 'It's boss boy'?",
+        "candidates": [
+            "(A) Because he is afraid of Boss Baby",
+            "(B) Because it reminds him of his nightmare",
+            "(C) Because he notices something that scares him",
+            "(D) Because he doesn't want to be woke up"
+        ],
+        "answer": "(B) Because it reminds him of his nightmare",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "14:05-15:51"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Who is the third kid to slide into the pool?",
+        "candidates": [
+            "(A) Boss Baby",
+            "(B) Zoey",
+            "(C) JJ",
+            "(D) Pablo"
+        ],
+        "answer": "(B) Zoey",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "16:50-17:11"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Who opens the door for JJ when he rings the doorbell on Masha's birthday?",
+        "candidates": [
+            "(A) Masha's grandma",
+            "(B) Masha's mom",
+            "(C) Masha's grandpa",
+            "(D) Masha's dad"
+        ],
+        "answer": "(A) Masha's grandma",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "36:33-36:42"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Why does Janice act so nice?",
+        "candidates": [
+            "(A) Because she is a nice person",
+            "(B) Because she treats other kids as good friends",
+            "(C) Because her mom is the teacher",
+            "(D) Because she is happy to see the visitors"
+        ],
+        "answer": "(C) Because her mom is the teacher",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "33:04-33:32"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Who is pushing over by Janice?",
+        "candidates": [
+            "(A) Zoey",
+            "(B) Boss Baby",
+            "(C) JJ",
+            "(D) Pablo"
+        ],
+        "answer": "(C) JJ",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "34:47-35:10"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What is the name of the coffee shop behind the road that appears at 49:50?",
+        "candidates": [
+            "(A) Starbrooklyn coffee",
+            "(B) Starbrooks coffee",
+            "(C) Starbucks coffee",
+            "(D) Starboom coffee"
+        ],
+        "answer": "(B) Starbrooks coffee",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "49:50-49:50"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Why is the daycare teacher very irritable with the kids?",
+        "candidates": [
+            "(A) She receives a hefty fine by mistake",
+            "(B) She goes through a breakup",
+            "(C) She doesn't like these kids",
+            "(D) She doesn't like her job"
+        ],
+        "answer": "(A) She receives a hefty fine by mistake",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "56:59-59:40"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Which kid has a little sister?",
+        "candidates": [
+            "(A) Boss Baby",
+            "(B) JJ",
+            "(C) Pablo",
+            "(D) Masha"
+        ],
+        "answer": "(C) Pablo",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "69:58-70:15"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What are the words that appear in the top left corner of the screen at 71:00?",
+        "candidates": [
+            "(A) Comment \"BIKE\" if you see this!",
+            "(B) Comment \"SIKE\" if you see this!",
+            "(C) Comment \"LIKE\" if you see this!",
+            "(D) Comment \"NIKE\" if you see this!"
+        ],
+        "answer": "(B) Comment \"SIKE\" if you see this!",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "71:00-71:00"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What is the main content discussed from 73:13-73:31?",
+        "candidates": [
+            "(A) Memories kids have about Janice, who did something bad in the past",
+            "(B) Memories kids have about Boss Baby, who did something bad in the past",
+            "(C) Memories kids have about Pablo, who did something nice in the past",
+            "(D) Memories kids have about JJ, who did something nice in the past"
+        ],
+        "answer": "(A) Memories kids have about Janice, who did something bad in the past",
+        "question_type": [
+            "temporal grounding",
+            "summarization"
+        ],
+        "time_reference": "73:13-73:31"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "What color does Pablo wear most often?",
+        "candidates": [
+            "(A) Red",
+            "(B) Black",
+            "(C) Blue",
+            "(D) Yellow"
+        ],
+        "answer": "(D) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:55-132:00"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "How many times do these kids take the school bus together?",
+        "candidates": [
+            "(A) 3",
+            "(B) 2",
+            "(C) 4",
+            "(D) 1"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:36-32:34"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "How many female substitute daycare teachers have appeared in total?",
+        "candidates": [
+            "(A) 3",
+            "(B) 4",
+            "(C) 2",
+            "(D) 1"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:01-26:45"
+    },
+    {
+        "video": "00000028",
+        "type": "selfmedia",
+        "question": "Who is the biggest crybaby among these kids?",
+        "candidates": [
+            "(A) Pablo",
+            "(B) JJ",
+            "(C) Bobby",
+            "(D) Masha"
+        ],
+        "answer": "(A) Pablo",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "00:55-132:00"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What vegetables are in the first burger?",
+        "candidates": [
+            "(A) Peppers and lettuce",
+            "(B) Onions and peppers",
+            "(C) Onions and tomatos",
+            "(D) Tomatos and lettuce"
+        ],
+        "answer": "(C) Onions and tomatos",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:49-03:07"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "How many burgers does the vlogger make during the video?",
+        "candidates": [
+            "(A) 24",
+            "(B) 19",
+            "(C) 25",
+            "(D) 12"
+        ],
+        "answer": "(B) 19",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-33:26"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What type of sauce does the label indicate on the second bottle that is closest to the view?",
+        "candidates": [
+            "(A) Barbecue Sauce",
+            "(B) Ketchup",
+            "(C) Sweet chili sauce",
+            "(D) Mustard"
+        ],
+        "answer": "(C) Sweet chili sauce",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "23:36-24:00"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "At 24:09 what does the people at background do?",
+        "candidates": [
+            "(A) They are having a conference",
+            "(B) They are frying fries",
+            "(C) They are cooking meals",
+            "(D) They are eating meals"
+        ],
+        "answer": "(D) They are eating meals",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "24:09-24:15"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What does the vlogger do at 14:42?",
+        "candidates": [
+            "(A) He cracks an egg",
+            "(B) He puts chicken on top of the burger",
+            "(C) He grabs a beacon slice",
+            "(D) He grabs some tissues"
+        ],
+        "answer": "(D) He grabs some tissues",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "14:41-14:44"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "How many pieces of patties does the vlogger cook at the very begining?",
+        "candidates": [
+            "(A) 3",
+            "(B) 2",
+            "(C) 1",
+            "(D) 4"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:30-00:40"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "How many patties are there in the first hamburger made by the vlogger?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:25-03:40"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What does the vlogger use to wipe the yellow chopping board after cleaning it?",
+        "candidates": [
+            "(A) White tissue",
+            "(B) Black tissue",
+            "(C) Blue tissue",
+            "(D) Yellow tissue"
+        ],
+        "answer": "(C) Blue tissue",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:30-01:40"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "When making the side salad, what does the vlogger put on the tomato slice?",
+        "candidates": [
+            "(A) Salad sauce",
+            "(B) Cucumber slices",
+            "(C) Onion slices",
+            "(D) Onion rings"
+        ],
+        "answer": "(B) Cucumber slices",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "11:16-11:30"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What color is the rubber part of the tong?",
+        "candidates": [
+            "(A) Navy blue",
+            "(B) Dark green",
+            "(C) Baby blue",
+            "(D) Light yellow"
+        ],
+        "answer": "(B) Dark green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "11:59-12:00"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What is the side of the no-bun burger?",
+        "candidates": [
+            "(A) Onion rings",
+            "(B) Salad",
+            "(C) Fries",
+            "(D) Chili"
+        ],
+        "answer": "(C) Fries",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "12:31-12:37"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "How many melting domes are there in total?",
+        "candidates": [
+            "(A) 2",
+            "(B) 3",
+            "(C) 5",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:35-13:40"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What is this video about?",
+        "candidates": [
+            "(A) Candy making",
+            "(B) Steak making",
+            "(C) Hamburg making",
+            "(D) Ice cream making"
+        ],
+        "answer": "(C) Hamburg making",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-10:00"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "Who are the vlogger's customers?",
+        "candidates": [
+            "(A) Construction workers and students",
+            "(B) Construction workers, students, and office workers",
+            "(C) Construction workers and office workers",
+            "(D) Students and office workers"
+        ],
+        "answer": "(C) Construction workers and office workers",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-33:25"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What is the vlogger's job other than making videos?",
+        "candidates": [
+            "(A) Variety show director",
+            "(B) Dining customer",
+            "(C) Food program instructor",
+            "(D) Hamburger maker"
+        ],
+        "answer": "(D) Hamburger maker",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-10:00"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "What is the content of the video?",
+        "candidates": [
+            "(A) The vlogger makes single kind of burger, he is also responsible for putting french fries on the side",
+            "(B) The vlogger makes variety of burgers by the customer's order, he is also responsible for various side",
+            "(C) The vlogger makes variety of burgers by the customer's order, he is also responsible for putting french fries on the side",
+            "(D) The vlogger makes single kind of burger, he is also responsible for various side"
+        ],
+        "answer": "(B) The vlogger makes variety of burgers by the customer's order, he is also responsible for various side",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-33:25"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "How many slices of cheese does the vlogger put on each patty from 19:25-19:45?",
+        "candidates": [
+            "(A) 3 in total. 2 on the left, 1 one the right",
+            "(B) 4 in total. 2 on the left, 2 one the right",
+            "(C) 2 in total. 1 on the left, 1 one the right",
+            "(D) 3 in total. 1 on the left, 2 one the right"
+        ],
+        "answer": "(C) 2 in total. 1 on the left, 1 one the right",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "19:25-19:45"
+    },
+    {
+        "video": "00000029",
+        "type": "selfmedia",
+        "question": "Where are the hamburger bun stored?",
+        "candidates": [
+            "(A) In the right drawer under the iron plate",
+            "(B) On the right side of the iron plate",
+            "(C) In the left drawer under the iron plate",
+            "(D) On the left side of the iron plate"
+        ],
+        "answer": "(B) On the right side of the iron plate",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "08:45-08:51"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What color of the sauce which is put on the dish that has pepper as its side?",
+        "candidates": [
+            "(A) Green",
+            "(B) Orange",
+            "(C) Yellow",
+            "(D) Red"
+        ],
+        "answer": "(A) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:08-00:21"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What does the chef do from 01:06-01:24?",
+        "candidates": [
+            "(A) To break the container",
+            "(B) To find the container and wash it",
+            "(C) To replace the container with a new one",
+            "(D) To change the container"
+        ],
+        "answer": "(B) To find the container and wash it",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "01:16-01:24"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What does the chef write when he first writing on paper?",
+        "candidates": [
+            "(A) Burger Good",
+            "(B) Burger Branding",
+            "(C) Burger Burger",
+            "(D) Burger Bad"
+        ],
+        "answer": "(B) Burger Branding",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "03:52-04:02"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "How many plates does the chef place on the table from 04:40-04:46?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "04:44-05:00"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What color of the sauce which is put on the dish from 07:25-07:34?",
+        "candidates": [
+            "(A) Red",
+            "(B) Yellow",
+            "(C) Green",
+            "(D) Blue"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "07:25-07:34"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "How many spoonfuls of sauce are placed on the two plates from 09:13-09:30?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(D) 4",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "09:13-09:30"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "When the action of scooping out fried food appears for the first time, what kind of food is scooped out?",
+        "candidates": [
+            "(A) Broccoli",
+            "(B) Fries",
+            "(C) Meat",
+            "(D) Hamburger"
+        ],
+        "answer": "(A) Broccoli",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "10:36-10:47"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "How many times does the chef put condiments on broccoli?",
+        "candidates": [
+            "(A) 6",
+            "(B) 5",
+            "(C) 8",
+            "(D) 7"
+        ],
+        "answer": "(C) 8",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "12:16-13:43"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What does the chef do after organizing the receipts?",
+        "candidates": [
+            "(A) He fetchs a dish",
+            "(B) He tastes a dish",
+            "(C) He puts the dish on a plate",
+            "(D) He cooks a dish"
+        ],
+        "answer": "(C) He puts the dish on a plate",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:19-18:39"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "There are four containers on the left side of the table where the bills are placed. What are they used for?",
+        "candidates": [
+            "(A) For cooking the dishes",
+            "(B) For cooling the sauce",
+            "(C) For heating the sauce",
+            "(D) For cleaning other containers"
+        ],
+        "answer": "(C) For heating the sauce",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-41:39"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "How many steak on the left side of the table at 21:00?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 2",
+            "(D) 4"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "21:00-21:22"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "How many times does the chef wash his hands during the entire process?",
+        "candidates": [
+            "(A) 3",
+            "(B) 2",
+            "(C) 1",
+            "(D) 4"
+        ],
+        "answer": "(C) 1",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:37-22:48"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "Which color of the sauce is mostly used?",
+        "candidates": [
+            "(A) Green",
+            "(B) Red",
+            "(C) Orange",
+            "(D) Yellow"
+        ],
+        "answer": "(A) Green",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "00:00-41:39"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "What might be the number on the stove above the table next to the trash can?",
+        "candidates": [
+            "(A) Countdown numbers",
+            "(B) Timing numbers",
+            "(C) Random numbers",
+            "(D) Clock numbers"
+        ],
+        "answer": "(A) Countdown numbers",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "37:43-37:45"
+    },
+    {
+        "video": "00000030",
+        "type": "selfmedia",
+        "question": "Given the vlog, is the restaurant profitable?",
+        "candidates": [
+            "(A) No loss, no profit",
+            "(B) I don't know",
+            "(C) No",
+            "(D) Yes"
+        ],
+        "answer": "(D) Yes",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-41:39"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What color is the atmosphere of the room?",
+        "candidates": [
+            "(A) Purple",
+            "(B) Green",
+            "(C) Pink",
+            "(D) Red"
+        ],
+        "answer": "(A) Purple",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-01:23"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after she ties her hair?",
+        "candidates": [
+            "(A) Sleep again",
+            "(B) Drink water",
+            "(C) Play with her mobile phone",
+            "(D) Read a book"
+        ],
+        "answer": "(B) Drink water",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:23-00:32"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What is the first thing the vlogger drops?",
+        "candidates": [
+            "(A) The mobile phone",
+            "(B) The water bottle",
+            "(C) The charger",
+            "(D) The pillow"
+        ],
+        "answer": "(B) The water bottle",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:34-00:36"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "Given the vlogger's behavior from 00:38-01:22, what does she want to do?",
+        "candidates": [
+            "(A) To fall asleep again",
+            "(B) To move a house",
+            "(C) To wash the bedding",
+            "(D) To move her bed"
+        ],
+        "answer": "(C) To wash the bedding",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "00:38-00:57"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after putting things into the washing machine?",
+        "candidates": [
+            "(A) She plays with her mobile phone",
+            "(B) She reads a book",
+            "(C) She cooks some food",
+            "(D) She washes her face"
+        ],
+        "answer": "(D) She washes her face",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:07-02:13"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "How long does the vlogger set the timer for when brushing her teeth?",
+        "candidates": [
+            "(A) 3:10",
+            "(B) 2:40",
+            "(C) 3:00",
+            "(D) 2:50"
+        ],
+        "answer": "(B) 2:40",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "02:31-02:36"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What does the vlogger do in the washroom when she gets up?",
+        "candidates": [
+            "(A) Do the laundry, wash her face, brush her teeth, comb her hair, and apply makeup",
+            "(B) Wash her face, brush her teeth, and comb her hair",
+            "(C) Do the laundry, wash her face, brush her teeth, and apply makeup",
+            "(D) Do the laundry, wash her face, brush her teeth, and comb her hair"
+        ],
+        "answer": "(D) Do the laundry, wash her face, brush her teeth, and comb her hair",
+        "question_type": [
+            "event understanding",
+            "summarization"
+        ],
+        "time_reference": "01:25-03:05"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "How many tops does the vlogger wear to go out?",
+        "candidates": [
+            "(A) 2, a camisole and a down coat",
+            "(B) 3, a camisole, a hoodie, and a down coat",
+            "(C) 4, a camisole, a shirt, a hoodie, and a down coat",
+            "(D) 1, a camisole"
+        ],
+        "answer": "(B) 3, a camisole, a hoodie, and a down coat",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "03:43-04:01"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "When does the vlogger go out again?",
+        "candidates": [
+            "(A) 9 a.m",
+            "(B) 10 a.m",
+            "(C) 9.30 a.m",
+            "(D) 8 a.m"
+        ],
+        "answer": "(D) 8 a.m",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "08:21-08:24"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "How long does the vlogger go out for groceries?",
+        "candidates": [
+            "(A) 39 minutes",
+            "(B) 30 minutes",
+            "(C) 1 hour and 39 minutes",
+            "(D) 1 hour and 30 minutes"
+        ],
+        "answer": "(C) 1 hour and 39 minutes",
+        "question_type": [
+            "reasoning",
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "08:21-09:38"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after cleaning the grocery and fruit?",
+        "candidates": [
+            "(A) She takes out her clothes",
+            "(B) She has a rest",
+            "(C) She goes to bed",
+            "(D) She does some cleanings"
+        ],
+        "answer": "(D) She does some cleanings",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "11:13-15:25"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What is the main reason the vlogger goes out again, where she also buys beauty products?",
+        "candidates": [
+            "(A) To go to the gym",
+            "(B) To eat salmon",
+            "(C) To buy food containers",
+            "(D) To go to school"
+        ],
+        "answer": "(D) To go to school",
+        "question_type": [
+            "event understanding",
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "15:37-15:42"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "Which beauty brand does the vlogger visit?",
+        "candidates": [
+            "(A) Kicks",
+            "(B) Chanel",
+            "(C) Buxom",
+            "(D) Sephora"
+        ],
+        "answer": "(A) Kicks",
+        "question_type": [
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "16:13-16:19"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "When does the vlogger go home for the last time?",
+        "candidates": [
+            "(A) 16:49",
+            "(B) 12:30",
+            "(C) 15:51",
+            "(D) 19:50"
+        ],
+        "answer": "(C) 15:51",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "17:10-17:13"
+    },
+    {
+        "video": "00000031",
+        "type": "selfmedia",
+        "question": "What does she do after cleaning her face?",
+        "candidates": [
+            "(A) Polish her nails",
+            "(B) Sleep",
+            "(C) Take a nap",
+            "(D) Watch TV"
+        ],
+        "answer": "(A) Polish her nails",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "29:20-29:49"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What does the vlogger family buy for fishing?",
+        "candidates": [
+            "(A) Bait and fishing gear",
+            "(B) Axes and fishing gear",
+            "(C) Axes and bait",
+            "(D) Fishing gear and bait"
+        ],
+        "answer": "(B) Axes and fishing gear",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "01:30-02:00"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What does the vlogger family do after buying fishing stuffs?",
+        "candidates": [
+            "(A) Have meal in KFC",
+            "(B) Go fishing",
+            "(C) Have meal in Airport Pizza",
+            "(D) Go swimming"
+        ],
+        "answer": "(C) Have meal in Airport Pizza",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "02:45-03:00"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What happens to the vlogger family members after trying to shoot the birds?",
+        "candidates": [
+            "(A) They are attacked by the bird",
+            "(B) They get lost",
+            "(C) They break they gun accidently",
+            "(D) Their car gets stuck in the snow"
+        ],
+        "answer": "(D) Their car gets stuck in the snow",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "11:30-12:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What does the vlogger family find in the visitor center?",
+        "candidates": [
+            "(A) A horse",
+            "(B) A yak",
+            "(C) A buffalo",
+            "(D) A cow"
+        ],
+        "answer": "(B) A yak",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "15:00-15:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What brand of goggles does the vlogger family have?",
+        "candidates": [
+            "(A) SATA",
+            "(B) Honeywell",
+            "(C) Uvex",
+            "(D) Smith"
+        ],
+        "answer": "(D) Smith",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "14:30-16:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "How many places does the vlogger family go to catch king crabs?",
+        "candidates": [
+            "(A) 3",
+            "(B) 5",
+            "(C) 6",
+            "(D) 4"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "16:30-21:00"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "Why are the vlogger family members so happy at 22:03?",
+        "candidates": [
+            "(A) They catch a king crab by themselves and it taste good",
+            "(B) They buy a king crab and it taste good",
+            "(C) They have starve for a long time",
+            "(D) The locals present him with a king crab and it taste good"
+        ],
+        "answer": "(D) The locals present him with a king crab and it taste good",
+        "question_type": [
+            "temporal grounding",
+            "reasoning"
+        ],
+        "time_reference": "21:15-22:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What is the key difference between a local knife and other knives?",
+        "candidates": [
+            "(A) Local knife is made by special material",
+            "(B) Local knife is colorful",
+            "(C) Local knife has a shape of fan",
+            "(D) Local knife is just for decorations"
+        ],
+        "answer": "(C) Local knife has a shape of fan",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "22:40-22:50"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What do the vlogger family members do from 23:45-26:15?",
+        "candidates": [
+            "(A) They hunt with a gun. They shoot several birds and a moose",
+            "(B) They hunt with a gun. They shoot several birds but avoid the moose",
+            "(C) They hunt with two guns. They shoot several birds but avoid the moose",
+            "(D) They hunt with two guns. They shoot several birds and a moose"
+        ],
+        "answer": "(C) They hunt with two guns. They shoot several birds but avoid the moose",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "23:45-26:15"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What happens to the vlogger family members after their second hunting?",
+        "candidates": [
+            "(A) Their snowmobile is so crowded",
+            "(B) Their snowmobile is attacked by birds",
+            "(C) Their snowmobile run out of power",
+            "(D) Their snowmobile can't reverse"
+        ],
+        "answer": "(D) Their snowmobile can't reverse",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "26:20-26:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "Why does the vlogger point the barrel of the gun toward his mouth?",
+        "candidates": [
+            "(A) He is trying to clear the barrel of the gun",
+            "(B) He is trying to get the most excitement",
+            "(C) He is trying to commit suicide",
+            "(D) No information"
+        ],
+        "answer": "(A) He is trying to clear the barrel of the gun",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "26:49-27:10"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What are the vlogger family members doing at 34:33?",
+        "candidates": [
+            "(A) They are visiting museums",
+            "(B) They are learning knowledge of moose",
+            "(C) They are buying gifts",
+            "(D) They are having meal"
+        ],
+        "answer": "(C) They are buying gifts",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "34:28-35:30"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What are the vlogger family members doing from 36:19-37:08?",
+        "candidates": [
+            "(A) They are looking for their tool for they have lost it",
+            "(B) They are looking for prey",
+            "(C) They are looking for their food for they have lost it",
+            "(D) They are looking for their gun for they have lost it"
+        ],
+        "answer": "(D) They are looking for their gun for they have lost it",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "36:19-37:08"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "How many times do the vlogger family members go hunting in total?",
+        "candidates": [
+            "(A) 3",
+            "(B) 6",
+            "(C) 4",
+            "(D) 5"
+        ],
+        "answer": "(A) 3",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-40:48"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What is the most common form of transportation there?",
+        "candidates": [
+            "(A) Jeep",
+            "(B) Car",
+            "(C) Sled",
+            "(D) Snowmobile"
+        ],
+        "answer": "(D) Snowmobile",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "00:00-40:48"
+    },
+    {
+        "video": "00000074",
+        "type": "selfmedia",
+        "question": "What foods do the vlogger family members eat the most here?",
+        "candidates": [
+            "(A) Pizza",
+            "(B) Waffles",
+            "(C) Birds",
+            "(D) King crab"
+        ],
+        "answer": "(B) Waffles",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-40:48"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What is the destination of the trip?",
+        "candidates": [
+            "(A) Romania",
+            "(B) Croatia",
+            "(C) Albania",
+            "(D) Moldova"
+        ],
+        "answer": "(D) Moldova",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:57-01:55"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Where does the conversation take place from 02:48-02:53?",
+        "candidates": [
+            "(A) The train",
+            "(B) The subway",
+            "(C) The plane",
+            "(D) The bus"
+        ],
+        "answer": "(C) The plane",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "02:48-02:53"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "After exiting the airport, what does the vlogger team do before seeking directions from an elder?",
+        "candidates": [
+            "(A) They visit different places, including a theater, the national museum, and a restaurant",
+            "(B) They eat at different places, including a restaurant, a local shop, and a gelato shop",
+            "(C) They eat at different places, including a restaurant, a local shop, and a coffee shop",
+            "(D) They visit different places, including a theater, the national museum, and an abandoned amusement park"
+        ],
+        "answer": "(D) They visit different places, including a theater, the national museum, and an abandoned amusement park",
+        "question_type": [
+            "summarization",
+            "event understanding"
+        ],
+        "time_reference": "03:19-03:35"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What is the name of the elder who joins the vlogger on their travel?",
+        "candidates": [
+            "(A) Mikhail",
+            "(B) Staffan",
+            "(C) Eric",
+            "(D) Nathan"
+        ],
+        "answer": "(A) Mikhail",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "04:44-04:44"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What is the first place the elder goes with the vlogger team?",
+        "candidates": [
+            "(A) His home",
+            "(B) A bar",
+            "(C) An amusement park",
+            "(D) A church"
+        ],
+        "answer": "(B) A bar",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "05:30-05:50"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What color of clothes does Mikhail wear on the first day?",
+        "candidates": [
+            "(A) Black",
+            "(B) Pink",
+            "(C) Yellow",
+            "(D) Green"
+        ],
+        "answer": "(D) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:05-04:25"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "How many people, including the vlogger himself, have lunch together on the first day?",
+        "candidates": [
+            "(A) Six",
+            "(B) Three",
+            "(C) Five",
+            "(D) Eight"
+        ],
+        "answer": "(A) Six",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "05:18-05:18"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Who have quarrel with a grey T-shirt elder in the Monastery?",
+        "candidates": [
+            "(A) Eric",
+            "(B) Mikhail",
+            "(C) Matt, Eric, and Mikhail",
+            "(D) Matt"
+        ],
+        "answer": "(B) Mikhail",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:41-08:02"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Compared to most other amusement parks, the one the vlogger team visits in the afternoon on the first day is ___.",
+        "candidates": [
+            "(A) Not well maintained",
+            "(B) Not as well functioning",
+            "(C) Smaller",
+            "(D) More modern"
+        ],
+        "answer": "(A) Not well maintained",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "09:45-10:36"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "On which day does one of the vlogger team members ring a bell?",
+        "candidates": [
+            "(A) First",
+            "(B) Fourth",
+            "(C) Third",
+            "(D) Second"
+        ],
+        "answer": "(C) Third",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "26:38-26:50"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Mikhail has a broken ___.",
+        "candidates": [
+            "(A) Left hand",
+            "(B) Right leg",
+            "(C) Right hand",
+            "(D) Left leg"
+        ],
+        "answer": "(C) Right hand",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-30:44"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "How many kinds of desserts do the vlogger team and Mikhail have on the third day?",
+        "candidates": [
+            "(A) 0",
+            "(B) 2",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "answer": "(B) 2",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "08:17-08:26"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Where do the vlogger team members invite Mikhail on the first night?",
+        "candidates": [
+            "(A) They invite Mikhail to the pub",
+            "(B) They invite Mikhail to the park",
+            "(C) They invite Mikhail to the swimming pool",
+            "(D) They invite Mikhail to the hotel"
+        ],
+        "answer": "(D) They invite Mikhail to the hotel",
+        "question_type": [
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "15:58-16:07"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "Where does the conversation happen from 18:55-20:55?",
+        "candidates": [
+            "(A) A beach",
+            "(B) A hotel",
+            "(C) An amusement park",
+            "(D) A park"
+        ],
+        "answer": "(D) A park",
+        "question_type": [
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "18:55-20:55"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What does the vlogger team do before going to a tailer store?",
+        "candidates": [
+            "(A) They go for fishing",
+            "(B) They go for shopping",
+            "(C) They go for swimming",
+            "(D) They go for finding food"
+        ],
+        "answer": "(C) They go for swimming",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:08-22:27"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "What color of shirts does the vlogger team wear on the second day evening event?",
+        "candidates": [
+            "(A) Pink",
+            "(B) Black",
+            "(C) Brown",
+            "(D) White"
+        ],
+        "answer": "(D) White",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "23:00-23:10"
+    },
+    {
+        "video": "00000075",
+        "type": "selfmedia",
+        "question": "At what timestamp in the video does the third morning occur?",
+        "candidates": [
+            "(A) 27:35",
+            "(B) 25:00",
+            "(C) 02:00",
+            "(D) 16:59"
+        ],
+        "answer": "(B) 25:00",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding",
+            "event understanding"
+        ],
+        "time_reference": "25:00-25:00"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "What appears from 00:23-00:24?",
+        "candidates": [
+            "(A) Ginza",
+            "(B) Tokyo Tower",
+            "(C) Mount Fuji",
+            "(D) Sakura"
+        ],
+        "answer": "(D) Sakura",
+        "question_type": [
+            "temporal grounding",
+            "entity recognition"
+        ],
+        "time_reference": "00:23-00:24"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "How long is the vlogger's flight duration to Japan?",
+        "candidates": [
+            "(A) 3 hours 30 minutes",
+            "(B) 4 hours 30 minutes",
+            "(C) 4 hours 45 minutes",
+            "(D) 2 hours 45 minutes"
+        ],
+        "answer": "(C) 4 hours 45 minutes",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "00:51-00:51"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "Why does everything go smoothly after the vlogger exits the airport?",
+        "candidates": [
+            "(A) Because there are so many signages here",
+            "(B) Because there are so many wokers here",
+            "(C) Because there are friends to give some help",
+            "(D) Because the author fully prepares"
+        ],
+        "answer": "(A) Because there are so many signages here",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "01:44-01:50"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "What happens from 01:54-02:25?",
+        "candidates": [
+            "(A) Take the train from Narita Airport T2 to Akihabara Station",
+            "(B) Take the train from Narita Airport T4 to Shibuya Station",
+            "(C) Take the train from Narita Airport T3 to Ashiage Station",
+            "(D) Take the train from Narita Airport T2 to Shibuya Station"
+        ],
+        "answer": "(C) Take the train from Narita Airport T3 to Ashiage Station",
+        "question_type": [
+            "temporal grounding",
+            "key information retrieval"
+        ],
+        "time_reference": "01:54-02:25"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "How much does the vlogger pay to the hotel for 8 days?",
+        "candidates": [
+            "(A) $ 168",
+            "(B) $ 167",
+            "(C) $ 159",
+            "(D) $ 416"
+        ],
+        "answer": "(D) $ 416",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "03:59-04:23"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "How many kinds of train cards are threre in Japan?",
+        "candidates": [
+            "(A) Three",
+            "(B) Two",
+            "(C) Four",
+            "(D) Five"
+        ],
+        "answer": "(B) Two",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "05:33-05:40"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "What does the vlogger eat on the first day evening?",
+        "candidates": [
+            "(A) Sandwich",
+            "(B) Tempura",
+            "(C) Ramen",
+            "(D) Sushi"
+        ],
+        "answer": "(C) Ramen",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "06:34-06:52"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "What kind of transportation does the vlogger use to get to Shibuya Scramble Crossing?",
+        "candidates": [
+            "(A) Bus",
+            "(B) Train",
+            "(C) Car",
+            "(D) Subway"
+        ],
+        "answer": "(B) Train",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "07:57-10:08"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "On which floor is Shibuya Sky?",
+        "candidates": [
+            "(A) 14",
+            "(B) 11",
+            "(C) 12",
+            "(D) 13"
+        ],
+        "answer": "(A) 14",
+        "question_type": [
+            "reasoning",
+            "key information retrieval"
+        ],
+        "time_reference": "10:45-10:55"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after visiting Shibuya Sky?",
+        "candidates": [
+            "(A) Takeshita Street",
+            "(B) TeamLab Planets",
+            "(C) Mount Fuji",
+            "(D) Mega Don Quijote"
+        ],
+        "answer": "(D) Mega Don Quijote",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "11:59-14:28"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "The vlogger visits Takeshita Street ___.",
+        "candidates": [
+            "(A) On the morning",
+            "(B) On the evening",
+            "(C) At midnight",
+            "(D) In the afternoon"
+        ],
+        "answer": "(B) On the evening",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "16:01-16:17"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after visiting Takeshita Street?",
+        "candidates": [
+            "(A) TeamLab Planets",
+            "(B) Shibuya sky",
+            "(C) Asakusa",
+            "(D) Mt. Fuji"
+        ],
+        "answer": "(C) Asakusa",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "16:46-17:19"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after visiting TeamLab Planets?",
+        "candidates": [
+            "(A) Odaiba",
+            "(B) Akihabara",
+            "(C) Asakusa",
+            "(D) Ikebukuro"
+        ],
+        "answer": "(B) Akihabara",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "24:50-25:08"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "Why is the refrigerator at the vlogger's hotel full?",
+        "candidates": [
+            "(A) Hotel offers a meal prep service",
+            "(B) Hotel provides a complimentary minibar",
+            "(C) The vlogger has lots of leftover food",
+            "(D) The vlogger shares the refrigerator with other guests"
+        ],
+        "answer": "(D) The vlogger shares the refrigerator with other guests",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "26:15-26:33"
+    },
+    {
+        "video": "00000076",
+        "type": "selfmedia",
+        "question": "What else does the vlogger do on the last day, besides going to the airport?",
+        "candidates": [
+            "(A) Visit Shibuya sky",
+            "(B) Nothing",
+            "(C) Visit TeamLab Planets",
+            "(D) Visit Takeshita Street"
+        ],
+        "answer": "(B) Nothing",
+        "question_type": [
+            "event understanding",
+            "reasoning"
+        ],
+        "time_reference": "31:10-32:44"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "The vlogger decides to ___ after arriving at the hotel and sitting on the orange chair.",
+        "candidates": [
+            "(A) Communicate with others",
+            "(B) Take the escalator",
+            "(C) Ask for directions",
+            "(D) Take the elevator"
+        ],
+        "answer": "(B) Take the escalator",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "01:25-01:45"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What is in the top shelf of cabinet that the vlogger opens right after he checks the cooler for the first time?",
+        "candidates": [
+            "(A) Biscuits",
+            "(B) Liquor",
+            "(C) Cups",
+            "(D) Chocolates"
+        ],
+        "answer": "(A) Biscuits",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "04:24-04:33"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What color is the hair dryer?",
+        "candidates": [
+            "(A) Black",
+            "(B) White",
+            "(C) Red",
+            "(D) Blue"
+        ],
+        "answer": "(D) Blue",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "08:30-08:40"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What is in the bedside table's drawer?",
+        "candidates": [
+            "(A) Disposable slippers",
+            "(B) Landline",
+            "(C) Tissue",
+            "(D) Disposable underwear"
+        ],
+        "answer": "(A) Disposable slippers",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:15-14:25"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go first aftering exiting his room?",
+        "candidates": [
+            "(A) Badminton court",
+            "(B) Stadium",
+            "(C) Indoor swimming pool",
+            "(D) Gym"
+        ],
+        "answer": "(C) Indoor swimming pool",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "15:50-16:30"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "Where does the vlogger go after touching a \"Mindspa Synctuition\" screen?",
+        "candidates": [
+            "(A) Gym",
+            "(B) Indoor swimming pool",
+            "(C) Beach by sea",
+            "(D) Outdoor swimming pool"
+        ],
+        "answer": "(D) Outdoor swimming pool",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "17:21-18:30"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What does the vlogger do before having fries?",
+        "candidates": [
+            "(A) Bask under the sun",
+            "(B) Eat a lobster roll with ketchup",
+            "(C) Have a rest",
+            "(D) Swim in the pool"
+        ],
+        "answer": "(D) Swim in the pool",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "21:00-21:20"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "Where is the vlogger at from 23:20-23:50?",
+        "candidates": [
+            "(A) Concert hall",
+            "(B) Gym",
+            "(C) Billiard hall",
+            "(D) Dining room"
+        ],
+        "answer": "(D) Dining room",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "23:20-23:50"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What does the dark-skinned man in the white robe do to the vlogger when the vlogger checks the outdoor fountain on the first evening?",
+        "candidates": [
+            "(A) Made a yes gesture to the vlogger",
+            "(B) Thumbs up to the vlogger",
+            "(C) Shake hands with the vlogger",
+            "(D) Give the vlogger a middle finger"
+        ],
+        "answer": "(B) Thumbs up to the vlogger",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "24:58-25:02"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What is the make of the white vehicle that is parked next to the car bearing the license plate number 77704?",
+        "candidates": [
+            "(A) Mercedes-Benz",
+            "(B) BMW",
+            "(C) Audi",
+            "(D) Rolls Royce"
+        ],
+        "answer": "(B) BMW",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "25:12-25:20"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What's inside the red box?",
+        "candidates": [
+            "(A) Nail polish",
+            "(B) Hand cream",
+            "(C) Foot gel",
+            "(D) Cleasing milk"
+        ],
+        "answer": "(C) Foot gel",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "26:30-26:35"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What happens from 10:00-20:00?",
+        "candidates": [
+            "(A) The vlogger introduces hotel staff, indoor swimming pool and beach swimming pool, and gets practical experiences",
+            "(B) The vlogger introduces  restaurant, indoor swimming pool and beach swimming pool, and gets practical experiences",
+            "(C) The vlogger introduces bathrooms, bedrooms, indoor swimming pools and beach swimming pools, and gets practical experiences",
+            "(D) The vlogger introduces gymnasium, indoor swimming pool and beach swimming pool, and gets practical experiences"
+        ],
+        "answer": "(C) The vlogger introduces bathrooms, bedrooms, indoor swimming pools and beach swimming pools, and gets practical experiences",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "10:00-20:00"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "Where does the vlogger have his second day breakfast?",
+        "candidates": [
+            "(A) In a lounge",
+            "(B) At a local restaurant",
+            "(C) At the dinning room",
+            "(D) In his room"
+        ],
+        "answer": "(D) In his room",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:37-28:29"
+    },
+    {
+        "video": "00000077",
+        "type": "selfmedia",
+        "question": "What is the text on the upper right corner of the video?",
+        "candidates": [
+            "(A) Play with me",
+            "(B) Walk with me",
+            "(C) Talk with me",
+            "(D) Sleep with me"
+        ],
+        "answer": "(B) Walk with me",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "22:00-22:00"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "Which of the two platforms are the vloggers standing on at the beginning of the video?",
+        "candidates": [
+            "(A) Platforms 6 and 7",
+            "(B) Platforms 5 and 4",
+            "(C) Platforms 10 and 11",
+            "(D) Platforms 8 and 9"
+        ],
+        "answer": "(D) Platforms 8 and 9",
+        "question_type": [
+            "key information retrieval",
+            "event understanding"
+        ],
+        "time_reference": "00:00-00:01"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "What is the first means of transportation the vloggers take when they come to China?",
+        "candidates": [
+            "(A) High-speed train",
+            "(B) Train",
+            "(C) Plane",
+            "(D) Subway"
+        ],
+        "answer": "(A) High-speed train",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:22-06:10"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "How does the vloggers leave the platform and go upstairs?",
+        "candidates": [
+            "(A) After they get off the high-speed train, they go pass the ticket gate, exiting the train station",
+            "(B) After they get off the high-speed train, they take the escalator and go pass the ticket gate, exiting the train station",
+            "(C) After they get off the high-speed train, they take the escalator, go upstairs and go pass the ticket gate, exiting the train station",
+            "(D) After they get off the high-speed train, they go upstairs and go pass the ticket gate, exiting the train station"
+        ],
+        "answer": "(D) After they get off the high-speed train, they go upstairs and go pass the ticket gate, exiting the train station",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "11:03-11:40"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "What means of transportation do the vloggers take after getting off the high-speed train?",
+        "candidates": [
+            "(A) Taxi",
+            "(B) Subway",
+            "(C) Train",
+            "(D) Bus"
+        ],
+        "answer": "(B) Subway",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "13:58-14:12"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "They eat ___ courses of meals, not including rice, in the restaurant",
+        "candidates": [
+            "(A) 4",
+            "(B) 3",
+            "(C) 5",
+            "(D) 2"
+        ],
+        "answer": "(C) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "15:58-24:10"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "After coming downstairs from the B1 floor of the mall, which booth do the vloggers stop in front of first?",
+        "candidates": [
+            "(A) Fried Rice Cake",
+            "(B) North Korean dagao",
+            "(C) Thailand milk tea",
+            "(D) Fried yogurt"
+        ],
+        "answer": "(B) North Korean dagao",
+        "question_type": [
+            "event understanding",
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "26:40-27:02"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "How many bubble waffle ice creams models are placed as exhibition in front of the bubble waffle booth?",
+        "candidates": [
+            "(A) 15",
+            "(B) 7",
+            "(C) 14",
+            "(D) 8"
+        ],
+        "answer": "(B) 7",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "27:31-27:33"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "How many arches are there on the overpass?",
+        "candidates": [
+            "(A) 1",
+            "(B) 4",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "answer": "(C) 2",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "31:13-31:57"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "After watching the acrobatic show, which restaurant do the vloggers go to?",
+        "candidates": [
+            "(A) KFC",
+            "(B) McDonald's",
+            "(C) Burger King",
+            "(D) Pizza Hut"
+        ],
+        "answer": "(B) McDonald's",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "35:20-36:37"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "What animal statue is under the Dong Men Ding Food Street sign?",
+        "candidates": [
+            "(A) Hawk",
+            "(B) Panda",
+            "(C) Tiger",
+            "(D) Lion"
+        ],
+        "answer": "(B) Panda",
+        "question_type": [
+            "entity recognition",
+            "key information retrieval"
+        ],
+        "time_reference": "37:50-37:52"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "What season do the vloggers visit the city?",
+        "candidates": [
+            "(A) Autumn",
+            "(B) Summer",
+            "(C) Spring",
+            "(D) Winter"
+        ],
+        "answer": "(D) Winter",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-38:51"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "The vloggers meet a man selling ___ in a cage that is wrapped in plastic",
+        "candidates": [
+            "(A) Chicken",
+            "(B) Cat",
+            "(C) Apple",
+            "(D) Ballon"
+        ],
+        "answer": "(B) Cat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "37:34-37:40"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "How many pieces are in the purple roll dish the vloggers shoot at the dinner?",
+        "candidates": [
+            "(A) 14",
+            "(B) 10",
+            "(C) 8",
+            "(D) 12"
+        ],
+        "answer": "(B) 10",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:57-17:58"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "How does one of the vlogger who wears hat eat the rice?",
+        "candidates": [
+            "(A) He pours the rice from a bowl onto a plate",
+            "(B) He scoops the rice from a pot into a bowl",
+            "(C) He poured the rice from a plate into a bowl",
+            "(D) He poures rice into the dish and stirs it"
+        ],
+        "answer": "(A) He pours the rice from a bowl onto a plate",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "18:56-19:00"
+    },
+    {
+        "video": "00000078",
+        "type": "selfmedia",
+        "question": "After they finish talking to the camera next to the B1 sign, what is written on the high-rise building where the camera turns to?",
+        "candidates": [
+            "(A) \"Happy Chinese New Year to everyone\" in Chinese",
+            "(B) \"Welcome to Dongguan and have a good time\" in Chinese",
+            "(C) \"Welcome to Shenzhen and have a good time\" in Chinese",
+            "(D) \"Happy Chinese New Year to all the people in the city\" in Chinese"
+        ],
+        "answer": "(D) \"Happy Chinese New Year to all the people in the city\" in Chinese",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "25:00-25:00"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "What are the props in the hands of the audience during the concert?",
+        "candidates": [
+            "(A) Yellow glow stick",
+            "(B) Yellow crown props",
+            "(C) Red crown props",
+            "(D) Blue glow stick"
+        ],
+        "answer": "(B) Yellow crown props",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-36:09"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "During the first song, do all members in BigBang dance and are there accompanying dancers?",
+        "candidates": [
+            "(A) They dance. There are accompanying dancers",
+            "(B) They do not dance. There are accompanying dancers",
+            "(C) They do not dance. There aren't accompanying dancers",
+            "(D) They dance. There aren't accompanying dancers"
+        ],
+        "answer": "(A) They dance. There are accompanying dancers",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:30-36:09"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "Who is the man appearing on the screen from 01:38-01:40?",
+        "candidates": [
+            "(A) Taeyang",
+            "(B) Seungri",
+            "(C) G-dragon",
+            "(D) T.O.P"
+        ],
+        "answer": "(A) Taeyang",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "01:38-01:40"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "Who performs a solo after Seungri does?",
+        "candidates": [
+            "(A) Taeyang",
+            "(B) G-dragon",
+            "(C) Daesung",
+            "(D) T.O.P"
+        ],
+        "answer": "(C) Daesung",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "13:32-13:55"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "Which two fingers does Seungri use to represent a gesture from 27:03-27:40?",
+        "candidates": [
+            "(A) Thumb and middle finger",
+            "(B) Thumb and ring finger",
+            "(C) Thumb and pinky",
+            "(D) Thumb and index finger"
+        ],
+        "answer": "(D) Thumb and index finger",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "27:03-27:40"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "Who does the vlogger see from the BigBang after the concert ends?",
+        "candidates": [
+            "(A) Daesung",
+            "(B) G-dragon",
+            "(C) Taeyang",
+            "(D) T.O.P"
+        ],
+        "answer": "(C) Taeyang",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "33:49-34:04"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "At the beginning of the concert, the screen on the stage shows the members of Big bang in sequence, but which member does not appear on the screen?",
+        "candidates": [
+            "(A) Daesung",
+            "(B) T.O.P",
+            "(C) G-dragon",
+            "(D) Taeyang"
+        ],
+        "answer": "(B) T.O.P",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:18-00:21"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "When performing the last song, who else are on the stage besides the five members?",
+        "candidates": [
+            "(A) The dancers",
+            "(B) The fans",
+            "(C) The band",
+            "(D) No one else"
+        ],
+        "answer": "(C) The band",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "05:00-05:51"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "Is there any Chinese character on the background wall of the vlogger's home? If so, which Chinese character is it?",
+        "candidates": [
+            "(A) There is Chinese character that means \"wolf\"",
+            "(B) There is Chinese character that means \"root\"",
+            "(C) There is Chinese character that means \"ruthless\"",
+            "(D) There is no Chinese character"
+        ],
+        "answer": "(A) There is Chinese character that means \"wolf\"",
+        "question_type": [
+            "event understanding",
+            "key information retrieval"
+        ],
+        "time_reference": "15:25-16:15"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "How many red stripes are there on the vlogger's black t-shirt?",
+        "candidates": [
+            "(A) 7",
+            "(B) 5",
+            "(C) 6",
+            "(D) 4"
+        ],
+        "answer": "(B) 5",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:39"
+    },
+    {
+        "video": "00000079",
+        "type": "selfmedia",
+        "question": "What is the relation beween Daesung and Kange Dae Sung?",
+        "candidates": [
+            "(A) They are team members",
+            "(B) They are different names for the same person",
+            "(C) They are fan and star",
+            "(D) They are employer and employee"
+        ],
+        "answer": "(A) They are team members",
+        "question_type": [
+            "key information retrieval",
+            "reasoning"
+        ],
+        "time_reference": "01:59-02:05"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What type is this vlog?",
+        "candidates": [
+            "(A) The hiking in the country",
+            "(B) The cooking in the country",
+            "(C) The travel around the country",
+            "(D) The adventure in the country"
+        ],
+        "answer": "(B) The cooking in the country",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:01-05:55"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What appears on the screen at the very beginning of the vedio?",
+        "candidates": [
+            "(A) The lake",
+            "(B) The mountain with green trees",
+            "(C) The prairie",
+            "(D) The snow mountain"
+        ],
+        "answer": "(D) The snow mountain",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:03-00:05"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What is the weather like at the very beginning of the video?",
+        "candidates": [
+            "(A) It snows",
+            "(B) It is a good day with bright sunshine",
+            "(C) It rains",
+            "(D) It is a bad day with strong wind"
+        ],
+        "answer": "(C) It rains",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:12-00:23"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "Which animal appears first in the video playing with the wood alone for the first time?",
+        "candidates": [
+            "(A) The cow",
+            "(B) The dog",
+            "(C) The tiger",
+            "(D) The duck"
+        ],
+        "answer": "(B) The dog",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "00:25-00:30"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What happens from 02:03-04:09?",
+        "candidates": [
+            "(A) The two people talk with each other, pick beech nut",
+            "(B) The two people cook and eat, talk with each other",
+            "(C) The two people pick beech nut, talk with each other, play with the dog",
+            "(D) The two people pick beech nut, play with the dog"
+        ],
+        "answer": "(D) The two people pick beech nut, play with the dog",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "02:03-04:09"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What happens from 04:49-06:20?",
+        "candidates": [
+            "(A) They gather the mint and put it into the iron bucket. The dog plays with a beech nut",
+            "(B) The couple gathers the fern and puts it into the iron bucket. The dog plays with a beech nut",
+            "(C) They gather the mint and put it into the iron bucket. The dog watches them",
+            "(D) The couple gathers the fern and puts it into the iron bucket. The dog watches them"
+        ],
+        "answer": "(D) The couple gathers the fern and puts it into the iron bucket. The dog watches them",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "04:49-06:20"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "Why do they go to the wooden cabin?",
+        "candidates": [
+            "(A) They go to the wooden cabin to find their son",
+            "(B) They go to the wooden cabin to cook",
+            "(C) They go to the wooden cabin to have a cup of tea",
+            "(D) They go to the wooden cabin to seek shelter from the rain"
+        ],
+        "answer": "(B) They go to the wooden cabin to cook",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "09:40-14:30"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What does the woman do first in the wooden carbin?",
+        "candidates": [
+            "(A) Decorate the wooden cabin with the fern",
+            "(B) Make the fire",
+            "(C) Clean the wooden cabin",
+            "(D) Cook the meal"
+        ],
+        "answer": "(C) Clean the wooden cabin",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:29-11:35"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What does the man do first in the wooden carbin?",
+        "candidates": [
+            "(A) Clean the wooden cabin",
+            "(B) Cook the meal",
+            "(C) Make the fire",
+            "(D) Decorate the wooden cabin with the fern"
+        ],
+        "answer": "(D) Decorate the wooden cabin with the fern",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:29-11:35"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What does the woman do after the man putting the first black pot on the fire?",
+        "candidates": [
+            "(A) She cuts up the firewood",
+            "(B) She cuts up the meat",
+            "(C) She cuts up the onion",
+            "(D) She cuts up tomato"
+        ],
+        "answer": "(B) She cuts up the meat",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "20:11-22:13"
+    },
+    {
+        "video": "00000080",
+        "type": "selfmedia",
+        "question": "What does the woman put into the pot at 43:08?",
+        "candidates": [
+            "(A) Carrot",
+            "(B) Coriander",
+            "(C) Tomato",
+            "(D) Pepper"
+        ],
+        "answer": "(B) Coriander",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "43:05-43:08"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "Which liquid is poured at the beginning of the video?",
+        "candidates": [
+            "(A) Water",
+            "(B) Tea",
+            "(C) Milk",
+            "(D) Coffee"
+        ],
+        "answer": "(C) Milk",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-00:02"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What does the the shop assistant do after assembling the ice cream machine?",
+        "candidates": [
+            "(A) Pour four glasses of water",
+            "(B) Open four glasses of water",
+            "(C) Pour four boxes of milk",
+            "(D) Open four boxes of milk"
+        ],
+        "answer": "(D) Open four boxes of milk",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:26-01:14"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What color shovels are used to scrape the liquid in the container?",
+        "candidates": [
+            "(A) Orange and red",
+            "(B) Red and white",
+            "(C) Orange and yellow",
+            "(D) Red and yellow"
+        ],
+        "answer": "(C) Orange and yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "02:39-02:50"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is in the pocket of the shop assistant's clothe?",
+        "candidates": [
+            "(A) A lollipop",
+            "(B) A pencil",
+            "(C) A protein bar",
+            "(D) A signature pen"
+        ],
+        "answer": "(D) A signature pen",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:26-04:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is the first non-flour substance the shop assistant put into the mixing bowl?",
+        "candidates": [
+            "(A) Milk",
+            "(B) Water",
+            "(C) Egg",
+            "(D) Butter"
+        ],
+        "answer": "(B) Water",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "05:58-06:43"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is the second non-flour substance the shop assistant put into the mixing bowl?",
+        "candidates": [
+            "(A) Milk",
+            "(B) Water",
+            "(C) Egg",
+            "(D) Butter"
+        ],
+        "answer": "(D) Butter",
+        "question_type": [
+            "event understanding",
+            "entity recognition"
+        ],
+        "time_reference": "09:38-10:10"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What does the shop assistant do before rolling matcha dough?",
+        "candidates": [
+            "(A) She puts matcha dough on the chopping board",
+            "(B) She puts matcha dough in a bag",
+            "(C) She puts matcha dough in the box",
+            "(D) She puts the dough in the refrigerator"
+        ],
+        "answer": "(B) She puts matcha dough in a bag",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "18:02-18:56"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "Where does the shop assistant put the rolling the dough?",
+        "candidates": [
+            "(A) She puts the dough in the refrigerator for refrigeration",
+            "(B) She puts the dough into the Taiyaki machine",
+            "(C) She puts the dough in a new bucket for later use",
+            "(D) She puts the dough on the chopping board for later use"
+        ],
+        "answer": "(A) She puts the dough in the refrigerator for refrigeration",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "19:20-20:52"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "How many Taiyaki cookies does the shop assistant cook?",
+        "candidates": [
+            "(A) 30",
+            "(B) 18",
+            "(C) 40",
+            "(D) 20"
+        ],
+        "answer": "(A) 30",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "27:00-27:05"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What does the shop assistant do after cooking the Taiyaki cookies?",
+        "candidates": [
+            "(A) She mixes cream and suger for ice cream",
+            "(B) She uses the machine to make Taiyaki",
+            "(C) She cleans up the stage",
+            "(D) She packs ingredients in containers"
+        ],
+        "answer": "(D) She packs ingredients in containers",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "27:40-28:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is the maximum number of Taiyaki can the machine cook at the same time?",
+        "candidates": [
+            "(A) 8",
+            "(B) 3",
+            "(C) 4",
+            "(D) 6"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "29:00-30:22"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "How many boxes of ingredients are on the stage when the shop assistant starts the build the Taiyaki ice cream?",
+        "candidates": [
+            "(A) 6",
+            "(B) 4",
+            "(C) 5",
+            "(D) 8"
+        ],
+        "answer": "(A) 6",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "30:50-31:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "How many Taiyaki ice creams does the shop assistant assemble in total?",
+        "candidates": [
+            "(A) 4",
+            "(B) 1",
+            "(C) 5",
+            "(D) 3"
+        ],
+        "answer": "(A) 4",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "31:35-35:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "Which store, the one next to the Taiyaki shop, opens before the Taiyaki shop does?",
+        "candidates": [
+            "(A) Supermarket",
+            "(B) Clothing store",
+            "(C) Cafe",
+            "(D) Bookshop"
+        ],
+        "answer": "(B) Clothing store",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "00:13-00:20"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is the video about?",
+        "candidates": [
+            "(A) This video mainly talks about the preparation work of Taiyaki store before the opening of the day, including (in time order) assembling the ice cream machine, making cookies with Taiyaki patterns and preparing ingredients for final Taiyaki ice cream",
+            "(B) This video mainly talks about the preparation work of Taiyaki store before the opening of the day, including (in time order) making cookies with Taiyaki patterns, assembling the ice cream machine, and preparing ingredients for final Taiyaki ice cream",
+            "(C) This video mainly talks about the preparation work of Taiyaki store before the opening of the day, including (in time order) making cookies with Taiyaki patterns, assembling the ice cream machine, making sauces and preparing ingredients for final Taiyaki ice cream",
+            "(D) This video mainly talks about the preparation work of Taiyaki store before the opening of the day, including (in time order) preparing ingredients for final Taiyaki ice cream, assembling the ice cream machine, and making cookies with Taiyaki patterns"
+        ],
+        "answer": "(A) This video mainly talks about the preparation work of Taiyaki store before the opening of the day, including (in time order) assembling the ice cream machine, making cookies with Taiyaki patterns and preparing ingredients for final Taiyaki ice cream",
+        "question_type": [
+            "summarization"
+        ],
+        "time_reference": "00:00-35:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What is the theme color of the Taiyaki shop?",
+        "candidates": [
+            "(A) Black",
+            "(B) Orange",
+            "(C) Red",
+            "(D) Green"
+        ],
+        "answer": "(B) Orange",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "00:13-02:05"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What does the shop assistant wear?",
+        "candidates": [
+            "(A) She wears a white mask, white gloves and an orange hat",
+            "(B) She wears a white mask, black gloves and an orange hat",
+            "(C) She wears a white mask, white gloves and a white hat",
+            "(D) She wears a black mask, white gloves and a orange hat"
+        ],
+        "answer": "(A) She wears a white mask, white gloves and an orange hat",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "01:45-03:30"
+    },
+    {
+        "video": "00000081",
+        "type": "selfmedia",
+        "question": "What's hanging on the back of the kitchen's wall?",
+        "candidates": [
+            "(A) Whiteboard, air conditioner, and clock",
+            "(B) Whiteboard and clock",
+            "(C) Blackboard, air conditioner, and clock",
+            "(D) Blackboard and clock"
+        ],
+        "answer": "(B) Whiteboard and clock",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "03:30-03:45"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the overall style of the video?",
+        "candidates": [
+            "(A) Relaxing",
+            "(B) Romantic",
+            "(C) Realistic",
+            "(D) Exciting"
+        ],
+        "answer": "(C) Realistic",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-37:34"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the color of the sticker on the vlogger's drink?",
+        "candidates": [
+            "(A) Black",
+            "(B) Yellow",
+            "(C) Green",
+            "(D) White"
+        ],
+        "answer": "(C) Green",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "17:20-17:50"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is on the vlogger's neck?",
+        "candidates": [
+            "(A) Scar",
+            "(B) Bandage",
+            "(C) Scarf",
+            "(D) Tattoo"
+        ],
+        "answer": "(D) Tattoo",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:00-37:34"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the camera initially facing in the video?",
+        "candidates": [
+            "(A) A painting",
+            "(B) A television",
+            "(C) A mirror",
+            "(D) A window"
+        ],
+        "answer": "(C) A mirror",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:33-02:22"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What might a passenger think about the vlogger from a third person perspective?",
+        "candidates": [
+            "(A) Strange. Because he talks to his phone",
+            "(B) Normal. Because he talks to himself",
+            "(C) Normal. Because he talks to his phone",
+            "(D) Strange. Because he talks to himself"
+        ],
+        "answer": "(C) Normal. Because he talks to his phone",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "00:00-37:34"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the hairstyle of the vlogger?",
+        "candidates": [
+            "(A) Dreadlocks",
+            "(B) Ponytail",
+            "(C) Mohawk",
+            "(D) Crew cut"
+        ],
+        "answer": "(A) Dreadlocks",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "04:15-04:15"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "How does the weather change?",
+        "candidates": [
+            "(A) Sunny to rainy",
+            "(B) Stormy to rainy",
+            "(C) Cloudy to sunny to rainy",
+            "(D) Rainy to sunny"
+        ],
+        "answer": "(A) Sunny to rainy",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-37:34"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the vlogger doing while the blue shirt man is ordering food at the fast food chain?",
+        "candidates": [
+            "(A) He is eating sandwiches",
+            "(B) He is ordering food",
+            "(C) He is using self-serve soda machines",
+            "(D) He is checking phone"
+        ],
+        "answer": "(C) He is using self-serve soda machines",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "07:40-07:40"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What color is vlogger's car?",
+        "candidates": [
+            "(A) White",
+            "(B) Black",
+            "(C) Green",
+            "(D) Blue"
+        ],
+        "answer": "(B) Black",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "08:04-08:04"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "Where does the vlogger do after finish eating the sandwiches?",
+        "candidates": [
+            "(A) Get work done in a coffee shop",
+            "(B) Work out in a gym",
+            "(C) Enjoy the sun outside the house",
+            "(D) Talk to the audience in the car"
+        ],
+        "answer": "(C) Enjoy the sun outside the house",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "10:05-10:13"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "Is there any underage person living in the vlogger's house?",
+        "candidates": [
+            "(A) Yes. At least one girl",
+            "(B) No",
+            "(C) Not information",
+            "(D) Yes. At least one boy"
+        ],
+        "answer": "(A) Yes. At least one girl",
+        "question_type": [
+            "reasoning",
+            "entity recognition"
+        ],
+        "time_reference": "10:32-10:37"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What evidence can be used to infer the vlog is filmed on two days?",
+        "candidates": [
+            "(A) The words written on the screen",
+            "(B) The difference in makeup on the vlogger's face",
+            "(C) The date on the vlogger's phone",
+            "(D) The sun changes to moon through the vlogger's sunglasses"
+        ],
+        "answer": "(D) The sun changes to moon through the vlogger's sunglasses",
+        "question_type": [
+            "entity recognition",
+            "reasoning",
+            "event understanding"
+        ],
+        "time_reference": "13:59-14:03"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What does the vlogger wear when he is on his way to the gym?",
+        "candidates": [
+            "(A) Tank top and shorts",
+            "(B) Suit and tie",
+            "(C) Hoodie and shorts",
+            "(D) Hoodie and sweatpants"
+        ],
+        "answer": "(D) Hoodie and sweatpants",
+        "question_type": [
+            "entity recognition",
+            "reasoning"
+        ],
+        "time_reference": "15:06-15:06"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What does the vlogger hold in the equipment room at the gym?",
+        "candidates": [
+            "(A) Basketball",
+            "(B) Protein bar",
+            "(C) Dumbbell",
+            "(D) Slippers"
+        ],
+        "answer": "(D) Slippers",
+        "question_type": [
+            "entity recognition",
+            "event understanding"
+        ],
+        "time_reference": "21:21-21:21"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What color shorts is the man wearing during the workout?",
+        "candidates": [
+            "(A) Black",
+            "(B) Sky blue",
+            "(C) Yellow",
+            "(D) Dark red"
+        ],
+        "answer": "(B) Sky blue",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "24:45-24:45"
+    },
+    {
+        "video": "00000082",
+        "type": "selfmedia",
+        "question": "What is the man primarily exercising today?",
+        "candidates": [
+            "(A) Core muscles",
+            "(B) Cardiovascular system",
+            "(C) Upper body",
+            "(D) Lower body"
+        ],
+        "answer": "(D) Lower body",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "22:45-27:30"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What is the colour of the Teacup map?",
+        "candidates": [
+            "(A) Yellow",
+            "(B) Pink",
+            "(C) White",
+            "(D) Grey"
+        ],
+        "answer": "(B) Pink",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "00:48-01:14"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What is the brand of the vlogger's scented candle?",
+        "candidates": [
+            "(A) London",
+            "(B) Cire Trudon",
+            "(C) Diptyque",
+            "(D) Jo Malone"
+        ],
+        "answer": "(D) Jo Malone",
+        "question_type": [
+            "key information retrieval",
+            "entity recognition"
+        ],
+        "time_reference": "01:15-01:26"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How many flowers does the vlogger put in the cylindrical bottle?",
+        "candidates": [
+            "(A) Two",
+            "(B) One",
+            "(C) Four",
+            "(D) Three"
+        ],
+        "answer": "(C) Four",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "09:20-10:05"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "Why does the vlogger take the flowers out of the bottle?",
+        "candidates": [
+            "(A) She doesn't like these flowers any more",
+            "(B) The flowers are dying",
+            "(C) She wants to replace it with some new flowers",
+            "(D) She wants to divide the flowers according to species"
+        ],
+        "answer": "(D) She wants to divide the flowers according to species",
+        "question_type": [
+            "reasoning"
+        ],
+        "time_reference": "09:20-10:05"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What does the vlogger do from 00:00-14:00?",
+        "candidates": [
+            "(A) She gets up, cooks her breakfast and goes to the gym",
+            "(B) She gets up, cooks her breakfast and goes back to sleep",
+            "(C) She gets up, cooks her breakfast and does some housework",
+            "(D) She gets up, does some housework and cooks her breakfast"
+        ],
+        "answer": "(C) She gets up, cooks her breakfast and does some housework",
+        "question_type": [
+            "summarization",
+            "temporal grounding"
+        ],
+        "time_reference": "00:00-14:00"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How many strips of bacon does the vlogger fry?",
+        "candidates": [
+            "(A) 3",
+            "(B) 1",
+            "(C) 4",
+            "(D) 2"
+        ],
+        "answer": "(C) 4",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "14:30-15:14"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "Why does the vlogger shake the white bag at 16:55-17:20?",
+        "candidates": [
+            "(A) To get the tomatoes mixed up with the seasoning",
+            "(B) To crash the ice",
+            "(C) To get the potatoes mixed up with the seasoning",
+            "(D) Just for fun"
+        ],
+        "answer": "(C) To get the potatoes mixed up with the seasoning",
+        "question_type": [
+            "reasoning",
+            "temporal grounding"
+        ],
+        "time_reference": "16:55-17:20"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How many pieces of sandwiche does the vlogger eat?",
+        "candidates": [
+            "(A) Two",
+            "(B) One",
+            "(C) Three",
+            "(D) All"
+        ],
+        "answer": "(A) Two",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "17:30-19:20"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What is the word on vlogger's ceramic cup?",
+        "candidates": [
+            "(A) Frozen",
+            "(B) Flower",
+            "(C) Blue",
+            "(D) Cup"
+        ],
+        "answer": "(A) Frozen",
+        "question_type": [
+            "key information retrieval"
+        ],
+        "time_reference": "19:30-19:40"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What colour of ink does the vlogger use to write first?",
+        "candidates": [
+            "(A) Blue",
+            "(B) Yellow",
+            "(C) Red",
+            "(D) Black"
+        ],
+        "answer": "(B) Yellow",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:00-20:20"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What does the vlogger do at 20:51?",
+        "candidates": [
+            "(A) Write a letter",
+            "(B) Clean the table",
+            "(C) Draw some trees",
+            "(D) Draw some flowers"
+        ],
+        "answer": "(D) Draw some flowers",
+        "question_type": [
+            "event understanding",
+            "temporal grounding"
+        ],
+        "time_reference": "20:30-20:00"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How many flowers does the vlogger draw?",
+        "candidates": [
+            "(A) Seven",
+            "(B) Nineteen",
+            "(C) Three",
+            "(D) Thirteen"
+        ],
+        "answer": "(B) Nineteen",
+        "question_type": [
+            "entity recognition"
+        ],
+        "time_reference": "20:25-22:30"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What's the time on the clock at 22:35?",
+        "candidates": [
+            "(A) 5:09",
+            "(B) 4:09",
+            "(C) 5:46",
+            "(D) 4:46"
+        ],
+        "answer": "(D) 4:46",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "22:35-22:35"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What does the vlogger do after doing some watercolor art?",
+        "candidates": [
+            "(A) Cook her dinner",
+            "(B) Take some rest",
+            "(C) Cook her lunch",
+            "(D) Post her picture on the internet"
+        ],
+        "answer": "(A) Cook her dinner",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "23:00-32:30"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How much water does the vlogger put in the bowl in 24:37?",
+        "candidates": [
+            "(A) Near 300ml",
+            "(B) Near 50ml",
+            "(C) Near 100ml",
+            "(D) Near 200ml"
+        ],
+        "answer": "(C) Near 100ml",
+        "question_type": [
+            "key information retrieval",
+            "temporal grounding"
+        ],
+        "time_reference": "24:37-24:07"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "How many spoonfuls of soup dose the vlogger put into the glass pot from 25:15-25:31?",
+        "candidates": [
+            "(A) 2",
+            "(B) 3",
+            "(C) 5",
+            "(D) 4"
+        ],
+        "answer": "(B) 3",
+        "question_type": [
+            "entity recognition",
+            "temporal grounding"
+        ],
+        "time_reference": "25:15-25:31"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What happens after the vlogger has her dinner?",
+        "candidates": [
+            "(A) She does some activity",
+            "(B) She watches TV",
+            "(C) She goes out",
+            "(D) It comes to the next day"
+        ],
+        "answer": "(D) It comes to the next day",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "32:30-34:20"
+    },
+    {
+        "video": "00000083",
+        "type": "selfmedia",
+        "question": "What is the category of this video?",
+        "candidates": [
+            "(A) A vlog of daliy life",
+            "(B) A vlog of housework",
+            "(C) A vlog of watercolor art",
+            "(D) A vlog of cook food"
+        ],
+        "answer": "(A) A vlog of daliy life",
+        "question_type": [
+            "event understanding"
+        ],
+        "time_reference": "00:00-35:34"
+    }
+]
