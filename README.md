@@ -7,7 +7,7 @@
 ## :fire: Updates
 
 - [x] **2025/09/26**:🔥🔥🔥 We release our VideoChat-R1.5 model at [Huggingface](https://huggingface.co/OpenGVLab/VideoChat-R1_5), [paper](https://arxiv.org/pdf/2509.21100), and eval code.
-- [x] **2025/09/22**:🔥🔥🔥 Our VideoChat-R1.5 is accepted by NIPs2025.
+- [x] **2025/09/22**: 🎉🎉🎉 Our VideoChat-R1.5 is accepted by NIPS2025.
 - [x] **2025/04/22**:🔥🔥🔥 We release our VideoChat-R1-caption at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
 - [x] **2025/04/14**:🔥🔥🔥 We release our VideoChat-R1 and  VideoChat-R1-thinking at [Huggingface](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e).
 - [x] **2025/04/10**:🔥🔥🔥 We release our VideoChat-R1 [paper](https://arxiv.org/abs/2504.06958) and code.
