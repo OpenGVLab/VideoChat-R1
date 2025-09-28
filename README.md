@@ -26,7 +26,7 @@ Across short-form & long-form videos, temporal grounding, video reasoning, and s
 We adopt multi-task joint RL to strengthen the model’s spatio-temporal perception and video reasoning capabilities.
 
 
-![alt text](perception.png)
+![alt text](perception.jpg)
 
 During the inference process, we use the Region of Interest strategy which allows the model to gradually find the video interval of interest. By using multi-step perception, model performance increases with the number of perceptions.
 
