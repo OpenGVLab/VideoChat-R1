@@ -1,5 +1,5 @@
 
-# VideoChat-R1 & VideoChat-R1.5: Spatio-Temporal RL for Video Perception and Reasoning
+# VideoChat-R1 & -R1.5: Spatio-Temporal RL for Video Perception and Reasoning
 
 
 
