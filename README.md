@@ -17,22 +17,21 @@
 
 ![alt text](sotas.png)
 
-Across short-form & long-form videos, temporal grounding, video reasoning, and spatio-temporal perception, the model delivers consistently stronger results
+Across short-form & long-form videos, temporal grounding, video reasoning, and spatio-temporal perception, the model delivers consistently stronger results.
 
 ## :parrot: Introduction
 
 ![alt text](framework.png)
 
-We adopt multi-task joint RL to strengthen the model’s spatio-temporal perception and video reasoning capabilities.
-
+We adopt multi-task joint RL to strengthen the model’s spatio-temporal perception and reasoning capabilities.
 
 ![alt text](perception.jpg)
 
-During the inference process, we use the Region of Interest strategy which allows the model to gradually find the video interval of interest. By using multi-step perception, model performance increases with the number of perceptions.
+During inference, we simulate hierarchical human attention to enable the model to progressively localize the Region of Interest (ROI) within input videos. This multi-step perception process ensures that the model's performance improves with each step.
 
 ## Demo & Inference
 
-Refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) to inference our model.
+Please refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) for the steps required to perform inference..
 
 ## Evaluation
 
@@ -48,8 +47,7 @@ See [training_scripts](training_scripts).
 If you find this project useful in your research, please consider cite:
 ```BibTeX
 @article{li2025videochatr1,
-  title={VideoChat-R1: Enhancing Spatio-Temporal
-Perception via Reinforcement Fine-Tuning},
+  title={VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning},
   author={Li, Xinhao and Yan, Ziang and Meng, Desen and Dong, Lu and Zeng, Xiangyu and He, Yinan and Wang, Yali and Qiao, Yu and Wang, Yi and Wang, Limin},
   journal={arXiv preprint arXiv:2504.06958},
   year={2025}
