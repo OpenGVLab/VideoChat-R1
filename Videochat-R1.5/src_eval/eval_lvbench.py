@@ -79,8 +79,7 @@ def inference(video_path, prompt, model, processor, max_new_tokens=2048, device=
                 {"type": "video", 
                 "video": video_path,
                 'key_time':pred_glue,
-                "total_pixels": 128*6 * 28 * 28, 
-                "min_pixels": 128 * 28 * 28,
+                "total_pixels": 128*108 * 28 * 28, 
                 },
                 {"type": "text", "text": prompt},
             ]
