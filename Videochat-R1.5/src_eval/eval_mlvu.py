@@ -200,9 +200,9 @@ def process_work_items(work_items, model_base, device, checkpoint_dir, num_percp
             
             video_path = item['video_path']
             if percption == num_percptions - 1 :
-                example_prompt = QA_THINK_GLUE.replace("[QUESTION]", item["problem"]["question"])
-            else:
                 example_prompt = QA.replace("[QUESTION]", item["problem"]["question"])
+            else:
+                example_prompt = QA_THINK_GLUE.replace("[QUESTION]", item["problem"]["question"])
             
             option = ''
             for ii, op in enumerate(item["problem"]["options"]):

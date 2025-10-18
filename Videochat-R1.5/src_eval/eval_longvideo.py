@@ -288,9 +288,9 @@ def process_work_items(work_items, model_base, device, checkpoint_dir, num_percp
             pre_prompt = f"This video's subtitles are listed below: \n{interleaved_prefix}.\n Select the best answer to the following multiple-choice question based on the video and the subtitles. "
             
             if percption == num_percptions - 1 :
-                example_prompt = pre_prompt + QA_THINK_GLUE.replace("[QUESTION]", item["problem"]["question"])
-            else:
                 example_prompt = pre_prompt + QA.replace("[QUESTION]", item["problem"]["question"])
+            else:
+                example_prompt = pre_prompt + QA_THINK_GLUE.replace("[QUESTION]", item["problem"]["question"])
             
             # example_prompt = pre_prompt +  QA_THINK.replace("[QUESTION]", item["problem"]["question"])
             
